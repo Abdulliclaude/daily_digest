@@ -59,6 +59,24 @@ digest = json.loads(raw)
 
 (DIGEST_DIR / f"digest_{date_str}.json").write_text(json.dumps(digest, indent=2))
 
+# Inject digest into web/index.html as window.__DIGEST__ for static hosting
+html_path = pathlib.Path("web/index.html")
+if html_path.exists():
+    html = html_path.read_text()
+    marker = "// Fallback: embedded data injected by the server or static build"
+    injection = f"window.__DIGEST__ = {json.dumps(digest)};\n      {marker}"
+    # Replace any previous injection + the marker line
+    import re
+    html = re.sub(
+        r"window\.__DIGEST__\s*=\s*\{.*?\};\s*\n(\s*)" + re.escape(marker),
+        injection,
+        html,
+        flags=re.DOTALL,
+    )
+    if "window.__DIGEST__" not in html:
+        html = html.replace(marker, injection)
+    html_path.write_text(html)
+
 out = []
 out.append("╔══════════════════════════════════════════════════════════════╗")
 out.append(f"║  DAILY DIGEST  ·  {date_str}  [AI-curated]              ║")
