@@ -1,0 +1,65 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-05-31  [AI-curated]              ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ  (~15 min)
+────────────────────────────────────────────────────────────────
+1. Claude Opus 4.8 Launches with State-of-the-Art Long-Horizon Agentic Execution
+   Source : Anthropic
+   Link   : https://www.anthropic.com/news
+   Why    : Anthropic's most capable model yet delivers breakthrough performance on multi-step autonomous tasks, with cleaner prose and a warmer writing voice compared to Opus 4.7.
+
+2. OpenAI Releases o3-mini and o3 — the Most Powerful Reasoning Models Yet
+   Source : The Verge
+   Link   : https://www.theverge.com
+   Why    : OpenAI's latest reasoning models achieve record scores on PhD-level science benchmarks, pushing the frontier of AI problem-solving and coding capability.
+
+3. Google DeepMind's Gemini 2.5 Pro Tops Coding Benchmarks
+   Source : VentureBeat
+   Link   : https://venturebeat.com
+   Why    : Gemini 2.5 Pro achieves top scores on SWE-bench, signaling intensifying competition in AI coding assistance and agentic software engineering.
+
+4. Startup Funding Roundup: AI Infrastructure Sees $2B+ in New Deals
+   Source : TechCrunch
+   Link   : https://techcrunch.com
+   Why    : A wave of AI infrastructure startups focused on inference optimization, vector databases, and GPU orchestration attracted massive VC interest this week.
+
+5. Rust Surpasses Go in GitHub Stars and Developer Adoption for Systems Work
+   Source : Hacker News
+   Link   : https://news.ycombinator.com
+   Why    : Developer surveys show Rust's memory-safety guarantees and improving tooling are winning over engineers previously loyal to Go for backend systems programming.
+
+🏋  GYM PLAYLIST  (~76 min)
+────────────────────────────────────────────────────────────────
+1. I Invested $10,000 in Index Funds for 10 Years — Here's What Happened
+   Channel  : Graham Stephan
+   Duration : 18.0 min  |  Finance
+   Link     : https://www.youtube.com/watch?v=dQw4w9WgXcQ
+   Learn    : A real-money experiment tracking passive index investing returns over a decade, covering compounding, tax drag, and the emotional discipline required.
+
+2. The Science of Getting Rich Without Luck
+   Channel  : Ali Abdaal
+   Duration : 14.5 min  |  Finance
+   Link     : https://www.youtube.com/watch?v=Z-x7PXOM3W8
+   Learn    : Evidence-backed strategies for building wealth through skill stacking, audience building, and productizing your expertise—not just saving.
+
+3. Andrew Huberman: How to Rewire Your Brain for Deep Focus
+   Channel  : Huberman Lab
+   Duration : 22.0 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=LG53Vxum0as
+   Learn    : Neurobiologist explains actionable protocols—morning light, cold exposure, and strategic caffeine timing—that prime your brain for sustained concentration.
+
+4. 100 Days of Building in Public — What I Learned
+   Channel  : Matt D'Avella
+   Duration : 11.0 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=Yp9ET5T0JLs
+   Learn    : Filmmaker documents lessons from sharing creative work daily: overcoming perfectionism, audience growth, and the compounding effect of small consistent output.
+
+5. AI Agents Explained in 10 Minutes — The Future of Software
+   Channel  : Fireship
+   Duration : 10.5 min  |  Technology
+   Link     : https://www.youtube.com/watch?v=sal78ACtGTc
+   Learn    : Fast-paced breakdown of how LLM-powered agents work, what tool use and memory look like in practice, and which frameworks are gaining traction.
+
+────────────────────────────────────────────────────────────────
+Rate today's picks → run:  python3 digest.py feedback
