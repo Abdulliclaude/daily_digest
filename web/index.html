@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Digest</title>
+  <style>
+    /* ── Notion-style foundations ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:          #ffffff;
+      --bg-hover:    #f7f6f3;
+      --bg-card:     #ffffff;
+      --border:      #e9e8e4;
+      --text:        #37352f;
+      --text-muted:  #9b9a97;
+      --text-light:  #6b6a65;
+      --accent:      #2eaadc;
+      --accent-bg:   #e8f4fb;
+      --tag-finance: #4dabf7;
+      --tag-growth:  #69db7c;
+      --tag-tech:    #da77f2;
+      --tag-ai:      #ffa94d;
+      --shadow-sm:   0 1px 3px rgba(0,0,0,.06), 0 1px 2px rgba(0,0,0,.04);
+      --shadow-md:   0 4px 12px rgba(0,0,0,.08), 0 2px 4px rgba(0,0,0,.04);
+      --radius:      6px;
+      --font-sans:   ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+      --font-serif:  Georgia, "Times New Roman", serif;
+      --font-mono:   "SFMono-Regular", Menlo, Consolas, monospace;
+    }
+
+    [data-theme="dark"] {
+      --bg:         #191919;
+      --bg-hover:   #252525;
+      --bg-card:    #1f1f1f;
+      --border:     #2f2f2f;
+      --text:       #e6e3df;
+      --text-muted: #6b6b6b;
+      --text-light: #999;
+      --accent:     #4fc3f7;
+      --accent-bg:  #1a2e38;
+      --shadow-sm:  0 1px 3px rgba(0,0,0,.3);
+      --shadow-md:  0 4px 12px rgba(0,0,0,.4);
+    }
+
+    body {
+      font-family: var(--font-sans);
+      font-size: 15px;
+      line-height: 1.6;
+      color: var(--text);
+      background: var(--bg);
+      min-height: 100vh;
+      transition: background .2s, color .2s;
+    }
+
+    /* ── Top bar ── */
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 32px;
+      height: 52px;
+    }
+    .topbar-left { display: flex; align-items: center; gap: 10px; }
+    .notion-icon {
+      width: 28px; height: 28px;
+      background: var(--text);
+      border-radius: 4px;
+      display: flex; align-items: center; justify-content: center;
+      color: var(--bg);
+      font-weight: 800; font-size: 13px; font-family: var(--font-serif);
+      flex-shrink: 0;
+    }
+    .topbar-title {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      white-space: nowrap;
+    }
+    .topbar-right { display: flex; align-items: center; gap: 8px; }
+    .btn-icon {
+      width: 32px; height: 32px;
+      border: none; cursor: pointer;
+      background: transparent; border-radius: 4px;
+      color: var(--text-muted);
+      font-size: 17px; display: flex; align-items: center; justify-content: center;
+      transition: background .15s, color .15s;
+    }
+    .btn-icon:hover { background: var(--bg-hover); color: var(--text); }
+    .date-chip {
+      font-size: 12px; color: var(--text-muted);
+      background: var(--bg-hover);
+      padding: 3px 10px; border-radius: 20px;
+    }
+
+    /* ── Page layout ── */
+    .page {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 40px 80px;
+    }
+
+    /* ── Hero header ── */
+    .hero { margin-bottom: 36px; }
+    .hero-emoji { font-size: 56px; line-height: 1; margin-bottom: 16px; display: block; }
+    .hero-title {
+      font-family: var(--font-serif);
+      font-size: 36px; font-weight: 700;
+      color: var(--text); line-height: 1.2;
+      margin-bottom: 8px;
+    }
+    .hero-sub {
+      font-size: 14px; color: var(--text-muted);
+      display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    }
+    .hero-sub span { display: flex; align-items: center; gap: 4px; }
+    .dot { width: 4px; height: 4px; border-radius: 50%; background: var(--border); }
+
+    /* ── Divider ── */
+    .divider { height: 1px; background: var(--border); margin: 28px 0; }
+
+    /* ── Tabs ── */
+    .tabs {
+      display: flex; gap: 2px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 28px;
+    }
+    .tab {
+      padding: 8px 16px;
+      font-size: 14px; font-weight: 500;
+      color: var(--text-muted);
+      cursor: pointer; border: none; background: none;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      border-radius: 4px 4px 0 0;
+      transition: color .15s;
+      display: flex; align-items: center; gap: 6px;
+    }
+    .tab:hover { color: var(--text); background: var(--bg-hover); }
+    .tab.active {
+      color: var(--text);
+      border-bottom-color: var(--text);
+    }
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: .08em;
+      color: var(--text-muted);
+      margin-bottom: 14px;
+    }
+
+    /* ── Article card (morning) ── */
+    .article-card {
+      display: flex; align-items: flex-start; gap: 14px;
+      padding: 14px 16px;
+      border-radius: var(--radius);
+      margin-bottom: 4px;
+      border: 1px solid transparent;
+      transition: background .12s, border-color .12s;
+      text-decoration: none; color: inherit;
+      cursor: pointer;
+    }
+    .article-card:hover {
+      background: var(--bg-hover);
+      border-color: var(--border);
+    }
+    .article-num {
+      font-size: 13px; color: var(--text-muted);
+      font-weight: 500; min-width: 20px; padding-top: 1px;
+    }
+    .article-body { flex: 1; min-width: 0; }
+    .article-title {
+      font-size: 15px; font-weight: 600;
+      color: var(--text); line-height: 1.4; margin-bottom: 4px;
+    }
+    .article-card:hover .article-title { color: var(--accent); }
+    .article-summary { font-size: 13px; color: var(--text-light); line-height: 1.5; margin-bottom: 6px; }
+    .article-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .source-badge {
+      font-size: 11px; font-weight: 500; color: var(--text-muted);
+      background: var(--bg-hover);
+      padding: 2px 8px; border-radius: 4px;
+      border: 1px solid var(--border);
+    }
+    .article-arrow {
+      color: var(--text-muted); font-size: 14px;
+      padding-top: 1px; flex-shrink: 0;
+      opacity: 0; transition: opacity .12s;
+    }
+    .article-card:hover .article-arrow { opacity: 1; }
+
+    /* ── Video card (gym) ── */
+    .video-card {
+      display: flex; gap: 16px;
+      padding: 16px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      margin-bottom: 10px;
+      background: var(--bg-card);
+      box-shadow: var(--shadow-sm);
+      text-decoration: none; color: inherit;
+      transition: box-shadow .15s, transform .15s, border-color .15s;
+    }
+    .video-card:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-1px);
+      border-color: var(--accent);
+    }
+    .video-thumb {
+      width: 100px; height: 62px; border-radius: 4px;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0; position: relative; overflow: hidden;
+    }
+    .video-thumb-finance   { background: linear-gradient(135deg, #1a3a1a 0%, #0d4d0d 100%); }
+    .video-thumb-growth    { background: linear-gradient(135deg, #1a1a3a 0%, #0d0d4d 100%); }
+    .video-thumb-tech      { background: linear-gradient(135deg, #3a1a2e 0%, #4d0d3a 100%); }
+    .video-play {
+      width: 28px; height: 28px;
+      background: rgba(255,255,255,.9);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 10px; padding-left: 2px;
+      transition: transform .15s;
+    }
+    .video-card:hover .video-play { transform: scale(1.1); }
+    .video-body { flex: 1; min-width: 0; }
+    .video-title {
+      font-size: 14px; font-weight: 600;
+      color: var(--text); line-height: 1.4;
+      margin-bottom: 5px;
+    }
+    .video-card:hover .video-title { color: var(--accent); }
+    .video-summary { font-size: 12.5px; color: var(--text-light); line-height: 1.5; margin-bottom: 8px; }
+    .video-meta { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .channel-name { font-size: 12px; color: var(--text-muted); font-weight: 500; }
+    .duration-badge {
+      font-size: 11px; color: var(--text-muted);
+      background: var(--bg-hover);
+      padding: 1px 7px; border-radius: 10px;
+      border: 1px solid var(--border);
+    }
+    .cat-badge {
+      font-size: 11px; font-weight: 500;
+      padding: 1px 8px; border-radius: 10px;
+    }
+    .cat-Finance      { background: #e3f4fe; color: #1971c2; }
+    .cat-Personal\ Growth { background: #ebfbee; color: #2f9e44; }
+    .cat-Technology   { background: #f8f0fb; color: #862e9c; }
+    [data-theme="dark"] .cat-Finance      { background: #1a2e3f; color: #74c0fc; }
+    [data-theme="dark"] .cat-Personal\ Growth { background: #1a3025; color: #8ce99a; }
+    [data-theme="dark"] .cat-Technology   { background: #2e1a33; color: #da77f2; }
+
+    /* ── Gym totals bar ── */
+    .gym-stats {
+      display: flex; gap: 16px; flex-wrap: wrap;
+      padding: 14px 16px;
+      background: var(--bg-hover);
+      border-radius: var(--radius);
+      margin-bottom: 20px;
+      border: 1px solid var(--border);
+    }
+    .gym-stat { display: flex; flex-direction: column; gap: 1px; }
+    .gym-stat-val { font-size: 20px; font-weight: 700; color: var(--text); line-height: 1; }
+    .gym-stat-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .06em; }
+    .gym-sep { width: 1px; background: var(--border); }
+
+    /* ── Empty / loading ── */
+    .empty {
+      text-align: center; padding: 60px 20px;
+      color: var(--text-muted);
+    }
+    .empty-icon { font-size: 40px; margin-bottom: 12px; }
+    .empty p { font-size: 14px; }
+
+    /* ── Mode chip ── */
+    .mode-chip {
+      font-size: 11px; padding: 2px 8px;
+      border-radius: 10px; font-weight: 500;
+    }
+    .mode-live    { background: #ebfbee; color: #2f9e44; }
+    .mode-curated { background: #fff4e6; color: #e8590c; }
+    [data-theme="dark"] .mode-live    { background: #1a3025; color: #8ce99a; }
+    [data-theme="dark"] .mode-curated { background: #3d2800; color: #ffa94d; }
+
+    @media (max-width: 600px) {
+      .page { padding: 32px 20px 60px; }
+      .topbar { padding: 0 16px; }
+      .hero-title { font-size: 28px; }
+      .video-thumb { width: 76px; height: 50px; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Top bar -->
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="notion-icon">D</div>
+      <span class="topbar-title">Daily Digest</span>
+    </div>
+    <div class="topbar-right">
+      <span class="date-chip" id="datechip">—</span>
+      <button class="btn-icon" id="themeBtn" title="Toggle dark mode">☀️</button>
+    </div>
+  </div>
+
+  <!-- Page -->
+  <div class="page">
+    <!-- Hero -->
+    <div class="hero">
+      <span class="hero-emoji">📰</span>
+      <h1 class="hero-title">Your Daily Digest</h1>
+      <div class="hero-sub">
+        <span id="hero-date">Loading...</span>
+        <div class="dot"></div>
+        <span id="hero-counts">—</span>
+        <div class="dot"></div>
+        <span id="hero-mode"></span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <button class="tab active" data-tab="morning">☀️ Morning Read</button>
+      <button class="tab" data-tab="gym">🏋 Gym Playlist</button>
+    </div>
+
+    <!-- Morning panel -->
+    <div class="tab-panel active" id="panel-morning">
+      <div class="section-label">Articles · ~15 min reading</div>
+      <div id="morning-list"></div>
+    </div>
+
+    <!-- Gym panel -->
+    <div class="tab-panel" id="panel-gym">
+      <div id="gym-stats-bar" class="gym-stats" style="display:none"></div>
+      <div class="section-label">Videos to watch while you train</div>
+      <div id="gym-list"></div>
+    </div>
+  </div>
+
+  <script>
+    // ── Theme ──────────────────────────────────────────────────
+    const root = document.documentElement;
+    const themeBtn = document.getElementById('themeBtn');
+    let dark = localStorage.getItem('digest-theme') === 'dark';
+    function applyTheme() {
+      root.setAttribute('data-theme', dark ? 'dark' : 'light');
+      themeBtn.textContent = dark ? '🌙' : '☀️';
+      localStorage.setItem('digest-theme', dark ? 'dark' : 'light');
+    }
+    applyTheme();
+    themeBtn.onclick = () => { dark = !dark; applyTheme(); };
+
+    // ── Tabs ───────────────────────────────────────────────────
+    document.querySelectorAll('.tab').forEach(btn => {
+      btn.onclick = () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById('panel-' + btn.dataset.tab).classList.add('active');
+      };
+    });
+
+    // ── Helpers ────────────────────────────────────────────────
+    function esc(str) {
+      return String(str)
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+    function thumbClass(cat) {
+      if (!cat) return '';
+      const c = cat.toLowerCase();
+      if (c.includes('finance')) return 'video-thumb-finance';
+      if (c.includes('growth')) return 'video-thumb-growth';
+      return 'video-thumb-tech';
+    }
+    function catClass(cat) {
+      if (!cat) return '';
+      return 'cat-' + cat;
+    }
+
+    // ── Render ─────────────────────────────────────────────────
+    function render(digest) {
+      const date = new Date();
+      const opts = { weekday:'long', year:'numeric', month:'long', day:'numeric' };
+      const dateStr = date.toLocaleDateString('en-US', opts);
+      document.getElementById('datechip').textContent = date.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+      document.getElementById('hero-date').textContent = dateStr;
+
+      const morning = digest.morning || [];
+      const gym     = digest.gym     || [];
+      const mode    = digest.mode    || 'ai-curated';
+      const gymTotal = digest.gym_total_min || gym.reduce((s,v)=>s+(v.duration_min||0),0);
+
+      document.getElementById('hero-counts').textContent =
+        `${morning.length} articles · ${gym.length} videos`;
+
+      const modeEl = document.getElementById('hero-mode');
+      modeEl.innerHTML = `<span class="mode-chip ${mode === 'live' ? 'mode-live' : 'mode-curated'}">${mode === 'live' ? '🟢 Live' : '✨ AI-curated'}</span>`;
+
+      // Morning
+      const morningList = document.getElementById('morning-list');
+      if (!morning.length) {
+        morningList.innerHTML = `<div class="empty"><div class="empty-icon">📭</div><p>No articles loaded yet.<br>Run <code>python3 digest.py</code> to fetch.</p></div>`;
+      } else {
+        morningList.innerHTML = morning.map((a, i) => `
+          <a class="article-card" href="${esc(a.url)}" target="_blank" rel="noopener">
+            <span class="article-num">${i + 1}</span>
+            <div class="article-body">
+              <div class="article-title">${esc(a.title)}</div>
+              <div class="article-summary">${esc(a.summary)}</div>
+              <div class="article-meta">
+                <span class="source-badge">${esc(a.source)}</span>
+              </div>
+            </div>
+            <span class="article-arrow">↗</span>
+          </a>`).join('');
+      }
+
+      // Gym stats
+      const statsBar = document.getElementById('gym-stats-bar');
+      if (gym.length) {
+        const cats = {};
+        gym.forEach(v => { cats[v.category] = (cats[v.category]||0) + 1; });
+        statsBar.style.display = 'flex';
+        statsBar.innerHTML = `
+          <div class="gym-stat">
+            <span class="gym-stat-val">${Math.round(gymTotal)}</span>
+            <span class="gym-stat-label">Minutes</span>
+          </div>
+          <div class="gym-sep"></div>
+          <div class="gym-stat">
+            <span class="gym-stat-val">${gym.length}</span>
+            <span class="gym-stat-label">Videos</span>
+          </div>
+          <div class="gym-sep"></div>
+          ${Object.entries(cats).map(([k,v]) =>
+            `<div class="gym-stat"><span class="gym-stat-val">${v}</span><span class="gym-stat-label">${k}</span></div>`
+          ).join('<div class="gym-sep"></div>')}`;
+      }
+
+      // Gym videos
+      const gymList = document.getElementById('gym-list');
+      if (!gym.length) {
+        gymList.innerHTML = `<div class="empty"><div class="empty-icon">🎥</div><p>No videos loaded yet.</p></div>`;
+      } else {
+        gymList.innerHTML = gym.map(v => `
+          <a class="video-card" href="${esc(v.url)}" target="_blank" rel="noopener">
+            <div class="video-thumb ${thumbClass(v.category)}">
+              <div class="video-play">▶</div>
+            </div>
+            <div class="video-body">
+              <div class="video-title">${esc(v.title)}</div>
+              <div class="video-summary">${esc(v.summary)}</div>
+              <div class="video-meta">
+                <span class="channel-name">${esc(v.channel)}</span>
+                <span class="duration-badge">⏱ ${v.duration_min} min</span>
+                <span class="cat-badge ${catClass(v.category)}">${esc(v.category)}</span>
+              </div>
+            </div>
+          </a>`).join('');
+      }
+    }
+
+    // ── Load data ──────────────────────────────────────────────
+    // Try fetching from the server API first, then fallback to embedded data
+    async function loadDigest() {
+      // Try server endpoint
+      try {
+        const res = await fetch('/api/digest');
+        if (res.ok) { render(await res.json()); return; }
+      } catch (_) {}
+
+      // Fallback: embedded data injected by the server or static build
+      if (window.__DIGEST__) { render(window.__DIGEST__); return; }
+
+      // Nothing available
+      render({ morning: [], gym: [], mode: 'ai-curated' });
+    }
+
+    loadDigest();
+  </script>
+</body>
+</html>
