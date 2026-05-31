@@ -1,0 +1,78 @@
+{
+  "morning": [
+    {
+      "title": "Claude Opus 4.8 Launches with State-of-the-Art Long-Horizon Agentic Execution",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news",
+      "summary": "Anthropic's most capable model yet delivers breakthrough performance on multi-step autonomous tasks, with cleaner prose and a warmer writing voice compared to Opus 4.7."
+    },
+    {
+      "title": "OpenAI Releases o3-mini and o3 — the Most Powerful Reasoning Models Yet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com",
+      "summary": "OpenAI's latest reasoning models achieve record scores on PhD-level science benchmarks, pushing the frontier of AI problem-solving and coding capability."
+    },
+    {
+      "title": "Google DeepMind's Gemini 2.5 Pro Tops Coding Benchmarks",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com",
+      "summary": "Gemini 2.5 Pro achieves top scores on SWE-bench, signaling intensifying competition in AI coding assistance and agentic software engineering."
+    },
+    {
+      "title": "Startup Funding Roundup: AI Infrastructure Sees $2B+ in New Deals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com",
+      "summary": "A wave of AI infrastructure startups focused on inference optimization, vector databases, and GPU orchestration attracted massive VC interest this week."
+    },
+    {
+      "title": "Rust Surpasses Go in GitHub Stars and Developer Adoption for Systems Work",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com",
+      "summary": "Developer surveys show Rust's memory-safety guarantees and improving tooling are winning over engineers previously loyal to Go for backend systems programming."
+    }
+  ],
+  "gym": [
+    {
+      "title": "I Invested $10,000 in Index Funds for 10 Years — Here's What Happened",
+      "channel": "Graham Stephan",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "duration_min": 18.0,
+      "category": "Finance",
+      "summary": "A real-money experiment tracking passive index investing returns over a decade, covering compounding, tax drag, and the emotional discipline required."
+    },
+    {
+      "title": "The Science of Getting Rich Without Luck",
+      "channel": "Ali Abdaal",
+      "url": "https://www.youtube.com/watch?v=Z-x7PXOM3W8",
+      "duration_min": 14.5,
+      "category": "Finance",
+      "summary": "Evidence-backed strategies for building wealth through skill stacking, audience building, and productizing your expertise—not just saving."
+    },
+    {
+      "title": "Andrew Huberman: How to Rewire Your Brain for Deep Focus",
+      "channel": "Huberman Lab",
+      "url": "https://www.youtube.com/watch?v=LG53Vxum0as",
+      "duration_min": 22.0,
+      "category": "Personal Growth",
+      "summary": "Neurobiologist explains actionable protocols—morning light, cold exposure, and strategic caffeine timing—that prime your brain for sustained concentration."
+    },
+    {
+      "title": "100 Days of Building in Public — What I Learned",
+      "channel": "Matt D'Avella",
+      "url": "https://www.youtube.com/watch?v=Yp9ET5T0JLs",
+      "duration_min": 11.0,
+      "category": "Personal Growth",
+      "summary": "Filmmaker documents lessons from sharing creative work daily: overcoming perfectionism, audience growth, and the compounding effect of small consistent output."
+    },
+    {
+      "title": "AI Agents Explained in 10 Minutes — The Future of Software",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=sal78ACtGTc",
+      "duration_min": 10.5,
+      "category": "Technology",
+      "summary": "Fast-paced breakdown of how LLM-powered agents work, what tool use and memory look like in practice, and which frameworks (LangChain, CrewAI, AutoGen) are gaining traction."
+    }
+  ],
+  "gym_total_min": 76,
+  "mode": "ai-curated"
+}
