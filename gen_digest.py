@@ -1,85 +1,254 @@
 #!/usr/bin/env python3
-"""One-off script to generate today's digest using Claude's knowledge."""
-import anthropic, json, datetime, pathlib
+"""Generate daily digest from real scraped articles and YouTube channel feeds."""
+import anthropic, json, datetime, pathlib, urllib.request, xml.etree.ElementTree as ET
+import re
 
 DIGEST_DIR = pathlib.Path("digests")
 DIGEST_DIR.mkdir(exist_ok=True)
-
-client = anthropic.Anthropic()
 date_str = datetime.date.today().isoformat()
 
-PROMPT = """You are a personal daily content curator. Today is 2026-05-31.
+# ── YouTube channel IDs ───────────────────────────────────────────────────────
+YOUTUBE_CHANNELS = {
+    "Fireship":        "UCsBjURrPoezykLs9EqgamOA",
+    "NetworkChuck":    "UC9x0AN7BWHpCDHSm9NiJFJQ",
+    "Ali Abdaal":      "UCoOae5nYA7VqaXzerajD0lg",
+    "Graham Stephan":  "UCa-ckhlcp9ixDdiOF92FIyw",
+    "Huberman Lab":    "UCqMqzM6EbfQjFsGAJZFVzZQ",
+    "Matt D'Avella":   "UCJ24N4O0bP7LGLBDvye7oCA",
+    "Thomas Frank":    "UCG-KntY7aVnIGXYEBQvmBAQ",
+    "Andrei Jikh":     "UCGy7SkBjcIAgTiwkXEtPnYg",
+    "Theo (t3.gg)":    "UCbRP3rCbZ7hGcM4-9HxOw2Q",
+    "AI Explained":    "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "IBM Technology":  "UCKWaEZ-_VweaEx1j62do_vQ",
+}
 
-Generate a high-quality daily digest using your knowledge of recent real content.
+# ── RSS article feeds ─────────────────────────────────────────────────────────
+RSS_FEEDS = [
+    ("Hacker News",       "https://news.ycombinator.com/rss"),
+    ("The Verge",         "https://www.theverge.com/rss/index.xml"),
+    ("TechCrunch",        "https://techcrunch.com/feed/"),
+    ("Ars Technica",      "https://feeds.arstechnica.com/arstechnica/index"),
+    ("VentureBeat",       "https://venturebeat.com/feed/"),
+    ("MIT Tech Review",   "https://www.technologyreview.com/feed/"),
+    ("Wired",             "https://www.wired.com/feed/rss"),
+    ("IBM Research Blog", "https://research.ibm.com/blog/feed"),
+    ("IBM Developer",     "https://developer.ibm.com/blogs/feed/"),
+]
 
-### 1. MORNING TECH READ (~15 min)
-Pick 4-5 real articles/posts from the last week across:
-- AI/LLMs (model releases, research, agentic AI, tools)
-- Software engineering (frameworks, dev tools, languages)
-- Hardware / chips / infrastructure
-- Startups / VC funding
-- Cybersecurity or open source
+HN_IBM_SEARCH = "https://hn.algolia.com/api/v1/search?query=IBM&tags=story&hitsPerPage=8"
+HN_TOP        = "https://hacker-news.firebaseio.com/v0/topstories.json"
+HN_ITEM       = "https://hacker-news.firebaseio.com/v0/item/{}.json"
 
-Use real URLs where you know them confidently; otherwise use the publication's homepage.
 
-### 2. GYM PLAYLIST (~30-40 min total)
-Pick 4-6 real YouTube videos (8-30 min each) from well-known creators:
-- Finance: Graham Stephan, Andrei Jikh, Two Cents, The Plain Bagel, Minority Mindset, Erin Talks Money
-- Personal Growth: Huberman Lab, Ali Abdaal, Matt D'Avella, Thomas Frank
-- Technology/AI: Fireship, Theo (t3.gg), NetworkChuck, AI Explained, Andrej Karpathy
+def fetch_url(url, timeout=12):
+    try:
+        req = urllib.request.Request(
+            url, headers={"User-Agent": "Mozilla/5.0 DailyDigestBot/2.0"}
+        )
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read().decode("utf-8", errors="replace")
+    except Exception as e:
+        print(f"  ✗ {url[:60]}: {e}")
+        return None
 
-Target total: 30-40 min. Pick real, specific videos.
 
-Return ONLY valid JSON with no markdown fences:
-{
+def strip_html(text):
+    return re.sub(r"<[^>]+>", " ", text or "").strip()
+
+
+def fetch_rss(source, url):
+    raw = fetch_url(url)
+    if not raw:
+        return []
+    items = []
+    try:
+        root = ET.fromstring(raw)
+        ns = {"atom": "http://www.w3.org/2005/Atom",
+              "media": "http://search.yahoo.com/mrss/"}
+        entries = root.findall(".//item") or \
+                  root.findall("atom:entry", ns) or \
+                  root.findall(".//entry")
+        for e in entries[:6]:
+            title = (e.findtext("title") or e.findtext("atom:title", namespaces=ns) or "").strip()
+            link  = (e.findtext("link")  or "").strip()
+            if not link:
+                el = e.find("{http://www.w3.org/2005/Atom}link") or e.find("link")
+                link = (el.get("href","") if el is not None else "").strip()
+            desc = strip_html(
+                e.findtext("description") or
+                e.findtext("{http://www.w3.org/2005/Atom}summary") or ""
+            )[:250]
+            if title and link:
+                items.append({"title": title, "source": source, "url": link, "snippet": desc})
+    except Exception as ex:
+        print(f"  ✗ parse {source}: {ex}")
+    return items
+
+
+def fetch_hn_top(n=10):
+    raw = fetch_url(HN_TOP)
+    if not raw:
+        return []
+    ids = json.loads(raw)[:n]
+    items = []
+    for sid in ids:
+        d = fetch_url(HN_ITEM.format(sid))
+        if not d:
+            continue
+        story = json.loads(d)
+        if story.get("url") and story.get("title"):
+            items.append({"title": story["title"], "source": "Hacker News",
+                          "url": story["url"], "snippet": ""})
+    return items
+
+
+def fetch_hn_ibm():
+    raw = fetch_url(HN_IBM_SEARCH)
+    if not raw:
+        return []
+    try:
+        hits = json.loads(raw).get("hits", [])
+        return [{"title": h.get("title",""), "source": "Hacker News (IBM)",
+                 "url": h.get("url") or f"https://news.ycombinator.com/item?id={h.get('objectID')}",
+                 "snippet": ""} for h in hits if h.get("title")]
+    except:
+        return []
+
+
+def fetch_youtube_channel(name, cid):
+    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
+    raw = fetch_url(url)
+    if not raw:
+        return []
+    videos = []
+    try:
+        root = ET.fromstring(raw)
+        ns = {"atom":  "http://www.w3.org/2005/Atom",
+              "media": "http://search.yahoo.com/mrss/",
+              "yt":    "http://www.youtube.com/xml/schemas/2015"}
+        for entry in root.findall("atom:entry", ns)[:4]:
+            title  = (entry.findtext("atom:title",   namespaces=ns) or "").strip()
+            vid_id = (entry.findtext("yt:videoId",   namespaces=ns) or "").strip()
+            desc_el = entry.find("media:group/media:description", ns)
+            desc   = strip_html(desc_el.text if desc_el is not None else "")[:200]
+            if title and vid_id:
+                videos.append({"title": title, "channel": name,
+                                "url": f"https://www.youtube.com/watch?v={vid_id}",
+                                "snippet": desc})
+    except Exception as e:
+        print(f"  ✗ YT parse {name}: {e}")
+    return videos
+
+
+# ── Scrape ────────────────────────────────────────────────────────────────────
+print("Fetching HN top stories...")
+hn_top = fetch_hn_top(15)
+print(f"  {len(hn_top)} stories")
+
+print("Fetching RSS feeds...")
+rss_articles = []
+for name, url in RSS_FEEDS:
+    got = fetch_rss(name, url)
+    print(f"  {name}: {len(got)} articles")
+    rss_articles.extend(got)
+
+print("Searching HN for IBM...")
+ibm_stories = fetch_hn_ibm()
+print(f"  {len(ibm_stories)} IBM stories")
+
+print("Fetching YouTube channels...")
+all_videos = []
+for name, cid in YOUTUBE_CHANNELS.items():
+    got = fetch_youtube_channel(name, cid)
+    print(f"  {name}: {len(got)} videos")
+    all_videos.extend(got)
+
+# ── Build prompt ──────────────────────────────────────────────────────────────
+def fmt_articles(items):
+    return "\n".join(f"• [{a['source']}] {a['title']}\n  URL: {a['url']}\n  Snippet: {a['snippet']}" for a in items)
+
+def fmt_videos(items):
+    return "\n".join(f"• [{v['channel']}] {v['title']}\n  URL: {v['url']}\n  Snippet: {v['snippet'][:120]}" for v in items)
+
+articles_block = fmt_articles(rss_articles[:35] + hn_top[:10])
+ibm_block      = fmt_articles(ibm_stories[:8])
+videos_block   = fmt_videos(all_videos)
+
+fallback_note = ""
+if not rss_articles and not hn_top:
+    fallback_note = "NOTE: Live fetching failed. Use your knowledge of recent (last 7 days) tech stories with real publisher URLs (not homepages)."
+
+PROMPT = f"""You are a personal daily content curator. Today is {date_str}.
+
+{fallback_note}
+
+## REAL TECH ARTICLES FETCHED TODAY
+{articles_block or "(fetch failed — see fallback note)"}
+
+## IBM-SPECIFIC STORIES (user writes about IBM on LinkedIn daily)
+{ibm_block or "(none fetched — include 1 real IBM story: watsonx, IBM Cloud, IBM Research, consulting, or AI)"}
+
+## REAL YOUTUBE VIDEOS FROM SUBSCRIBED CHANNELS
+{videos_block or "(fetch failed — see fallback note)"}
+
+### Curation rules:
+1. MORNING READ: pick the 4-5 most insightful, specific articles. Prioritise AI breakthroughs, engineering depth, startup funding, and IBM. Always include at least 1 IBM item. Use the EXACT URLs from the list above — never use a homepage URL like techcrunch.com.
+2. GYM PLAYLIST: pick 4-6 videos totalling 30-45 min. Balance: 2 Finance, 2 Personal Growth, 2 Technology. Use ONLY URLs from the list above — never invent a YouTube URL. Estimate realistic durations (8–20 min) if unknown.
+3. Summaries must be one crisp sentence explaining the specific insight or takeaway.
+
+Return ONLY valid JSON, no markdown fences:
+{{
   "morning": [
-    {"title": "...", "source": "...", "url": "...", "summary": "One sentence why it matters."}
+    {{"title": "...", "source": "...", "url": "EXACT URL FROM LIST", "summary": "One sentence."}}
   ],
   "gym": [
-    {"title": "...", "channel": "...", "url": "https://www.youtube.com/watch?v=...",
+    {{"title": "...", "channel": "...", "url": "https://www.youtube.com/watch?v=REAL_ID",
      "duration_min": 12.5, "category": "Finance|Personal Growth|Technology",
-     "summary": "One sentence what you learn."}
+     "summary": "One sentence."}}
   ],
   "gym_total_min": 37,
-  "mode": "ai-curated"
-}"""
+  "mode": "live"
+}}"""
 
+# ── Call Claude ───────────────────────────────────────────────────────────────
+print("Calling Claude for curation...")
+client = anthropic.Anthropic()
 response = client.messages.create(
-    model="claude-sonnet-4-6",
-    max_tokens=2500,
+    model="claude-opus-4-8",
+    max_tokens=3000,
     messages=[{"role": "user", "content": PROMPT}],
 )
 
 raw = response.content[0].text.strip()
 if raw.startswith("```"):
-    lines = raw.split("\n")
-    raw = "\n".join(lines[1:]).rsplit("```", 1)[0]
+    raw = "\n".join(raw.split("\n")[1:]).rsplit("```", 1)[0]
 
 digest = json.loads(raw)
 
+# ── Save JSON ─────────────────────────────────────────────────────────────────
 (DIGEST_DIR / f"digest_{date_str}.json").write_text(json.dumps(digest, indent=2))
 
-# Inject digest into web/index.html as window.__DIGEST__ for static hosting
+# ── Inject into index.html ────────────────────────────────────────────────────
 html_path = pathlib.Path("index.html")
 if html_path.exists():
     html = html_path.read_text()
     marker = "// Fallback: embedded data injected by the server or static build"
     injection = f"window.__DIGEST__ = {json.dumps(digest)};\n      {marker}"
-    # Replace any previous injection + the marker line
-    import re
     html = re.sub(
         r"window\.__DIGEST__\s*=\s*\{.*?\};\s*\n(\s*)" + re.escape(marker),
-        injection,
+        lambda m: injection,
         html,
         flags=re.DOTALL,
     )
     if "window.__DIGEST__" not in html:
         html = html.replace(marker, injection)
     html_path.write_text(html)
+    print("Injected digest into index.html")
 
+# ── Render text ───────────────────────────────────────────────────────────────
 out = []
 out.append("╔══════════════════════════════════════════════════════════════╗")
-out.append(f"║  DAILY DIGEST  ·  {date_str}  [AI-curated]              ║")
+out.append(f"║  DAILY DIGEST  ·  {date_str}  [{digest.get('mode','live')}]              ║")
 out.append("╚══════════════════════════════════════════════════════════════╝\n")
 out.append("☀  MORNING READ  (~15 min)")
 out.append("─" * 64)
