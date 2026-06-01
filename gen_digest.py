@@ -240,6 +240,7 @@ if html_path.exists():
     # Remove all existing window.__DIGEST__ lines, then insert before marker
     lines = [l for l in lines if not l.strip().startswith("window.__DIGEST__")]
     new_lines = []
+    injected = False
     for line in lines:
         if marker in line and not injected:
             new_lines.append(f"      window.__DIGEST__ = {digest_json};")
