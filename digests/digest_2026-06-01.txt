@@ -7,27 +7,27 @@
 1. When AI Crosses the Line: The Matplotlib Incident
    Source : Hacker News
    Link   : https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096
-   Why    : The article discusses a recent incident where an AI model generated a plot that was mistaken for a real dataset, raising concerns about the potential for AI to cross the line between reality and fabrication.
+   Why    : The article discusses a recent incident where AI crossed the line, highlighting the potential risks and consequences of relying on artificial intelligence.
 
 2. An OpenAI model solved a famous math problem that stumped humans for 80 years
    Source : Ars Technica
    Link   : https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/
-   Why    : An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, demonstrating the potential for AI to make significant breakthroughs in mathematics.
+   Why    : An OpenAI model has made a groundbreaking achievement by solving a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics.
 
-3. IBM acquires Red Hat
+3. IBM CEO says there is 'no way' spending on AI data centers will pay off
    Source : Hacker News (IBM)
-   Link   : https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
-   Why    : IBM has acquired Red Hat, a leading provider of open-source software solutions, in a move to create a leading hybrid cloud provider.
+   Link   : https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   Why    : IBM's CEO expressed skepticism about the financial viability of investing in AI data centers, sparking debate about the future of AI infrastructure.
 
 4. Strava declares war on scrapers ahead of IPO
    Source : TechCrunch
    Link   : https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
-   Why    : Strava has declared war on scrapers ahead of its initial public offering, highlighting the importance of data protection and security for companies preparing to go public.
+   Why    : Strava is taking measures to prevent data scraping ahead of its IPO, highlighting the importance of data protection and security in the tech industry.
 
 5. Unastella, a South Korean rocket startup that launched from home, raises $24M
    Source : TechCrunch
    Link   : https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
-   Why    : Unastella, a South Korean rocket startup that launched from home, has raised $24M in funding, demonstrating the potential for innovative startups to secure significant investment.
+   Why    : Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest and investment in the private space industry.
 
 🏋  GYM PLAYLIST  (~37 min)
 ────────────────────────────────────────────────────────────────
@@ -35,37 +35,37 @@
    Channel  : Andrei Jikh
    Duration : 15 min  |  Finance
    Link     : https://www.youtube.com/watch?v=w8yTmTdF1Kw
-   Learn    : The bond market is experiencing a global crisis, with many markets experiencing significant disruptions and instability.
+   Learn    : Andrei Jikh discusses the current state of bond markets worldwide, highlighting the potential risks and implications for investors.
 
-2. Programmable Money Is The Future
-   Channel  : Andrei Jikh
-   Duration : 12 min  |  Finance
-   Link     : https://www.youtube.com/watch?v=QzeCyCfZsGA
-   Learn    : Programmable money is the future of finance, offering increased efficiency, security, and flexibility in financial transactions.
+2. I tried to optimize my life. It made it worse.
+   Channel  : Matt D'Avella
+   Duration : 12 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=-1Fhry-Mqks
+   Learn    : Matt D'Avella shares his experience of trying to optimize his life, only to find that it had a negative impact, highlighting the importance of balance and self-awareness.
 
-3. The ultimate guide to YouTube sponsorships and brand deals
-   Channel  : Thomas Frank
+3. The Science & Process of Healing from Grief
+   Channel  : Huberman Lab
    Duration : 10 min  |  Personal Growth
-   Link     : https://www.youtube.com/watch?v=A5oYUQ-pmQQ
-   Learn    : The video provides a comprehensive guide to securing YouTube sponsorships and brand deals, offering tips and strategies for creators to monetize their content.
+   Link     : https://www.youtube.com/watch?v=PlQyGIIAGNo
+   Learn    : The Huberman Lab discusses the science and process of healing from grief, providing insights and strategies for coping with loss.
 
-4. Freedom is your new currency
-   Channel  : Ali Abdaal
-   Duration : 8 min  |  Personal Growth
-   Link     : https://www.youtube.com/watch?v=L7xvwsg7WA8
-   Learn    : The video discusses the importance of freedom as a form of currency, highlighting the need for individuals to prioritize their autonomy and flexibility in their personal and professional lives.
-
-5. New Claude Opus 4.8: 15 Things You May’ve Missed
-   Channel  : AI Explained
+4. Google’s AI endgame is here… everything you missed at I/O 2026
+   Channel  : Fireship
    Duration : 12 min  |  Technology
-   Link     : https://www.youtube.com/watch?v=aJvP3nXWkwM
-   Learn    : The video provides an in-depth review of the new Claude Opus 4.8, highlighting 15 key features and updates that users may have missed.
+   Link     : https://www.youtube.com/watch?v=9OQ5vaYbGV0
+   Learn    : Fireship provides an overview of Google's AI endgame, highlighting key announcements and developments from I/O 2026.
 
-6. GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies
-   Channel  : AI Explained
+5. AI Is Creating a Massive Identity Problem
+   Channel  : Andrei Jikh
    Duration : 10 min  |  Technology
-   Link     : https://www.youtube.com/watch?v=jz0rNhfAKo8
-   Learn    : The video discusses the latest developments in the field of artificial intelligence, including the release of GPT 5.5 and DeepSeek V4, and the intensifying compute war between tech companies.
+   Link     : https://www.youtube.com/watch?v=xzbeCedpiAI
+   Learn    : Andrei Jikh discusses the potential risks and implications of AI on identity, highlighting the need for careful consideration and planning.
+
+6. Programmable Money Is The Future
+   Channel  : Andrei Jikh
+   Duration : 8 min  |  Finance
+   Link     : https://www.youtube.com/watch?v=QzeCyCfZsGA
+   Learn    : Andrei Jikh explores the concept of programmable money, discussing its potential benefits and implications for the financial industry.
 
 ────────────────────────────────────────────────────────────────
 Rate today's picks → run:  python3 digest.py feedback

@@ -4,31 +4,31 @@
       "title": "When AI Crosses the Line: The Matplotlib Incident",
       "source": "Hacker News",
       "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
-      "summary": "The article discusses a recent incident where an AI model generated a plot that was mistaken for a real dataset, raising concerns about the potential for AI to cross the line between reality and fabrication."
+      "summary": "The article discusses a recent incident where AI crossed the line, highlighting the potential risks and consequences of relying on artificial intelligence."
     },
     {
       "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-      "summary": "An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, demonstrating the potential for AI to make significant breakthroughs in mathematics."
+      "summary": "An OpenAI model has made a groundbreaking achievement by solving a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics."
     },
     {
-      "title": "IBM acquires Red Hat",
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
       "source": "Hacker News (IBM)",
-      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
-      "summary": "IBM has acquired Red Hat, a leading provider of open-source software solutions, in a move to create a leading hybrid cloud provider."
+      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "summary": "IBM's CEO expressed skepticism about the financial viability of investing in AI data centers, sparking debate about the future of AI infrastructure."
     },
     {
       "title": "Strava declares war on scrapers ahead of IPO",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-      "summary": "Strava has declared war on scrapers ahead of its initial public offering, highlighting the importance of data protection and security for companies preparing to go public."
+      "summary": "Strava is taking measures to prevent data scraping ahead of its IPO, highlighting the importance of data protection and security in the tech industry."
     },
     {
       "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-      "summary": "Unastella, a South Korean rocket startup that launched from home, has raised $24M in funding, demonstrating the potential for innovative startups to secure significant investment."
+      "summary": "Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest and investment in the private space industry."
     }
   ],
   "gym": [
@@ -38,47 +38,47 @@
       "url": "https://www.youtube.com/watch?v=w8yTmTdF1Kw",
       "duration_min": 15,
       "category": "Finance",
-      "summary": "The bond market is experiencing a global crisis, with many markets experiencing significant disruptions and instability."
+      "summary": "Andrei Jikh discusses the current state of bond markets worldwide, highlighting the potential risks and implications for investors."
+    },
+    {
+      "title": "I tried to optimize my life. It made it worse.",
+      "channel": "Matt D'Avella",
+      "url": "https://www.youtube.com/watch?v=-1Fhry-Mqks",
+      "duration_min": 12,
+      "category": "Personal Growth",
+      "summary": "Matt D'Avella shares his experience of trying to optimize his life, only to find that it had a negative impact, highlighting the importance of balance and self-awareness."
+    },
+    {
+      "title": "The Science & Process of Healing from Grief",
+      "channel": "Huberman Lab",
+      "url": "https://www.youtube.com/watch?v=PlQyGIIAGNo",
+      "duration_min": 10,
+      "category": "Personal Growth",
+      "summary": "The Huberman Lab discusses the science and process of healing from grief, providing insights and strategies for coping with loss."
+    },
+    {
+      "title": "Google\u2019s AI endgame is here\u2026 everything you missed at I/O 2026",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "duration_min": 12,
+      "category": "Technology",
+      "summary": "Fireship provides an overview of Google's AI endgame, highlighting key announcements and developments from I/O 2026."
+    },
+    {
+      "title": "AI Is Creating a Massive Identity Problem",
+      "channel": "Andrei Jikh",
+      "url": "https://www.youtube.com/watch?v=xzbeCedpiAI",
+      "duration_min": 10,
+      "category": "Technology",
+      "summary": "Andrei Jikh discusses the potential risks and implications of AI on identity, highlighting the need for careful consideration and planning."
     },
     {
       "title": "Programmable Money Is The Future",
       "channel": "Andrei Jikh",
       "url": "https://www.youtube.com/watch?v=QzeCyCfZsGA",
-      "duration_min": 12,
-      "category": "Finance",
-      "summary": "Programmable money is the future of finance, offering increased efficiency, security, and flexibility in financial transactions."
-    },
-    {
-      "title": "The ultimate guide to YouTube sponsorships and brand deals",
-      "channel": "Thomas Frank",
-      "url": "https://www.youtube.com/watch?v=A5oYUQ-pmQQ",
-      "duration_min": 10,
-      "category": "Personal Growth",
-      "summary": "The video provides a comprehensive guide to securing YouTube sponsorships and brand deals, offering tips and strategies for creators to monetize their content."
-    },
-    {
-      "title": "Freedom is your new currency",
-      "channel": "Ali Abdaal",
-      "url": "https://www.youtube.com/watch?v=L7xvwsg7WA8",
       "duration_min": 8,
-      "category": "Personal Growth",
-      "summary": "The video discusses the importance of freedom as a form of currency, highlighting the need for individuals to prioritize their autonomy and flexibility in their personal and professional lives."
-    },
-    {
-      "title": "New Claude Opus 4.8: 15 Things You May\u2019ve Missed",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-      "duration_min": 12,
-      "category": "Technology",
-      "summary": "The video provides an in-depth review of the new Claude Opus 4.8, highlighting 15 key features and updates that users may have missed."
-    },
-    {
-      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
-      "duration_min": 10,
-      "category": "Technology",
-      "summary": "The video discusses the latest developments in the field of artificial intelligence, including the release of GPT 5.5 and DeepSeek V4, and the intensifying compute war between tech companies."
+      "category": "Finance",
+      "summary": "Andrei Jikh explores the concept of programmable money, discussing its potential benefits and implications for the financial industry."
     }
   ],
   "gym_total_min": 37,
