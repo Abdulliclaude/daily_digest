@@ -1,0 +1,71 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-01  [live]              ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ  (~15 min)
+────────────────────────────────────────────────────────────────
+1. A 10 year old Xeon is all you need
+   Source : Hacker News
+   Link   : https://point.free/blog/gemma-4-on-a-2016-xeon/
+   Why    : A 10-year-old Xeon processor can still be sufficient for certain tasks, as demonstrated by running Gemma 4 on a 2016 Xeon.
+
+2. An OpenAI model solved a famous math problem that stumped humans for 80 years
+   Source : Ars Technica
+   Link   : https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/
+   Why    : An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics.
+
+3. IBM acquires Red Hat
+   Source : Hacker News (IBM)
+   Link   : https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   Why    : IBM has acquired Red Hat, creating a leading hybrid cloud provider and expanding IBM's cloud capabilities.
+
+4. Strava declares war on scrapers ahead of IPO
+   Source : TechCrunch
+   Link   : https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
+   Why    : Strava has announced measures to prevent scraping ahead of its IPO, highlighting the importance of data protection for the company.
+
+5. Unastella, a South Korean rocket startup that launched from home, raises $24M
+   Source : TechCrunch
+   Link   : https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
+   Why    : Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest in space technology and startup innovation.
+
+🏋  GYM PLAYLIST  (~37 min)
+────────────────────────────────────────────────────────────────
+1. Every Bond Market In The World Is Breaking
+   Channel  : Andrei Jikh
+   Duration : 15 min  |  Finance
+   Link     : https://www.youtube.com/watch?v=w8yTmTdF1Kw
+   Learn    : The global bond market is experiencing a significant downturn, with potential implications for the economy.
+
+2. I tried to optimize my life. It made it worse.
+   Channel  : Matt D'Avella
+   Duration : 12 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=-1Fhry-Mqks
+   Learn    : Optimizing one's life can sometimes have negative consequences, highlighting the importance of balance and self-awareness.
+
+3. Two Rival Bets on AGI: Google I/O Highlights
+   Channel  : AI Explained
+   Duration : 10 min  |  Technology
+   Link     : https://www.youtube.com/watch?v=o_av1b9rs2g
+   Learn    : The Google I/O conference highlighted rival bets on Artificial General Intelligence, showcasing the ongoing debate and advancements in the field.
+
+4. The ultimate guide to YouTube sponsorships and brand deals
+   Channel  : Thomas Frank
+   Duration : 12 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=A5oYUQ-pmQQ
+   Learn    : The video provides a comprehensive guide to YouTube sponsorships and brand deals, offering valuable insights for content creators.
+
+5. AI Is Creating a Massive Identity Problem
+   Channel  : Andrei Jikh
+   Duration : 10 min  |  Finance
+   Link     : https://www.youtube.com/watch?v=xzbeCedpiAI
+   Learn    : The increasing use of AI is creating significant identity-related issues, with potential consequences for individuals and society.
+
+6. Programmable Money Is The Future
+   Channel  : Andrei Jikh
+   Duration : 8 min  |  Finance
+   Link     : https://www.youtube.com/watch?v=QzeCyCfZsGA
+   Learn    : Programmable money is becoming increasingly important, with potential implications for the future of finance and commerce.
+
+────────────────────────────────────────────────────────────────
+Rate today's picks → run:  python3 digest.py feedback

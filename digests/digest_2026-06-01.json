@@ -1,0 +1,86 @@
+{
+  "morning": [
+    {
+      "title": "A 10 year old Xeon is all you need",
+      "source": "Hacker News",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "summary": "A 10-year-old Xeon processor can still be sufficient for certain tasks, as demonstrated by running Gemma 4 on a 2016 Xeon."
+    },
+    {
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "summary": "An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat, creating a leading hybrid cloud provider and expanding IBM's cloud capabilities."
+    },
+    {
+      "title": "Strava declares war on scrapers ahead of IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+      "summary": "Strava has announced measures to prevent scraping ahead of its IPO, highlighting the importance of data protection for the company."
+    },
+    {
+      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+      "summary": "Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest in space technology and startup innovation."
+    }
+  ],
+  "gym": [
+    {
+      "title": "Every Bond Market In The World Is Breaking",
+      "channel": "Andrei Jikh",
+      "url": "https://www.youtube.com/watch?v=w8yTmTdF1Kw",
+      "duration_min": 15,
+      "category": "Finance",
+      "summary": "The global bond market is experiencing a significant downturn, with potential implications for the economy."
+    },
+    {
+      "title": "I tried to optimize my life. It made it worse.",
+      "channel": "Matt D'Avella",
+      "url": "https://www.youtube.com/watch?v=-1Fhry-Mqks",
+      "duration_min": 12,
+      "category": "Personal Growth",
+      "summary": "Optimizing one's life can sometimes have negative consequences, highlighting the importance of balance and self-awareness."
+    },
+    {
+      "title": "Two Rival Bets on AGI: Google I/O Highlights",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "duration_min": 10,
+      "category": "Technology",
+      "summary": "The Google I/O conference highlighted rival bets on Artificial General Intelligence, showcasing the ongoing debate and advancements in the field."
+    },
+    {
+      "title": "The ultimate guide to YouTube sponsorships and brand deals",
+      "channel": "Thomas Frank",
+      "url": "https://www.youtube.com/watch?v=A5oYUQ-pmQQ",
+      "duration_min": 12,
+      "category": "Personal Growth",
+      "summary": "The video provides a comprehensive guide to YouTube sponsorships and brand deals, offering valuable insights for content creators."
+    },
+    {
+      "title": "AI Is Creating a Massive Identity Problem",
+      "channel": "Andrei Jikh",
+      "url": "https://www.youtube.com/watch?v=xzbeCedpiAI",
+      "duration_min": 10,
+      "category": "Finance",
+      "summary": "The increasing use of AI is creating significant identity-related issues, with potential consequences for individuals and society."
+    },
+    {
+      "title": "Programmable Money Is The Future",
+      "channel": "Andrei Jikh",
+      "url": "https://www.youtube.com/watch?v=QzeCyCfZsGA",
+      "duration_min": 8,
+      "category": "Finance",
+      "summary": "Programmable money is becoming increasingly important, with potential implications for the future of finance and commerce."
+    }
+  ],
+  "gym_total_min": 37,
+  "mode": "live"
+}
