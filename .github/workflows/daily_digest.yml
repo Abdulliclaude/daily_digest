@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate digest
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.DAILY_DIGEST_API_KEY }}
         run: python3 gen_digest.py
 
       - name: Commit and push updated digest + HTML
