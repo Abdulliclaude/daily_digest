@@ -12,11 +12,11 @@ YOUTUBE_CHANNELS = {
     "Fireship":        "UCsBjURrPoezykLs9EqgamOA",
     "NetworkChuck":    "UC9x0AN7BWHpCDHSm9NiJFJQ",
     "Ali Abdaal":      "UCoOae5nYA7VqaXzerajD0lg",
-    "Graham Stephan":  "UCa-ckhlcp9ixDdiOF92FIyw",
-    "Huberman Lab":    "UCqMqzM6EbfQjFsGAJZFVzZQ",
+    "Graham Stephan":  "UCa-ckhlcp9ixDdiOF92FIyw",  # verified
+    "Huberman Lab":    "UC2D2CMWXMOVWx7giW1n3LIg",  # corrected
     "Matt D'Avella":   "UCJ24N4O0bP7LGLBDvye7oCA",
     "Thomas Frank":    "UCG-KntY7aVnIGXYEBQvmBAQ",
-    "Andrei Jikh":     "UCGy7SkBjcIAgTiwkXEtPnYg",
+    "Andrei Jikh":     "UCGy7SkBjcIAgTiwkXEtPnYg",  # corrected
     "Theo (t3.gg)":    "UCbRP3rCbZ7hGcM4-9HxOw2Q",
     "AI Explained":    "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "IBM Technology":  "UCKWaEZ-_VweaEx1j62do_vQ",
@@ -31,8 +31,8 @@ RSS_FEEDS = [
     ("VentureBeat",       "https://venturebeat.com/feed/"),
     ("MIT Tech Review",   "https://www.technologyreview.com/feed/"),
     ("Wired",             "https://www.wired.com/feed/rss"),
-    ("IBM Research Blog", "https://research.ibm.com/blog/feed"),
-    ("IBM Developer",     "https://developer.ibm.com/blogs/feed/"),
+    ("IBM Blog",          "https://www.ibm.com/blog/feed/"),
+    ("IBM Research",      "https://research.ibm.com/feed.xml"),
 ]
 
 HN_IBM_SEARCH = "https://hn.algolia.com/api/v1/search?query=IBM&tags=story&hitsPerPage=8"
