@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Generate daily digest from real scraped articles and YouTube channel feeds."""
-import anthropic, json, datetime, pathlib, urllib.request, xml.etree.ElementTree as ET
-import re
+import google.generativeai as genai
+import json, datetime, pathlib, urllib.request, xml.etree.ElementTree as ET
+import re, os
 
 DIGEST_DIR = pathlib.Path("digests")
 DIGEST_DIR.mkdir(exist_ok=True)
@@ -210,16 +211,13 @@ Return ONLY valid JSON, no markdown fences:
   "mode": "live"
 }}"""
 
-# ── Call Claude ───────────────────────────────────────────────────────────────
-print("Calling Claude for curation...")
-client = anthropic.Anthropic()
-response = client.messages.create(
-    model="claude-opus-4-8",
-    max_tokens=3000,
-    messages=[{"role": "user", "content": PROMPT}],
-)
+# ── Call Gemini ───────────────────────────────────────────────────────────────
+print("Calling Gemini for curation...")
+genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+model = genai.GenerativeModel("gemini-1.5-flash")
+response = model.generate_content(PROMPT)
 
-raw = response.content[0].text.strip()
+raw = response.text.strip()
 if raw.startswith("```"):
     raw = "\n".join(raw.split("\n")[1:]).rsplit("```", 1)[0]
 
