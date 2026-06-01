@@ -216,7 +216,7 @@ Return ONLY valid JSON, no markdown fences:
 print("Calling Gemini for curation...")
 client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
 response = client.models.generate_content(
-    model="gemini-1.5-flash-8b",
+    model="gemini-2.0-flash-lite",
     contents=PROMPT,
 )
 
