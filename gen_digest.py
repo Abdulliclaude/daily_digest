@@ -166,13 +166,14 @@ for name, cid in YOUTUBE_CHANNELS.items():
 
 # ── Build prompt ──────────────────────────────────────────────────────────────
 def fmt_articles(items):
-    return "\n".join(f"• [{a['source']}] {a['title']}\n  URL: {a['url']}\n  Snippet: {a['snippet']}" for a in items)
+    return "\n".join(f"• [{a['source']}] {a['title']} | {a['url']}" for a in items)
 
 def fmt_videos(items):
-    return "\n".join(f"• [{v['channel']}] {v['title']}\n  URL: {v['url']}\n  Snippet: {v['snippet'][:120]}" for v in items)
+    return "\n".join(f"• [{v['channel']}] {v['title']} | {v['url']}" for v in items)
 
-articles_block = fmt_articles(rss_articles[:35] + hn_top[:10])
-ibm_block      = fmt_articles(ibm_stories[:8])
+# Keep prompt small: top 15 articles + 5 IBM + all videos (titles only)
+articles_block = fmt_articles((rss_articles + hn_top)[:15])
+ibm_block      = fmt_articles(ibm_stories[:5])
 videos_block   = fmt_videos(all_videos)
 
 fallback_note = ""
@@ -215,7 +216,7 @@ Return ONLY valid JSON, no markdown fences:
 print("Calling Gemini for curation...")
 client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
 response = client.models.generate_content(
-    model="gemini-2.0-flash",
+    model="gemini-1.5-flash-8b",
     contents=PROMPT,
 )
 
