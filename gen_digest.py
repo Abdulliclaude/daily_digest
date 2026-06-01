@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate daily digest from real scraped articles and YouTube channel feeds."""
-import google.generativeai as genai
+from google import genai
 import json, datetime, pathlib, urllib.request, xml.etree.ElementTree as ET
 import re, os
 
@@ -213,9 +213,11 @@ Return ONLY valid JSON, no markdown fences:
 
 # ── Call Gemini ───────────────────────────────────────────────────────────────
 print("Calling Gemini for curation...")
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
-model = genai.GenerativeModel("gemini-1.5-flash")
-response = model.generate_content(PROMPT)
+client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
+response = client.models.generate_content(
+    model="gemini-2.0-flash",
+    contents=PROMPT,
+)
 
 raw = response.text.strip()
 if raw.startswith("```"):
