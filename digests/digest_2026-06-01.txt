@@ -4,30 +4,30 @@
 
 ☀  MORNING READ  (~15 min)
 ────────────────────────────────────────────────────────────────
-1. A 10 year old Xeon is all you need
+1. When AI Crosses the Line: The Matplotlib Incident
    Source : Hacker News
-   Link   : https://point.free/blog/gemma-4-on-a-2016-xeon/
-   Why    : A 10-year-old Xeon processor can still be sufficient for certain tasks, as demonstrated by running Gemma 4 on a 2016 Xeon.
+   Link   : https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096
+   Why    : The article discusses a recent incident where an AI model generated a plot that was mistaken for a real dataset, raising concerns about the potential for AI to cross the line between reality and fabrication.
 
 2. An OpenAI model solved a famous math problem that stumped humans for 80 years
    Source : Ars Technica
    Link   : https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/
-   Why    : An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics.
+   Why    : An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, demonstrating the potential for AI to make significant breakthroughs in mathematics.
 
 3. IBM acquires Red Hat
    Source : Hacker News (IBM)
    Link   : https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
-   Why    : IBM has acquired Red Hat, creating a leading hybrid cloud provider and expanding IBM's cloud capabilities.
+   Why    : IBM has acquired Red Hat, a leading provider of open-source software solutions, in a move to create a leading hybrid cloud provider.
 
 4. Strava declares war on scrapers ahead of IPO
    Source : TechCrunch
    Link   : https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
-   Why    : Strava has announced measures to prevent scraping ahead of its IPO, highlighting the importance of data protection for the company.
+   Why    : Strava has declared war on scrapers ahead of its initial public offering, highlighting the importance of data protection and security for companies preparing to go public.
 
 5. Unastella, a South Korean rocket startup that launched from home, raises $24M
    Source : TechCrunch
    Link   : https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
-   Why    : Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest in space technology and startup innovation.
+   Why    : Unastella, a South Korean rocket startup that launched from home, has raised $24M in funding, demonstrating the potential for innovative startups to secure significant investment.
 
 🏋  GYM PLAYLIST  (~37 min)
 ────────────────────────────────────────────────────────────────
@@ -35,37 +35,37 @@
    Channel  : Andrei Jikh
    Duration : 15 min  |  Finance
    Link     : https://www.youtube.com/watch?v=w8yTmTdF1Kw
-   Learn    : The global bond market is experiencing a significant downturn, with potential implications for the economy.
+   Learn    : The bond market is experiencing a global crisis, with many markets experiencing significant disruptions and instability.
 
-2. I tried to optimize my life. It made it worse.
-   Channel  : Matt D'Avella
-   Duration : 12 min  |  Personal Growth
-   Link     : https://www.youtube.com/watch?v=-1Fhry-Mqks
-   Learn    : Optimizing one's life can sometimes have negative consequences, highlighting the importance of balance and self-awareness.
+2. Programmable Money Is The Future
+   Channel  : Andrei Jikh
+   Duration : 12 min  |  Finance
+   Link     : https://www.youtube.com/watch?v=QzeCyCfZsGA
+   Learn    : Programmable money is the future of finance, offering increased efficiency, security, and flexibility in financial transactions.
 
-3. Two Rival Bets on AGI: Google I/O Highlights
+3. The ultimate guide to YouTube sponsorships and brand deals
+   Channel  : Thomas Frank
+   Duration : 10 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=A5oYUQ-pmQQ
+   Learn    : The video provides a comprehensive guide to securing YouTube sponsorships and brand deals, offering tips and strategies for creators to monetize their content.
+
+4. Freedom is your new currency
+   Channel  : Ali Abdaal
+   Duration : 8 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=L7xvwsg7WA8
+   Learn    : The video discusses the importance of freedom as a form of currency, highlighting the need for individuals to prioritize their autonomy and flexibility in their personal and professional lives.
+
+5. New Claude Opus 4.8: 15 Things You May’ve Missed
+   Channel  : AI Explained
+   Duration : 12 min  |  Technology
+   Link     : https://www.youtube.com/watch?v=aJvP3nXWkwM
+   Learn    : The video provides an in-depth review of the new Claude Opus 4.8, highlighting 15 key features and updates that users may have missed.
+
+6. GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies
    Channel  : AI Explained
    Duration : 10 min  |  Technology
-   Link     : https://www.youtube.com/watch?v=o_av1b9rs2g
-   Learn    : The Google I/O conference highlighted rival bets on Artificial General Intelligence, showcasing the ongoing debate and advancements in the field.
-
-4. The ultimate guide to YouTube sponsorships and brand deals
-   Channel  : Thomas Frank
-   Duration : 12 min  |  Personal Growth
-   Link     : https://www.youtube.com/watch?v=A5oYUQ-pmQQ
-   Learn    : The video provides a comprehensive guide to YouTube sponsorships and brand deals, offering valuable insights for content creators.
-
-5. AI Is Creating a Massive Identity Problem
-   Channel  : Andrei Jikh
-   Duration : 10 min  |  Finance
-   Link     : https://www.youtube.com/watch?v=xzbeCedpiAI
-   Learn    : The increasing use of AI is creating significant identity-related issues, with potential consequences for individuals and society.
-
-6. Programmable Money Is The Future
-   Channel  : Andrei Jikh
-   Duration : 8 min  |  Finance
-   Link     : https://www.youtube.com/watch?v=QzeCyCfZsGA
-   Learn    : Programmable money is becoming increasingly important, with potential implications for the future of finance and commerce.
+   Link     : https://www.youtube.com/watch?v=jz0rNhfAKo8
+   Learn    : The video discusses the latest developments in the field of artificial intelligence, including the release of GPT 5.5 and DeepSeek V4, and the intensifying compute war between tech companies.
 
 ────────────────────────────────────────────────────────────────
 Rate today's picks → run:  python3 digest.py feedback

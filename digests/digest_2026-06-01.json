@@ -1,34 +1,34 @@
 {
   "morning": [
     {
-      "title": "A 10 year old Xeon is all you need",
+      "title": "When AI Crosses the Line: The Matplotlib Incident",
       "source": "Hacker News",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "summary": "A 10-year-old Xeon processor can still be sufficient for certain tasks, as demonstrated by running Gemma 4 on a 2016 Xeon."
+      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+      "summary": "The article discusses a recent incident where an AI model generated a plot that was mistaken for a real dataset, raising concerns about the potential for AI to cross the line between reality and fabrication."
     },
     {
       "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-      "summary": "An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics."
+      "summary": "An OpenAI model has solved a famous math problem that had gone unsolved for 80 years, demonstrating the potential for AI to make significant breakthroughs in mathematics."
     },
     {
       "title": "IBM acquires Red Hat",
       "source": "Hacker News (IBM)",
       "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
-      "summary": "IBM has acquired Red Hat, creating a leading hybrid cloud provider and expanding IBM's cloud capabilities."
+      "summary": "IBM has acquired Red Hat, a leading provider of open-source software solutions, in a move to create a leading hybrid cloud provider."
     },
     {
       "title": "Strava declares war on scrapers ahead of IPO",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-      "summary": "Strava has announced measures to prevent scraping ahead of its IPO, highlighting the importance of data protection for the company."
+      "summary": "Strava has declared war on scrapers ahead of its initial public offering, highlighting the importance of data protection and security for companies preparing to go public."
     },
     {
       "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-      "summary": "Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest in space technology and startup innovation."
+      "summary": "Unastella, a South Korean rocket startup that launched from home, has raised $24M in funding, demonstrating the potential for innovative startups to secure significant investment."
     }
   ],
   "gym": [
@@ -38,47 +38,47 @@
       "url": "https://www.youtube.com/watch?v=w8yTmTdF1Kw",
       "duration_min": 15,
       "category": "Finance",
-      "summary": "The global bond market is experiencing a significant downturn, with potential implications for the economy."
-    },
-    {
-      "title": "I tried to optimize my life. It made it worse.",
-      "channel": "Matt D'Avella",
-      "url": "https://www.youtube.com/watch?v=-1Fhry-Mqks",
-      "duration_min": 12,
-      "category": "Personal Growth",
-      "summary": "Optimizing one's life can sometimes have negative consequences, highlighting the importance of balance and self-awareness."
-    },
-    {
-      "title": "Two Rival Bets on AGI: Google I/O Highlights",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
-      "duration_min": 10,
-      "category": "Technology",
-      "summary": "The Google I/O conference highlighted rival bets on Artificial General Intelligence, showcasing the ongoing debate and advancements in the field."
-    },
-    {
-      "title": "The ultimate guide to YouTube sponsorships and brand deals",
-      "channel": "Thomas Frank",
-      "url": "https://www.youtube.com/watch?v=A5oYUQ-pmQQ",
-      "duration_min": 12,
-      "category": "Personal Growth",
-      "summary": "The video provides a comprehensive guide to YouTube sponsorships and brand deals, offering valuable insights for content creators."
-    },
-    {
-      "title": "AI Is Creating a Massive Identity Problem",
-      "channel": "Andrei Jikh",
-      "url": "https://www.youtube.com/watch?v=xzbeCedpiAI",
-      "duration_min": 10,
-      "category": "Finance",
-      "summary": "The increasing use of AI is creating significant identity-related issues, with potential consequences for individuals and society."
+      "summary": "The bond market is experiencing a global crisis, with many markets experiencing significant disruptions and instability."
     },
     {
       "title": "Programmable Money Is The Future",
       "channel": "Andrei Jikh",
       "url": "https://www.youtube.com/watch?v=QzeCyCfZsGA",
-      "duration_min": 8,
+      "duration_min": 12,
       "category": "Finance",
-      "summary": "Programmable money is becoming increasingly important, with potential implications for the future of finance and commerce."
+      "summary": "Programmable money is the future of finance, offering increased efficiency, security, and flexibility in financial transactions."
+    },
+    {
+      "title": "The ultimate guide to YouTube sponsorships and brand deals",
+      "channel": "Thomas Frank",
+      "url": "https://www.youtube.com/watch?v=A5oYUQ-pmQQ",
+      "duration_min": 10,
+      "category": "Personal Growth",
+      "summary": "The video provides a comprehensive guide to securing YouTube sponsorships and brand deals, offering tips and strategies for creators to monetize their content."
+    },
+    {
+      "title": "Freedom is your new currency",
+      "channel": "Ali Abdaal",
+      "url": "https://www.youtube.com/watch?v=L7xvwsg7WA8",
+      "duration_min": 8,
+      "category": "Personal Growth",
+      "summary": "The video discusses the importance of freedom as a form of currency, highlighting the need for individuals to prioritize their autonomy and flexibility in their personal and professional lives."
+    },
+    {
+      "title": "New Claude Opus 4.8: 15 Things You May\u2019ve Missed",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "duration_min": 12,
+      "category": "Technology",
+      "summary": "The video provides an in-depth review of the new Claude Opus 4.8, highlighting 15 key features and updates that users may have missed."
+    },
+    {
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "duration_min": 10,
+      "category": "Technology",
+      "summary": "The video discusses the latest developments in the field of artificial intelligence, including the release of GPT 5.5 and DeepSeek V4, and the intensifying compute war between tech companies."
     }
   ],
   "gym_total_min": 37,
