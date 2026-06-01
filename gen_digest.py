@@ -236,19 +236,15 @@ if html_path.exists():
     html = html_path.read_text()
     digest_json = json.dumps(digest)
     marker = "// Fallback: embedded data injected by the server or static build"
-    # Replace line-by-line: swap any existing window.__DIGEST__ line, or insert before marker
     lines = html.split("\n")
+    # Remove all existing window.__DIGEST__ lines, then insert before marker
+    lines = [l for l in lines if not l.strip().startswith("window.__DIGEST__")]
     new_lines = []
-    injected = False
     for line in lines:
-        if line.strip().startswith("window.__DIGEST__") and not injected:
+        if marker in line and not injected:
             new_lines.append(f"      window.__DIGEST__ = {digest_json};")
             injected = True
-        else:
-            if marker in line and not injected:
-                new_lines.append(f"      window.__DIGEST__ = {digest_json};")
-                injected = True
-            new_lines.append(line)
+        new_lines.append(line)
     html_path.write_text("\n".join(new_lines))
     print("Injected digest into index.html")
 
