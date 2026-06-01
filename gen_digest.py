@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate daily digest from real scraped articles and YouTube channel feeds."""
-from google import genai
+from groq import Groq
 import json, datetime, pathlib, urllib.request, xml.etree.ElementTree as ET
 import re, os
 
@@ -212,15 +212,16 @@ Return ONLY valid JSON, no markdown fences:
   "mode": "live"
 }}"""
 
-# ── Call Gemini ───────────────────────────────────────────────────────────────
-print("Calling Gemini for curation...")
-client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
-response = client.models.generate_content(
-    model="gemini-2.0-flash-lite",
-    contents=PROMPT,
+# ── Call Groq ─────────────────────────────────────────────────────────────────
+print("Calling Groq for curation...")
+client = Groq(api_key=os.environ["GROQ_API_KEY"])
+completion = client.chat.completions.create(
+    model="llama-3.3-70b-versatile",
+    messages=[{"role": "user", "content": PROMPT}],
+    max_tokens=2000,
 )
 
-raw = response.text.strip()
+raw = completion.choices[0].message.content.strip()
 if raw.startswith("```"):
     raw = "\n".join(raw.split("\n")[1:]).rsplit("```", 1)[0]
 

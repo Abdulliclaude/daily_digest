@@ -22,11 +22,11 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install google-genai
+        run: pip install groq
 
       - name: Generate digest
         env:
-          GOOGLE_API_KEY: ${{ secrets.DAILY_DIGEST_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python3 gen_digest.py
 
       - name: Commit and push updated digest + HTML
