@@ -60,7 +60,7 @@ digest = json.loads(raw)
 (DIGEST_DIR / f"digest_{date_str}.json").write_text(json.dumps(digest, indent=2))
 
 # Inject digest into web/index.html as window.__DIGEST__ for static hosting
-html_path = pathlib.Path("web/index.html")
+html_path = pathlib.Path("index.html")
 if html_path.exists():
     html = html_path.read_text()
     marker = "// Fallback: embedded data injected by the server or static build"
