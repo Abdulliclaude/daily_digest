@@ -1,34 +1,34 @@
 {
   "morning": [
     {
-      "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "source": "Hacker News",
-      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
-      "summary": "The article discusses a recent incident where AI crossed the line, highlighting the potential risks and consequences of relying on artificial intelligence."
-    },
-    {
-      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-      "summary": "An OpenAI model has made a groundbreaking achievement by solving a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics."
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "summary": "Florida has filed a lawsuit against OpenAI and its CEO Sam Altman, citing the risks associated with AI-powered technologies."
     },
     {
       "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
-      "source": "Hacker News (IBM)",
+      "source": "Business Insider",
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-      "summary": "IBM's CEO expressed skepticism about the financial viability of investing in AI data centers, sparking debate about the future of AI infrastructure."
+      "summary": "IBM's CEO has expressed skepticism about the financial returns on investing in AI data centers, stating that the spending will not pay off."
     },
     {
-      "title": "Strava declares war on scrapers ahead of IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-      "summary": "Strava is taking measures to prevent data scraping ahead of its IPO, highlighting the importance of data protection and security in the tech industry."
+      "title": "CS336: Language Modeling from Scratch",
+      "source": "Stanford",
+      "url": "https://cs336.stanford.edu/",
+      "summary": "Stanford's CS336 course provides a comprehensive introduction to language modeling, covering the fundamentals of natural language processing and deep learning."
     },
     {
-      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-      "summary": "Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest and investment in the private space industry."
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "source": "Quantum Magazine",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "summary": "Researchers have discovered that certain geological processes may be capable of mimicking biochemical reactions, blurring the line between living and non-living systems."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Red Hat",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat, a leading provider of open-source software solutions, in a move to strengthen its position in the hybrid cloud market."
     }
   ],
   "gym": [
@@ -38,7 +38,7 @@
       "url": "https://www.youtube.com/watch?v=w8yTmTdF1Kw",
       "duration_min": 15,
       "category": "Finance",
-      "summary": "Andrei Jikh discusses the current state of bond markets worldwide, highlighting the potential risks and implications for investors."
+      "summary": "The global bond market is experiencing a crisis, with far-reaching implications for investors and the economy."
     },
     {
       "title": "I tried to optimize my life. It made it worse.",
@@ -46,31 +46,15 @@
       "url": "https://www.youtube.com/watch?v=-1Fhry-Mqks",
       "duration_min": 12,
       "category": "Personal Growth",
-      "summary": "Matt D'Avella shares his experience of trying to optimize his life, only to find that it had a negative impact, highlighting the importance of balance and self-awareness."
+      "summary": "The speaker reflects on their experience with life optimization, highlighting the potential pitfalls and drawbacks of striving for perfection."
     },
     {
-      "title": "The Science & Process of Healing from Grief",
-      "channel": "Huberman Lab",
-      "url": "https://www.youtube.com/watch?v=PlQyGIIAGNo",
-      "duration_min": 10,
-      "category": "Personal Growth",
-      "summary": "The Huberman Lab discusses the science and process of healing from grief, providing insights and strategies for coping with loss."
-    },
-    {
-      "title": "Google\u2019s AI endgame is here\u2026 everything you missed at I/O 2026",
-      "channel": "Fireship",
-      "url": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
-      "duration_min": 12,
-      "category": "Technology",
-      "summary": "Fireship provides an overview of Google's AI endgame, highlighting key announcements and developments from I/O 2026."
-    },
-    {
-      "title": "AI Is Creating a Massive Identity Problem",
-      "channel": "Andrei Jikh",
-      "url": "https://www.youtube.com/watch?v=xzbeCedpiAI",
+      "title": "New Claude Opus 4.8: 15 Things You May\u2019ve Missed",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
       "duration_min": 10,
       "category": "Technology",
-      "summary": "Andrei Jikh discusses the potential risks and implications of AI on identity, highlighting the need for careful consideration and planning."
+      "summary": "The video explores the latest updates and features of Claude Opus 4.8, a cutting-edge AI model with significant implications for the field."
     },
     {
       "title": "Programmable Money Is The Future",
@@ -78,7 +62,23 @@
       "url": "https://www.youtube.com/watch?v=QzeCyCfZsGA",
       "duration_min": 8,
       "category": "Finance",
-      "summary": "Andrei Jikh explores the concept of programmable money, discussing its potential benefits and implications for the financial industry."
+      "summary": "The speaker discusses the potential of programmable money to revolutionize the financial system, enabling new forms of transactions and economic activity."
+    },
+    {
+      "title": "The Science of Learning & Speaking Languages",
+      "channel": "Huberman Lab",
+      "url": "https://www.youtube.com/watch?v=MOPqSEK6GvA",
+      "duration_min": 12,
+      "category": "Personal Growth",
+      "summary": "The video delves into the science behind language learning, providing insights and strategies for improving language skills and accelerating the learning process."
+    },
+    {
+      "title": "Is AI lying to us?",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=VBHISHDZ3wQ",
+      "duration_min": 10,
+      "category": "Technology",
+      "summary": "The video explores the potential risks and consequences of AI deception, highlighting the need for transparency and accountability in AI development."
     }
   ],
   "gym_total_min": 37,

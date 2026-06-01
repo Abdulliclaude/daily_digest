@@ -4,30 +4,30 @@
 
 ☀  MORNING READ  (~15 min)
 ────────────────────────────────────────────────────────────────
-1. When AI Crosses the Line: The Matplotlib Incident
-   Source : Hacker News
-   Link   : https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096
-   Why    : The article discusses a recent incident where AI crossed the line, highlighting the potential risks and consequences of relying on artificial intelligence.
+1. Florida sues OpenAI and Sam Altman over AI risks
+   Source : Politico
+   Link   : https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215
+   Why    : Florida has filed a lawsuit against OpenAI and its CEO Sam Altman, citing the risks associated with AI-powered technologies.
 
-2. An OpenAI model solved a famous math problem that stumped humans for 80 years
-   Source : Ars Technica
-   Link   : https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/
-   Why    : An OpenAI model has made a groundbreaking achievement by solving a famous math problem that had gone unsolved for 80 years, showcasing the potential of AI in mathematics.
-
-3. IBM CEO says there is 'no way' spending on AI data centers will pay off
-   Source : Hacker News (IBM)
+2. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Source : Business Insider
    Link   : https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
-   Why    : IBM's CEO expressed skepticism about the financial viability of investing in AI data centers, sparking debate about the future of AI infrastructure.
+   Why    : IBM's CEO has expressed skepticism about the financial returns on investing in AI data centers, stating that the spending will not pay off.
 
-4. Strava declares war on scrapers ahead of IPO
-   Source : TechCrunch
-   Link   : https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
-   Why    : Strava is taking measures to prevent data scraping ahead of its IPO, highlighting the importance of data protection and security in the tech industry.
+3. CS336: Language Modeling from Scratch
+   Source : Stanford
+   Link   : https://cs336.stanford.edu/
+   Why    : Stanford's CS336 course provides a comprehensive introduction to language modeling, covering the fundamentals of natural language processing and deep learning.
 
-5. Unastella, a South Korean rocket startup that launched from home, raises $24M
-   Source : TechCrunch
-   Link   : https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
-   Why    : Unastella, a South Korean rocket startup, has raised $24M in funding, demonstrating the growing interest and investment in the private space industry.
+4. What appear to be biochemical processes may be a natural feature of geology
+   Source : Quantum Magazine
+   Link   : https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/
+   Why    : Researchers have discovered that certain geological processes may be capable of mimicking biochemical reactions, blurring the line between living and non-living systems.
+
+5. IBM acquires Red Hat
+   Source : Red Hat
+   Link   : https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   Why    : IBM has acquired Red Hat, a leading provider of open-source software solutions, in a move to strengthen its position in the hybrid cloud market.
 
 🏋  GYM PLAYLIST  (~37 min)
 ────────────────────────────────────────────────────────────────
@@ -35,37 +35,37 @@
    Channel  : Andrei Jikh
    Duration : 15 min  |  Finance
    Link     : https://www.youtube.com/watch?v=w8yTmTdF1Kw
-   Learn    : Andrei Jikh discusses the current state of bond markets worldwide, highlighting the potential risks and implications for investors.
+   Learn    : The global bond market is experiencing a crisis, with far-reaching implications for investors and the economy.
 
 2. I tried to optimize my life. It made it worse.
    Channel  : Matt D'Avella
    Duration : 12 min  |  Personal Growth
    Link     : https://www.youtube.com/watch?v=-1Fhry-Mqks
-   Learn    : Matt D'Avella shares his experience of trying to optimize his life, only to find that it had a negative impact, highlighting the importance of balance and self-awareness.
+   Learn    : The speaker reflects on their experience with life optimization, highlighting the potential pitfalls and drawbacks of striving for perfection.
 
-3. The Science & Process of Healing from Grief
-   Channel  : Huberman Lab
-   Duration : 10 min  |  Personal Growth
-   Link     : https://www.youtube.com/watch?v=PlQyGIIAGNo
-   Learn    : The Huberman Lab discusses the science and process of healing from grief, providing insights and strategies for coping with loss.
-
-4. Google’s AI endgame is here… everything you missed at I/O 2026
-   Channel  : Fireship
-   Duration : 12 min  |  Technology
-   Link     : https://www.youtube.com/watch?v=9OQ5vaYbGV0
-   Learn    : Fireship provides an overview of Google's AI endgame, highlighting key announcements and developments from I/O 2026.
-
-5. AI Is Creating a Massive Identity Problem
-   Channel  : Andrei Jikh
+3. New Claude Opus 4.8: 15 Things You May’ve Missed
+   Channel  : AI Explained
    Duration : 10 min  |  Technology
-   Link     : https://www.youtube.com/watch?v=xzbeCedpiAI
-   Learn    : Andrei Jikh discusses the potential risks and implications of AI on identity, highlighting the need for careful consideration and planning.
+   Link     : https://www.youtube.com/watch?v=aJvP3nXWkwM
+   Learn    : The video explores the latest updates and features of Claude Opus 4.8, a cutting-edge AI model with significant implications for the field.
 
-6. Programmable Money Is The Future
+4. Programmable Money Is The Future
    Channel  : Andrei Jikh
    Duration : 8 min  |  Finance
    Link     : https://www.youtube.com/watch?v=QzeCyCfZsGA
-   Learn    : Andrei Jikh explores the concept of programmable money, discussing its potential benefits and implications for the financial industry.
+   Learn    : The speaker discusses the potential of programmable money to revolutionize the financial system, enabling new forms of transactions and economic activity.
+
+5. The Science of Learning & Speaking Languages
+   Channel  : Huberman Lab
+   Duration : 12 min  |  Personal Growth
+   Link     : https://www.youtube.com/watch?v=MOPqSEK6GvA
+   Learn    : The video delves into the science behind language learning, providing insights and strategies for improving language skills and accelerating the learning process.
+
+6. Is AI lying to us?
+   Channel  : IBM Technology
+   Duration : 10 min  |  Technology
+   Link     : https://www.youtube.com/watch?v=VBHISHDZ3wQ
+   Learn    : The video explores the potential risks and consequences of AI deception, highlighting the need for transparency and accountability in AI development.
 
 ────────────────────────────────────────────────────────────────
 Rate today's picks → run:  python3 digest.py feedback
