@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Generate daily digest from real scraped articles and YouTube channel feeds."""
-import anthropic, json, datetime, pathlib, urllib.request, xml.etree.ElementTree as ET
-import re
+import google.generativeai as genai
+import json, datetime, pathlib, urllib.request, xml.etree.ElementTree as ET
+import re, os
 
 DIGEST_DIR = pathlib.Path("digests")
 DIGEST_DIR.mkdir(exist_ok=True)
@@ -12,11 +13,11 @@ YOUTUBE_CHANNELS = {
     "Fireship":        "UCsBjURrPoezykLs9EqgamOA",
     "NetworkChuck":    "UC9x0AN7BWHpCDHSm9NiJFJQ",
     "Ali Abdaal":      "UCoOae5nYA7VqaXzerajD0lg",
-    "Graham Stephan":  "UCa-ckhlcp9ixDdiOF92FIyw",
-    "Huberman Lab":    "UCqMqzM6EbfQjFsGAJZFVzZQ",
+    "Graham Stephan":  "UCa-ckhlcp9ixDdiOF92FIyw",  # verified
+    "Huberman Lab":    "UC2D2CMWXMOVWx7giW1n3LIg",  # corrected
     "Matt D'Avella":   "UCJ24N4O0bP7LGLBDvye7oCA",
     "Thomas Frank":    "UCG-KntY7aVnIGXYEBQvmBAQ",
-    "Andrei Jikh":     "UCGy7SkBjcIAgTiwkXEtPnYg",
+    "Andrei Jikh":     "UCGy7SkBjcIAgTiwkXEtPnYg",  # corrected
     "Theo (t3.gg)":    "UCbRP3rCbZ7hGcM4-9HxOw2Q",
     "AI Explained":    "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "IBM Technology":  "UCKWaEZ-_VweaEx1j62do_vQ",
@@ -31,8 +32,8 @@ RSS_FEEDS = [
     ("VentureBeat",       "https://venturebeat.com/feed/"),
     ("MIT Tech Review",   "https://www.technologyreview.com/feed/"),
     ("Wired",             "https://www.wired.com/feed/rss"),
-    ("IBM Research Blog", "https://research.ibm.com/blog/feed"),
-    ("IBM Developer",     "https://developer.ibm.com/blogs/feed/"),
+    ("IBM Blog",          "https://www.ibm.com/blog/feed/"),
+    ("IBM Research",      "https://research.ibm.com/feed.xml"),
 ]
 
 HN_IBM_SEARCH = "https://hn.algolia.com/api/v1/search?query=IBM&tags=story&hitsPerPage=8"
@@ -210,16 +211,13 @@ Return ONLY valid JSON, no markdown fences:
   "mode": "live"
 }}"""
 
-# ── Call Claude ───────────────────────────────────────────────────────────────
-print("Calling Claude for curation...")
-client = anthropic.Anthropic()
-response = client.messages.create(
-    model="claude-opus-4-8",
-    max_tokens=3000,
-    messages=[{"role": "user", "content": PROMPT}],
-)
+# ── Call Gemini ───────────────────────────────────────────────────────────────
+print("Calling Gemini for curation...")
+genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+model = genai.GenerativeModel("gemini-1.5-flash")
+response = model.generate_content(PROMPT)
 
-raw = response.content[0].text.strip()
+raw = response.text.strip()
 if raw.startswith("```"):
     raw = "\n".join(raw.split("\n")[1:]).rsplit("```", 1)[0]
 
