@@ -8,7 +8,8 @@ import re, os
 DIGEST_DIR = pathlib.Path("digests")
 DIGEST_DIR.mkdir(exist_ok=True)
 date_str = datetime.date.today().isoformat()
-MIN_DURATION_SEC = 480   # 8 minutes — filters out all shorts and short clips
+MIN_DURATION_SEC = 480   # 8 minutes — filters out confirmed shorts/clips
+YOUTUBE_API_KEY  = os.environ.get("YOUTUBE_API_KEY", "")
 
 YOUTUBE_HANDLES = [
     "@TBTGO", "@claude", "@OliurOnline", "@ScienceofScaling",
@@ -185,15 +186,14 @@ def fetch_all_youtube_videos():
         for f in as_completed(futs):
             vid_id, title, name = futs[f]
             duration = f.result()
-            if duration is None:
+            # Only skip if we CONFIRMED it's short; keep if fetch failed (None)
+            if duration is not None and duration < MIN_DURATION_SEC:
                 continue
-            if duration < MIN_DURATION_SEC:
-                continue  # skip shorts and short clips
             full_videos.append({
                 "title":       title,
                 "channel":     name,
                 "url":         f"https://www.youtube.com/watch?v={vid_id}",
-                "duration_min": round(duration / 60, 1),
+                "duration_min": round(duration / 60, 1) if duration else None,
             })
     print(f"  {len(full_videos)} full-length videos (≥8 min) after filtering")
     return full_videos
@@ -251,7 +251,7 @@ PROMPT = f"""You are a personal daily content curator. Today is {date_str}.
 
 ### Rules:
 1. MORNING READ: 4-5 best articles. Prioritise AI, engineering, startups, IBM. Use EXACT URLs — no homepages.
-2. GYM PLAYLIST: 4-6 videos, 30-50 min total. Use ONLY URLs from the list. Balance across Finance, Personal Growth, Technology. Pick substantive content: podcasts, talks, interviews, deep-dives. Use the real duration_min shown above.
+2. GYM PLAYLIST: 4-6 videos, 30-50 min total. Use ONLY URLs from the list. Balance across Finance, Personal Growth, Technology. Pick substantive content: podcasts, talks, interviews, deep-dives. Skip anything that looks like a Short (title under 5 words, "#shorts", rapid tips, reels). Prefer videos with known duration_min; if duration_min is null, only include if the title clearly indicates a full talk/podcast/interview.
 3. One crisp sentence summary per item — what's the specific insight or takeaway.
 
 Return ONLY valid JSON:
