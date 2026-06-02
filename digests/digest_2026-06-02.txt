@@ -5,25 +5,54 @@
 ☀  MORNING READ
 ────────────────────────────────────────────────────────────────
 1. Introducing MAI-Code-1-Flash
-   Hacker News → https://microsoft.ai/news/introducingmai-code-1-flash/
+   Hacker News → https://microsoft.ai/news/introducing-mai-code-1-flash/
    Microsoft introduces MAI-Code-1-Flash, a new AI model for coding tasks.
 
-2. Microsoft announces Scout, an autonomous AI agent built on OpenClaw
-   ComputerWorld → https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html
-   Microsoft announces Scout, an autonomous AI agent built on OpenClaw, which can perform various tasks independently.
+2. New Microsoft tool lets devs spin up AI behavior tests using text descriptions
+   TechCrunch → https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/
+   Microsoft launches a new tool for developers to test AI behavior using text descriptions.
 
 3. IBM CEO says there is 'no way' spending on AI data centers will pay off
-   Business Insider → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
-   IBM's CEO expresses skepticism about the financial returns on investing in AI data centers.
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM's CEO expresses skepticism about the ROI of spending on AI data centers.
 
-4. New Microsoft tool lets devs spin up AI behavior tests using text descriptions
-   TechCrunch → https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/
-   Microsoft releases a new tool allowing developers to create AI behavior tests using text descriptions.
+4. Microsoft launches Scout, an OpenClaw-inspired personal assistant
+   TechCrunch → https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
+   Microsoft introduces Scout, a personal assistant inspired by OpenClaw technology.
 
-5. Uber caps employee AI spending after blowing through budget in four months
-   TechCrunch → https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
-   Uber imposes limits on employee AI spending after exceeding budget in just four months.
+5. Cyberdecks are having a moment, rejecting big tech surveillance with style and substance
+   TechCrunch → https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/
+   The cyberdeck trend is gaining momentum as a rejection of big tech surveillance.
 
 
 🏋  GYM PLAYLIST  (~0 min)
 ────────────────────────────────────────────────────────────────
+1. 20 days of compute vs 7 hours: rethinking what state-of-the-art means
+   AI Engineer · None min · Technology
+   https://www.youtube.com/watch?v=hqHC6Z_lXyo
+   Bertrand Charpentier discusses the concept of state-of-the-art in AI research.
+
+2. checking your finances every day might feel responsible
+   Nischa · None min · Finance
+   https://www.youtube.com/watch?v=JQFG53e0iIw
+   Nischa discusses the potential downsides of regularly checking one's finances.
+
+3. The easiest (& laziest) way to get rich
+   Nischa · None min · Finance
+   https://www.youtube.com/watch?v=lAbTmTxiOAQ
+   Nischa shares advice on the easiest way to accumulate wealth.
+
+4. What Lies Beneath the API
+   AI Engineer · None min · Technology
+   https://www.youtube.com/watch?v=HvZXAOZ3iv8
+   Benjamin Cowen discusses the underlying technology behind APIs.
+
+5. The most rational take on AI you’ll hear this year
+   Lenny's Podcast · None min · Technology
+   https://www.youtube.com/watch?v=BD3vLtWhT5A
+   Benedict Evans shares his insights on the current state of AI development.
+
+6. The AI jobpocalypse isn't real
+   Lenny's Podcast · None min · Technology
+   https://www.youtube.com/watch?v=vtjH6LF0ky8
+   The podcast discusses the potential impact of AI on the job market.
