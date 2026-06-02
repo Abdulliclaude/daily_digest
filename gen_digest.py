@@ -137,6 +137,18 @@ def resolve_channel_id(handle):
     return (match.group(1) if match else None), name
 
 
+def is_short(title, desc, vid_id):
+    """Return True if the video is a YouTube Short (skip these)."""
+    combined = (title + " " + desc).lower()
+    if "#short" in combined or "#ytshort" in combined:
+        return True
+    # Verify via YouTube: shorts redirect to /shorts/ path
+    page = fetch_url(f"https://www.youtube.com/watch?v={vid_id}")
+    if page and f'/shorts/{vid_id}' in page:
+        return True
+    return False
+
+
 def fetch_youtube_channel(name, cid):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
     raw = fetch_url(url)
@@ -148,12 +160,15 @@ def fetch_youtube_channel(name, cid):
         ns = {"atom":  "http://www.w3.org/2005/Atom",
               "media": "http://search.yahoo.com/mrss/",
               "yt":    "http://www.youtube.com/xml/schemas/2015"}
-        for entry in root.findall("atom:entry", ns)[:4]:
+        for entry in root.findall("atom:entry", ns)[:6]:  # check more to account for skipped shorts
             title  = (entry.findtext("atom:title",   namespaces=ns) or "").strip()
             vid_id = (entry.findtext("yt:videoId",   namespaces=ns) or "").strip()
             desc_el = entry.find("media:group/media:description", ns)
             desc   = strip_html(desc_el.text if desc_el is not None else "")[:200]
             if title and vid_id:
+                if is_short(title, desc, vid_id):
+                    print(f"    ↷ skipping short: {title[:50]}")
+                    continue
                 videos.append({"title": title, "channel": name,
                                 "url": f"https://www.youtube.com/watch?v={vid_id}",
                                 "snippet": desc})
@@ -220,7 +235,7 @@ PROMPT = f"""You are a personal daily content curator. Today is {date_str}.
 
 ### Curation rules:
 1. MORNING READ: pick the 4-5 most insightful, specific articles. Prioritise AI breakthroughs, engineering depth, startup funding, and IBM. Always include at least 1 IBM item. Use the EXACT URLs from the list above — never use a homepage URL like techcrunch.com.
-2. GYM PLAYLIST: pick 4-6 videos totalling 30-45 min. Balance: 2 Finance, 2 Personal Growth, 2 Technology. Use ONLY URLs from the list above — never invent a YouTube URL. Estimate realistic durations (8–20 min) if unknown.
+2. GYM PLAYLIST: pick 4-6 videos totalling 30-45 min. Balance: 2 Finance, 2 Personal Growth, 2 Technology. Use ONLY URLs from the list above — never invent a YouTube URL. ONLY pick full-length videos (podcasts, talks, interviews, tutorials — minimum 8 minutes). NEVER pick YouTube Shorts or clips under 3 minutes. Estimate realistic durations (10–40 min) based on the content type.
 3. Summaries must be one crisp sentence explaining the specific insight or takeaway.
 
 Return ONLY valid JSON, no markdown fences:
