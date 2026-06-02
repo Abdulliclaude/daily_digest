@@ -211,10 +211,10 @@ def fmt_articles(items):
 def fmt_videos(items):
     return "\n".join(f"• [{v['channel']}] {v['title']} | {v['url']}" for v in items)
 
-# Keep prompt small: top 15 articles + 5 IBM + all videos (titles only)
+# Keep prompt small: top 15 articles + 5 IBM + max 30 videos
 articles_block = fmt_articles((rss_articles + hn_top)[:15])
 ibm_block      = fmt_articles(ibm_stories[:5])
-videos_block   = fmt_videos(all_videos)
+videos_block   = fmt_videos(all_videos[:30])
 
 fallback_note = ""
 if not rss_articles and not hn_top:
@@ -259,6 +259,7 @@ completion = client.chat.completions.create(
     model="llama-3.3-70b-versatile",
     messages=[{"role": "user", "content": PROMPT}],
     max_tokens=2000,
+    response_format={"type": "json_object"},
 )
 
 raw = completion.choices[0].message.content.strip()
