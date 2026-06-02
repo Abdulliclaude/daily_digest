@@ -1,71 +1,29 @@
 ╔══════════════════════════════════════════════════════════════╗
-║  DAILY DIGEST  ·  2026-06-02  [live]              ║
+║  DAILY DIGEST  ·  2026-06-02  [live]                        ║
 ╚══════════════════════════════════════════════════════════════╝
 
-☀  MORNING READ  (~15 min)
+☀  MORNING READ
 ────────────────────────────────────────────────────────────────
-1. Microsoft announces Scout, an autonomous AI agent built on OpenClaw
-   Source : ComputerWorld
-   Link   : https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html
-   Why    : Microsoft has unveiled Scout, an autonomous AI agent built on OpenClaw, which can learn from its environment and make decisions without human intervention.
+1. Introducing MAI-Code-1-Flash
+   Hacker News → https://microsoft.ai/news/introducingmai-code-1-flash/
+   Microsoft introduces MAI-Code-1-Flash, a new AI model for coding tasks.
 
-2. Uber caps employee AI spending after blowing through budget in four months
-   Source : TechCrunch
-   Link   : https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
-   Why    : Uber has capped employee AI spending after blowing through its budget in just four months, highlighting the rapid pace of AI adoption in the company.
+2. Microsoft announces Scout, an autonomous AI agent built on OpenClaw
+   ComputerWorld → https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html
+   Microsoft announces Scout, an autonomous AI agent built on OpenClaw, which can perform various tasks independently.
 
-3. IBM acquires Red Hat
-   Source : Hacker News
-   Link   : https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
-   Why    : IBM has acquired Red Hat, a leading provider of open source software solutions, to create a leading hybrid cloud provider.
+3. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Business Insider → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM's CEO expresses skepticism about the financial returns on investing in AI data centers.
 
 4. New Microsoft tool lets devs spin up AI behavior tests using text descriptions
-   Source : TechCrunch
-   Link   : https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/
-   Why    : Microsoft has launched a new tool that allows developers to spin up AI behavior tests using text descriptions, making it easier to test and validate AI models.
+   TechCrunch → https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/
+   Microsoft releases a new tool allowing developers to create AI behavior tests using text descriptions.
 
-5. IBM CEO says there is 'no way' spending on AI data centers will pay off
-   Source : Business Insider
-   Link   : https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
-   Why    : IBM's CEO has stated that there is no way spending on AI data centers will pay off, highlighting the challenges of investing in AI infrastructure.
+5. Uber caps employee AI spending after blowing through budget in four months
+   TechCrunch → https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
+   Uber imposes limits on employee AI spending after exceeding budget in just four months.
 
-🏋  GYM PLAYLIST  (~37 min)
+
+🏋  GYM PLAYLIST  (~0 min)
 ────────────────────────────────────────────────────────────────
-1.  Legendary Investor Dan Loeb on AI, Credit, & Third Point’s $25B Strategy
-   Channel  : Home
-   Duration : 15 min  |  Finance
-   Link     : https://www.youtube.com/watch?v=vhTi_8QwXjg
-   Learn    : Dan Loeb shares his insights on AI, credit, and Third Point's $25B strategy, providing a unique perspective on the intersection of finance and technology.
-
-2. AI makes great PMs more powerful
-   Channel  : Home
-   Duration : 10 min  |  Technology
-   Link     : https://www.youtube.com/watch?v=Gfe0qFmEamo
-   Learn    : This video discusses how AI can enhance the capabilities of project managers, making them more effective and powerful in their roles.
-
-3. Dr. Deepika Chopra | The Power of Real Optimism
-   Channel  : Home
-   Duration : 12 min  |  Personal Growth
-   Link     : https://www.youtube.com/watch?v=cgPAAt9Nd7o
-   Learn    : Dr. Deepika Chopra talks about the power of real optimism and how it can be applied to daily life, providing a positive and uplifting message.
-
-4. The easiest (& laziest) way to get rich
-   Channel  : Home
-   Duration : 8 min  |  Finance
-   Link     : https://www.youtube.com/watch?v=lAbTmTxiOAQ
-   Learn    : This video provides an unconventional perspective on getting rich, highlighting the importance of smart financial decisions and strategies.
-
-5. How to Build a Self-Improving Company with AI
-   Channel  : Home
-   Duration : 12 min  |  Technology
-   Link     : https://www.youtube.com/watch?v=t-G67yKAHBQ
-   Learn    : This video explores the concept of building a self-improving company with AI, providing insights and strategies for leveraging AI to drive business growth and improvement.
-
-6. Love Thy Neighbor: Community Building with Nextdoor CEO Nirav Tolia
-   Channel  : Home
-   Duration : 10 min  |  Personal Growth
-   Link     : https://www.youtube.com/watch?v=Z9ifHPA2aaw
-   Learn    : Nirav Tolia discusses the importance of community building and how Nextdoor is working to create stronger, more connected communities.
-
-────────────────────────────────────────────────────────────────
-Rate today's picks → run:  python3 digest.py feedback
