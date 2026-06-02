@@ -8,20 +8,28 @@ DIGEST_DIR = pathlib.Path("digests")
 DIGEST_DIR.mkdir(exist_ok=True)
 date_str = datetime.date.today().isoformat()
 
-# ── YouTube channel IDs ───────────────────────────────────────────────────────
-YOUTUBE_CHANNELS = {
-    "Fireship":        "UCsBjURrPoezykLs9EqgamOA",
-    "NetworkChuck":    "UC9x0AN7BWHpCDHSm9NiJFJQ",
-    "Ali Abdaal":      "UCoOae5nYA7VqaXzerajD0lg",
-    "Graham Stephan":  "UCa-ckhlcp9ixDdiOF92FIyw",  # verified
-    "Huberman Lab":    "UC2D2CMWXMOVWx7giW1n3LIg",  # corrected
-    "Matt D'Avella":   "UCJ24N4O0bP7LGLBDvye7oCA",
-    "Thomas Frank":    "UCG-KntY7aVnIGXYEBQvmBAQ",
-    "Andrei Jikh":     "UCGy7SkBjcIAgTiwkXEtPnYg",  # corrected
-    "Theo (t3.gg)":    "UCbRP3rCbZ7hGcM4-9HxOw2Q",
-    "AI Explained":    "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "IBM Technology":  "UCKWaEZ-_VweaEx1j62do_vQ",
-}
+# ── YouTube channel handles (resolved to IDs at runtime) ─────────────────────
+YOUTUBE_HANDLES = [
+    "@TBTGO",
+    "@claude",
+    "@OliurOnline",
+    "@ScienceofScaling",
+    "@ycombinator",
+    "@talksatgoogle",
+    "@aiDotEngineer",
+    "@nischa",
+    "@LennysPodcast",
+    "@stanfordgsb",
+    "@IBMTechnology",
+    "@ILTB_Podcast",
+    "@eoglobal",
+    "@FrontRowSeat",
+    "@anthropic-ai",
+    "@starterstory",
+    "@Harvardilab",
+    "@SiliconValleyGirl",
+    "@GregIsenberg",
+]
 
 # ── RSS article feeds ─────────────────────────────────────────────────────────
 RSS_FEEDS = [
@@ -116,6 +124,19 @@ def fetch_hn_ibm():
         return []
 
 
+def resolve_channel_id(handle):
+    """Fetch a YouTube channel page and extract its UC... channel ID."""
+    html = fetch_url(f"https://www.youtube.com/{handle}")
+    if not html:
+        return None, handle.lstrip("@")
+    match = re.search(r'"channelId":"(UC[a-zA-Z0-9_-]{22})"', html)
+    if not match:
+        match = re.search(r'"externalId":"(UC[a-zA-Z0-9_-]{22})"', html)
+    name_match = re.search(r'"title":"([^"]{1,60})"', html)
+    name = name_match.group(1) if name_match else handle.lstrip("@")
+    return (match.group(1) if match else None), name
+
+
 def fetch_youtube_channel(name, cid):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
     raw = fetch_url(url)
@@ -159,9 +180,13 @@ print(f"  {len(ibm_stories)} IBM stories")
 
 print("Fetching YouTube channels...")
 all_videos = []
-for name, cid in YOUTUBE_CHANNELS.items():
+for handle in YOUTUBE_HANDLES:
+    cid, name = resolve_channel_id(handle)
+    if not cid:
+        print(f"  {handle}: could not resolve channel ID")
+        continue
     got = fetch_youtube_channel(name, cid)
-    print(f"  {name}: {len(got)} videos")
+    print(f"  {handle} ({name}): {len(got)} videos")
     all_videos.extend(got)
 
 # ── Build prompt ──────────────────────────────────────────────────────────────
