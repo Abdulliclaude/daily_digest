@@ -1,0 +1,86 @@
+{
+  "morning": [
+    {
+      "title": "VoidZero Is Joining Cloudflare",
+      "source": "Hacker News",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "summary": "VoidZero is joining Cloudflare to enhance its security capabilities."
+    },
+    {
+      "title": "Meta\u2019s Oversight Board says account bans lack due process, transparency",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+      "summary": "Meta's Oversight Board criticizes the company's account ban policies for lacking transparency and due process."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri\u2019s highly anticipated revamp and Apple Intelligence updates",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "summary": "WWDC 2026 is expected to bring significant updates to Siri and Apple Intelligence."
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "source": "Hacker News",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "summary": "Huawei introduces KVarN, a native vLLM backend for KV-cache quantization."
+    }
+  ],
+  "gym": [
+    {
+      "title": "SaaS is actually here to stay",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=qJdfjuwZ97o",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The podcast discusses the sustainability of SaaS models in the current market."
+    },
+    {
+      "title": "A Conversation with Demis Hassabis, Co-Founder and CEO of Google DeepMind",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=DsewHeVbL-0",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "Demis Hassabis discusses his work with Google DeepMind and the future of AI research."
+    },
+    {
+      "title": "AI predictions: Job markets, Codex beats Claude, and the death of org charts",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The podcast explores predictions about the impact of AI on job markets and organizational structures."
+    },
+    {
+      "title": "I switched from IPS to OLED, and then back again",
+      "channel": "Oliur Online",
+      "url": "https://www.youtube.com/watch?v=d5mmZ1uiJAI",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The video discusses the author's experience switching between IPS and OLED displays."
+    },
+    {
+      "title": "The most rational take on AI you\u2019ll hear this year",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "Benedict Evans provides a rational perspective on the current state of AI development."
+    },
+    {
+      "title": "Your old Mac/PC is your new home cloud - Done in less than 20 mins",
+      "channel": "Oliur Online",
+      "url": "https://www.youtube.com/watch?v=Cbx3wirxLWc",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The video demonstrates how to repurpose an old Mac or PC as a home cloud server in under 20 minutes."
+    }
+  ],
+  "gym_total_min": 0,
+  "mode": "live"
+}

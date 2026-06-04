@@ -1,0 +1,58 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-04  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. VoidZero Is Joining Cloudflare
+   Hacker News → https://blog.cloudflare.com/voidzero-joins-cloudflare/
+   VoidZero is joining Cloudflare to enhance its security capabilities.
+
+2. Meta’s Oversight Board says account bans lack due process, transparency
+   TechCrunch → https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/
+   Meta's Oversight Board criticizes the company's account ban policies for lacking transparency and due process.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+4. What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
+   TechCrunch → https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/
+   WWDC 2026 is expected to bring significant updates to Siri and Apple Intelligence.
+
+5. KVarN: Native vLLM backend for KV-cache quantization by Huawei
+   Hacker News → https://github.com/huawei-csl/KVarN
+   Huawei introduces KVarN, a native vLLM backend for KV-cache quantization.
+
+
+🏋  GYM PLAYLIST  (~0 min)
+────────────────────────────────────────────────────────────────
+1. SaaS is actually here to stay
+   Lenny's Podcast · None min · Technology
+   https://www.youtube.com/watch?v=qJdfjuwZ97o
+   The podcast discusses the sustainability of SaaS models in the current market.
+
+2. A Conversation with Demis Hassabis, Co-Founder and CEO of Google DeepMind
+   Stanford Graduate School of Business · None min · Technology
+   https://www.youtube.com/watch?v=DsewHeVbL-0
+   Demis Hassabis discusses his work with Google DeepMind and the future of AI research.
+
+3. AI predictions: Job markets, Codex beats Claude, and the death of org charts
+   Lenny's Podcast · None min · Technology
+   https://www.youtube.com/watch?v=4D3hDmGhFhA
+   The podcast explores predictions about the impact of AI on job markets and organizational structures.
+
+4. I switched from IPS to OLED, and then back again
+   Oliur Online · None min · Technology
+   https://www.youtube.com/watch?v=d5mmZ1uiJAI
+   The video discusses the author's experience switching between IPS and OLED displays.
+
+5. The most rational take on AI you’ll hear this year
+   Lenny's Podcast · None min · Technology
+   https://www.youtube.com/watch?v=BD3vLtWhT5A
+   Benedict Evans provides a rational perspective on the current state of AI development.
+
+6. Your old Mac/PC is your new home cloud - Done in less than 20 mins
+   Oliur Online · None min · Technology
+   https://www.youtube.com/watch?v=Cbx3wirxLWc
+   The video demonstrates how to repurpose an old Mac or PC as a home cloud server in under 20 minutes.
