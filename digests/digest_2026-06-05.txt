@@ -1,0 +1,58 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-05  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Supabase doubles valuation to $10B in 8 months
+   TechCrunch → https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/
+   Supabase has doubled its valuation to $10B in just 8 months, indicating significant growth in the database and backend-as-a-service market.
+
+2. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Business Insider → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM's CEO has expressed skepticism about the financial returns on spending for AI data centers, suggesting that the costs may outweigh the benefits.
+
+3. Redis 8.8: New array data structure, rate limiter, performance improvements
+   Redis → https://redis.io/blog/announcing-redis-8-8/
+   Redis has released version 8.8, which includes new features such as an array data structure, rate limiter, and performance improvements to enhance its functionality and efficiency.
+
+4. Cooldown Support for Ruby Bundler
+   RubyGems → https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html
+   The Ruby Bundler now supports a cooldown feature, which allows new gems to be vetted before they are widely adopted, enhancing the security and stability of the Ruby ecosystem.
+
+5. pg_durable: Microsoft open sources in-database durable execution
+   Microsoft → https://github.com/microsoft/pg_durable
+   Microsoft has open-sourced pg_durable, a PostgreSQL extension for in-database durable execution, which enables more reliable and efficient transaction processing.
+
+
+🏋  GYM PLAYLIST  (~0 min)
+────────────────────────────────────────────────────────────────
+1. AI Engineer Melbourne 2026 Keynote Livestream | Day 2
+   AI Engineer · 0.0 min · Technology
+   https://www.youtube.com/watch?v=NmjGfdZLNIs
+   The AI Engineer Melbourne 2026 keynote livestream explores the latest advancements and trends in AI engineering, featuring expert talks and discussions.
+
+2. The AI jobpocalypse isn't real
+   Lenny's Podcast · 0.0 min · Technology
+   https://www.youtube.com/watch?v=vtjH6LF0ky8
+   This podcast episode discusses the potential impact of AI on the job market, arguing that the feared 'jobpocalypse' is unlikely to occur.
+
+3. AI still needs humans
+   Lenny's Podcast · 0.0 min · Technology
+   https://www.youtube.com/watch?v=yCV0ozYz9Ak
+   This podcast episode highlights the importance of human involvement in AI development and application, emphasizing that AI is not a replacement for human intelligence and judgment.
+
+4. Jeff Kinney | Diary of a Wimpy Kid: Partypooper
+   Talks at Google · 0.0 min · Personal Growth
+   https://www.youtube.com/watch?v=t8ZUiinrksw
+   Author Jeff Kinney talks about his experiences and insights into writing and creativity, sharing lessons learned from his popular 'Diary of a Wimpy Kid' series.
+
+5. The Power of Real Optimism
+   Talks at Google · 0.0 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the importance of realistic optimism in achieving success and well-being, providing practical advice on cultivating a positive and resilient mindset.
+
+6. Beyond Components: Designing Generative UI for MCP Apps
+   AI Engineer · 0.0 min · Technology
+   https://www.youtube.com/watch?v=hCMrEfPG2Yg
+   This video explores the concept of generative UI design for MCP apps, discussing the potential benefits and challenges of using AI-generated user interfaces.
