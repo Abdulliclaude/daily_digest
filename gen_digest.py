@@ -20,14 +20,34 @@ YOUTUBE_HANDLES = [
 ]
 
 RSS_FEEDS = [
-    ("Hacker News",     "https://news.ycombinator.com/rss"),
-    ("The Verge",       "https://www.theverge.com/rss/index.xml"),
-    ("TechCrunch",      "https://techcrunch.com/feed/"),
-    ("Ars Technica",    "https://feeds.arstechnica.com/arstechnica/index"),
-    ("VentureBeat",     "https://venturebeat.com/feed/"),
-    ("MIT Tech Review", "https://www.technologyreview.com/feed/"),
-    ("Wired",           "https://www.wired.com/feed/rss"),
-    ("IBM Blog",        "https://www.ibm.com/blog/feed/"),
+    # Tech news
+    ("The Verge",            "https://www.theverge.com/rss/index.xml"),
+    ("TechCrunch",           "https://techcrunch.com/feed/"),
+    ("Ars Technica",         "https://feeds.arstechnica.com/arstechnica/index"),
+    ("VentureBeat",          "https://venturebeat.com/feed/"),
+    ("MIT Tech Review",      "https://www.technologyreview.com/feed/"),
+    ("Wired",                "https://www.wired.com/feed/rss"),
+    ("ZDNet",                "https://www.zdnet.com/news/rss.xml"),
+    ("Simon Willison",       "https://simonwillison.net/atom/everything/"),
+    ("Andrej Karpathy",      "https://karpathy.github.io/feed.xml"),
+    # AI / Research
+    ("Anthropic Research",   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml"),
+    # IBM
+    ("IBM Newsroom",         "https://newsroom.ibm.com/announcements?pagetemplate=rss"),
+    ("IBM Blog",             "https://www.ibm.com/blog/feed/"),
+    # Startups / VC
+    ("Y Combinator Blog",    "https://www.ycombinator.com/blog/rss"),
+    ("First Round Review",   "http://firstround.com/review/feed.xml"),
+    ("SaaStr",               "https://www.saastr.com/feed/"),
+    # Newsletters
+    ("Lenny's Newsletter",   "https://www.lennysnewsletter.com/feed"),
+    ("Pragmatic Engineer",   "https://newsletter.pragmaticengineer.com/feed"),
+    ("Exponential View",     "https://www.exponentialview.co/feed"),
+    ("Not Boring",           "https://www.notboring.co/feed"),
+    ("Paul Graham",          "https://filipesilva.github.io/paulgraham-rss/feed.rss"),
+    # Science
+    ("Quanta Magazine",      "https://www.quantamagazine.org/feed/"),
+    ("Nature",               "https://www.nature.com/nature.rss"),
 ]
 
 HN_IBM_SEARCH = "https://hn.algolia.com/api/v1/search?query=IBM&tags=story&hitsPerPage=8"
@@ -229,7 +249,7 @@ def fmt_videos(items):
         for v in items
     )
 
-articles_block = fmt_articles((rss_articles + hn_top)[:15])
+articles_block = fmt_articles((rss_articles + hn_top)[:25])
 ibm_block      = fmt_articles(ibm_stories[:5])
 videos_block   = fmt_videos(all_videos[:35])
 
