@@ -20,6 +20,8 @@ YOUTUBE_HANDLES = [
 ]
 
 RSS_FEEDS = [
+    # Top-of-funnel curation
+    ("Techmeme",             "https://www.techmeme.com/feed.xml"),
     # Tech news
     ("The Verge",            "https://www.theverge.com/rss/index.xml"),
     ("TechCrunch",           "https://techcrunch.com/feed/"),
@@ -158,8 +160,44 @@ def get_channel_video_ids(cid):
         pass
     return entries
 
-def get_video_duration(vid_id):
-    """Fetch video page and extract real duration in seconds. Returns None if unavailable."""
+def parse_iso8601_duration(d):
+    """Convert ISO 8601 duration (PT1H2M3S) to total seconds."""
+    m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', d or "")
+    if not m:
+        return None
+    h, mn, s = (int(x or 0) for x in m.groups())
+    return h * 3600 + mn * 60 + s
+
+def get_durations_api(vid_ids):
+    """
+    Batch-fetch durations via YouTube Data API v3.
+    Returns {vid_id: seconds} for all IDs. Falls back to scraping if no API key.
+    """
+    if not YOUTUBE_API_KEY:
+        return {}
+    results = {}
+    # API allows up to 50 IDs per request
+    for i in range(0, len(vid_ids), 50):
+        batch = vid_ids[i:i+50]
+        ids_param = ",".join(batch)
+        url = (f"https://www.googleapis.com/youtube/v3/videos"
+               f"?part=contentDetails&id={ids_param}&key={YOUTUBE_API_KEY}")
+        raw = fetch_url(url)
+        if not raw:
+            continue
+        try:
+            for item in json.loads(raw).get("items", []):
+                vid_id  = item["id"]
+                dur_str = item.get("contentDetails", {}).get("duration", "")
+                secs    = parse_iso8601_duration(dur_str)
+                if secs is not None:
+                    results[vid_id] = secs
+        except Exception as e:
+            print(f"  ✗ YouTube API parse: {e}")
+    return results
+
+def get_video_duration_scrape(vid_id):
+    """Fallback: scrape video page for duration. Returns None if blocked."""
     page = fetch_url(f"https://www.youtube.com/watch?v={vid_id}", timeout=10)
     if not page:
         return None
@@ -169,9 +207,10 @@ def get_video_duration(vid_id):
 def fetch_all_youtube_videos():
     """
     1. Resolve all channel handles in parallel
-    2. Fetch RSS feeds in parallel
-    3. Fetch video durations in parallel
-    4. Return only full-length videos (>= 8 min)
+    2. Fetch channel RSS feeds in parallel → candidate video IDs
+    3. Fetch durations via YouTube Data API v3 (batch, reliable)
+       Falls back to page scraping if no API key, and keeps video if both fail
+    4. Filter confirmed shorts (< 8 min), return full-length videos
     """
     # Step 1: resolve handles → (cid, name)
     print("  Resolving channel IDs...")
@@ -198,24 +237,37 @@ def fetch_all_youtube_videos():
                 candidates.append((vid_id, title, name))
     print(f"  {len(candidates)} candidate videos found")
 
-    # Step 3: fetch durations in parallel, filter shorts
-    print("  Checking video durations (filtering shorts)...")
+    # Step 3: fetch durations — API first, scrape fallback
+    all_vid_ids = [vid_id for vid_id, _, _ in candidates]
+    if YOUTUBE_API_KEY:
+        print("  Fetching durations via YouTube Data API v3...")
+        duration_map = get_durations_api(all_vid_ids)
+        print(f"  Got durations for {len(duration_map)}/{len(all_vid_ids)} videos")
+    else:
+        print("  No YOUTUBE_API_KEY — scraping durations (may be blocked)...")
+        duration_map = {}
+        with ThreadPoolExecutor(max_workers=15) as ex:
+            futs = {ex.submit(get_video_duration_scrape, vid_id): vid_id
+                    for vid_id in all_vid_ids}
+            for f in as_completed(futs):
+                vid_id = futs[f]
+                secs = f.result()
+                if secs is not None:
+                    duration_map[vid_id] = secs
+
+    # Step 4: filter shorts, build result list
     full_videos = []
-    with ThreadPoolExecutor(max_workers=15) as ex:
-        futs = {ex.submit(get_video_duration, vid_id): (vid_id, title, name)
-                for vid_id, title, name in candidates}
-        for f in as_completed(futs):
-            vid_id, title, name = futs[f]
-            duration = f.result()
-            # Only skip if we CONFIRMED it's short; keep if fetch failed (None)
-            if duration is not None and duration < MIN_DURATION_SEC:
-                continue
-            full_videos.append({
-                "title":       title,
-                "channel":     name,
-                "url":         f"https://www.youtube.com/watch?v={vid_id}",
-                "duration_min": round(duration / 60, 1) if duration else None,
-            })
+    for vid_id, title, name in candidates:
+        duration = duration_map.get(vid_id)
+        # Only skip if we CONFIRMED it's short — keep if duration unknown
+        if duration is not None and duration < MIN_DURATION_SEC:
+            continue
+        full_videos.append({
+            "title":        title,
+            "channel":      name,
+            "url":          f"https://www.youtube.com/watch?v={vid_id}",
+            "duration_min": round(duration / 60, 1) if duration else None,
+        })
     print(f"  {len(full_videos)} full-length videos (≥8 min) after filtering")
     return full_videos
 
