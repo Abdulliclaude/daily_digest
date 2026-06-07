@@ -4,83 +4,83 @@
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "summary": "OpenAI introduces Lockdown Mode to safeguard sensitive data from potential vulnerabilities in AI models."
+      "summary": "OpenAI introduces Lockdown Mode to prevent sensitive data exposure through prompt injection attacks."
     },
     {
-      "title": "Beyond Instagram: Introducing the next generation of social apps",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
-      "summary": "The next generation of social apps is emerging, focused on community, privacy, and new forms of interaction."
+      "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "summary": "The Meta hack highlights the need for comprehensive AI security measures beyond Mythos."
     },
     {
-      "title": "IBM acquires Red Hat",
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
       "source": "Hacker News (IBM)",
-      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
-      "summary": "IBM's acquisition of Red Hat aims to create a leading hybrid cloud provider, expanding IBM's cloud capabilities."
+      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "summary": "IBM's CEO expresses skepticism about the financial returns on investment in AI data centers."
+    },
+    {
+      "title": "Anthropic says 80% of its new production code is now authored by Claude \u2014 how your enterprise can keep up",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+      "summary": "Anthropic's adoption of Claude for code generation highlights the growing role of AI in software development."
     },
     {
       "title": "Are AI chatbots making us lose control of our brains?",
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-      "summary": "The increasing use of AI chatbots may lead to a loss of control over our own thoughts and decisions, as they influence our behavior and perceptions."
-    },
-    {
-      "title": "Anthropic says 80% of its new production code is now authored by Claude",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
-      "summary": "Anthropic's AI model, Claude, is now responsible for 80% of the company's new production code, showcasing the potential of AI in software development."
+      "summary": "The article explores the potential psychological impact of AI chatbots on human cognition and behavior."
     }
   ],
   "gym": [
     {
-      "title": "The easiest (& laziest) way to get rich",
-      "channel": "Nischa",
-      "url": "https://www.youtube.com/watch?v=lAbTmTxiOAQ",
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": null,
+      "category": "Personal Growth",
+      "summary": "Dr. Deepika Chopra discusses the benefits of realistic optimism in personal and professional life."
+    },
+    {
+      "title": "Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=ThMtheE5eO0",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The Uber CEO shares insights on the company's AI initiatives, autonomous vehicles, and the future of transportation."
+    },
+    {
+      "title": "Beyond Belief",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=057mnWzLBcA",
+      "duration_min": null,
+      "category": "Personal Growth",
+      "summary": "Nir Eyal explores the concept of belief and its implications for personal growth and relationships."
+    },
+    {
+      "title": "The era of the artist",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=S3Ggbb6s7UQ",
       "duration_min": null,
       "category": "Finance",
-      "summary": "The video discusses a straightforward approach to achieving wealth, focusing on simplicity and patience."
+      "summary": "The discussion focuses on the emerging role of artists and creatives in the modern economy."
     },
     {
-      "title": "The Problem Solvers",
-      "channel": "Claude",
-      "url": "https://www.youtube.com/watch?v=rjSvJYrVY2k",
-      "duration_min": null,
-      "category": "Technology",
-      "summary": "The video features a conversation with Anton Osika, exploring the potential of AI in solving complex problems."
-    },
-    {
-      "title": "9 Little Luxuries That Completely Changed My Daily Life",
-      "channel": "Nischa",
-      "url": "https://www.youtube.com/watch?v=LQ_xCttn_8k",
+      "title": "Driven",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=YG5w939A9yQ",
       "duration_min": null,
       "category": "Personal Growth",
-      "summary": "The video showcases small, luxurious items that can significantly improve one's daily life, focusing on comfort and well-being."
+      "summary": "Susie Wolff shares her experiences and insights on motivation, perseverance, and achieving success."
     },
     {
-      "title": "Building safe Payment Infrastructure for the autonomous economy",
-      "channel": "AI Engineer",
-      "url": "https://www.youtube.com/watch?v=KLSuFPj2ld0",
-      "duration_min": null,
-      "category": "Technology",
-      "summary": "The video discusses the development of secure payment infrastructure for autonomous economies, featuring a talk by Steve Kaliski from Stripe."
-    },
-    {
-      "title": "How to Fix Inauthentic Content Before You Start Losing Viewers",
-      "channel": "The Science of Scaling",
-      "url": "https://www.youtube.com/watch?v=3Vr1HFPVzdU",
+      "title": "The Next Conversation Workbook",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=bIjz7UkauBA",
       "duration_min": null,
       "category": "Personal Growth",
-      "summary": "The video offers guidance on identifying and addressing inauthentic content, helping creators to maintain their audience's trust and engagement."
-    },
-    {
-      "title": "Your Business Isn't Showing Up in ChatGPT",
-      "channel": "The Science of Scaling",
-      "url": "https://www.youtube.com/watch?v=7cB-STYk_Cg",
-      "duration_min": null,
-      "category": "Technology",
-      "summary": "The video explores the issue of businesses not being visible in ChatGPT and provides advice on how to improve their discoverability."
+      "summary": "Jefferson Fisher presents a workbook for improving conversation skills and building stronger relationships."
     }
   ],
-  "gym_total_min": 40,
+  "gym_total_min": 0,
   "mode": "live"
 }

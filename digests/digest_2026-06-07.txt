@@ -6,53 +6,53 @@
 ────────────────────────────────────────────────────────────────
 1. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
    TechCrunch → https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
-   OpenAI introduces Lockdown Mode to safeguard sensitive data from potential vulnerabilities in AI models.
+   OpenAI introduces Lockdown Mode to prevent sensitive data exposure through prompt injection attacks.
 
-2. Beyond Instagram: Introducing the next generation of social apps
-   TechCrunch → https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/
-   The next generation of social apps is emerging, focused on community, privacy, and new forms of interaction.
+2. The Meta hack shows there’s more to AI security than Mythos
+   MIT Tech Review → https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/
+   The Meta hack highlights the need for comprehensive AI security measures beyond Mythos.
 
-3. IBM acquires Red Hat
-   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
-   IBM's acquisition of Red Hat aims to create a leading hybrid cloud provider, expanding IBM's cloud capabilities.
+3. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM's CEO expresses skepticism about the financial returns on investment in AI data centers.
 
-4. Are AI chatbots making us lose control of our brains?
-   MIT Tech Review → https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
-   The increasing use of AI chatbots may lead to a loss of control over our own thoughts and decisions, as they influence our behavior and perceptions.
-
-5. Anthropic says 80% of its new production code is now authored by Claude
+4. Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up
    VentureBeat → https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up
-   Anthropic's AI model, Claude, is now responsible for 80% of the company's new production code, showcasing the potential of AI in software development.
+   Anthropic's adoption of Claude for code generation highlights the growing role of AI in software development.
+
+5. Are AI chatbots making us lose control of our brains?
+   MIT Tech Review → https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
+   The article explores the potential psychological impact of AI chatbots on human cognition and behavior.
 
 
-🏋  GYM PLAYLIST  (~40 min)
+🏋  GYM PLAYLIST  (~0 min)
 ────────────────────────────────────────────────────────────────
-1. The easiest (& laziest) way to get rich
-   Nischa · None min · Finance
-   https://www.youtube.com/watch?v=lAbTmTxiOAQ
-   The video discusses a straightforward approach to achieving wealth, focusing on simplicity and patience.
+1. The Power of Real Optimism
+   Talks at Google · None min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the benefits of realistic optimism in personal and professional life.
 
-2. The Problem Solvers
-   Claude · None min · Technology
-   https://www.youtube.com/watch?v=rjSvJYrVY2k
-   The video features a conversation with Anton Osika, exploring the potential of AI in solving complex problems.
+2. Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation
+   Invest Like The Best · None min · Technology
+   https://www.youtube.com/watch?v=ThMtheE5eO0
+   The Uber CEO shares insights on the company's AI initiatives, autonomous vehicles, and the future of transportation.
 
-3. 9 Little Luxuries That Completely Changed My Daily Life
-   Nischa · None min · Personal Growth
-   https://www.youtube.com/watch?v=LQ_xCttn_8k
-   The video showcases small, luxurious items that can significantly improve one's daily life, focusing on comfort and well-being.
+3. Beyond Belief
+   Talks at Google · None min · Personal Growth
+   https://www.youtube.com/watch?v=057mnWzLBcA
+   Nir Eyal explores the concept of belief and its implications for personal growth and relationships.
 
-4. Building safe Payment Infrastructure for the autonomous economy
-   AI Engineer · None min · Technology
-   https://www.youtube.com/watch?v=KLSuFPj2ld0
-   The video discusses the development of secure payment infrastructure for autonomous economies, featuring a talk by Steve Kaliski from Stripe.
+4. The era of the artist
+   Invest Like The Best · None min · Finance
+   https://www.youtube.com/watch?v=S3Ggbb6s7UQ
+   The discussion focuses on the emerging role of artists and creatives in the modern economy.
 
-5. How to Fix Inauthentic Content Before You Start Losing Viewers
-   The Science of Scaling · None min · Personal Growth
-   https://www.youtube.com/watch?v=3Vr1HFPVzdU
-   The video offers guidance on identifying and addressing inauthentic content, helping creators to maintain their audience's trust and engagement.
+5. Driven
+   Talks at Google · None min · Personal Growth
+   https://www.youtube.com/watch?v=YG5w939A9yQ
+   Susie Wolff shares her experiences and insights on motivation, perseverance, and achieving success.
 
-6. Your Business Isn't Showing Up in ChatGPT
-   The Science of Scaling · None min · Technology
-   https://www.youtube.com/watch?v=7cB-STYk_Cg
-   The video explores the issue of businesses not being visible in ChatGPT and provides advice on how to improve their discoverability.
+6. The Next Conversation Workbook
+   Talks at Google · None min · Personal Growth
+   https://www.youtube.com/watch?v=bIjz7UkauBA
+   Jefferson Fisher presents a workbook for improving conversation skills and building stronger relationships.
