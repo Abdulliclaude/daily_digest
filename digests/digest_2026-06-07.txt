@@ -4,55 +4,55 @@
 
 ☀  MORNING READ
 ────────────────────────────────────────────────────────────────
-1. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
-   TechCrunch → https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
-   OpenAI introduces Lockdown Mode to prevent sensitive data exposure through prompt injection attacks.
+1. OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents
+   Financial Times → https://www.techmeme.com/260607/p1#a260607p1
+   OpenAI is revamping ChatGPT into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products.
 
-2. The Meta hack shows there’s more to AI security than Mythos
-   MIT Tech Review → https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/
-   The Meta hack highlights the need for comprehensive AI security measures beyond Mythos.
+2. India's six largest IT companies grew combined revenue from $95.9B in FY23 to $103.1B in FY26
+   The Economic Times → https://www.techmeme.com/260607/p3#a260607p3
+   India's six largest IT companies saw a revenue growth of $7.2B in three years, despite steady headcount.
 
 3. IBM CEO says there is 'no way' spending on AI data centers will pay off
-   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
-   IBM's CEO expresses skepticism about the financial returns on investment in AI data centers.
+   Business Insider → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM CEO is skeptical about the financial returns on investment in AI data centers.
 
-4. Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up
-   VentureBeat → https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up
-   Anthropic's adoption of Claude for code generation highlights the growing role of AI in software development.
+4. Memory chip vendors say CXMT's DDR5 prices match Samsung, SK Hynix, and Micron
+   Wccftech → https://www.techmeme.com/260607/p6#a260607p6
+   CXMT's DDR5 prices are comparable to major memory chip vendors, with a supply advantage in client markets.
 
-5. Are AI chatbots making us lose control of our brains?
-   MIT Tech Review → https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
-   The article explores the potential psychological impact of AI chatbots on human cognition and behavior.
+5. Q&A with Google DeepMind's Director of AGI Economics Alex Imas and Epoch AI's Phil Trammell
+   Dwarkesh Podcast → https://www.techmeme.com/260607/p5#a260607p5
+   Experts discuss the implications of AGI on economics and society.
 
 
-🏋  GYM PLAYLIST  (~0 min)
+🏋  GYM PLAYLIST  (~302.5 min)
 ────────────────────────────────────────────────────────────────
-1. The Power of Real Optimism
-   Talks at Google · None min · Personal Growth
-   https://www.youtube.com/watch?v=cgPAAt9Nd7o
-   Dr. Deepika Chopra discusses the benefits of realistic optimism in personal and professional life.
+1. AI predictions: Job markets, Codex beats Claude, and the death of org charts
+   Lenny's Podcast · 94.1 min · Technology
+   https://www.youtube.com/watch?v=4D3hDmGhFhA
+   Dan Shipper discusses AI's potential impact on job markets, organizational structures, and the future of work.
 
-2. Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation
-   Invest Like The Best · None min · Technology
+2. The most rational take on AI you’ll hear this year
+   Lenny's Podcast · 79.8 min · Technology
+   https://www.youtube.com/watch?v=BD3vLtWhT5A
+   A rational and balanced discussion about AI's potential benefits and drawbacks.
+
+3. Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation
+   Invest Like The Best · 71.3 min · Technology
    https://www.youtube.com/watch?v=ThMtheE5eO0
-   The Uber CEO shares insights on the company's AI initiatives, autonomous vehicles, and the future of transportation.
+   Uber's CEO shares insight into the company's AI and autonomous vehicle initiatives.
 
-3. Beyond Belief
-   Talks at Google · None min · Personal Growth
-   https://www.youtube.com/watch?v=057mnWzLBcA
-   Nir Eyal explores the concept of belief and its implications for personal growth and relationships.
+4. 9 Little Luxuries That Completely Changed My Daily Life
+   Nischa · 13.7 min · Personal Growth
+   https://www.youtube.com/watch?v=LQ_xCttn_8k
+   Nischa shares personal anecdotes about the small luxuries that have improved her daily life.
 
-4. The era of the artist
-   Invest Like The Best · None min · Finance
-   https://www.youtube.com/watch?v=S3Ggbb6s7UQ
-   The discussion focuses on the emerging role of artists and creatives in the modern economy.
+5. The easiest (& laziest) way to get rich
+   Nischa · 14.6 min · Finance
+   https://www.youtube.com/watch?v=lAbTmTxiOAQ
+   Nischa shares her perspective on achieving wealth through simple and lazy methods.
 
-5. Driven
-   Talks at Google · None min · Personal Growth
-   https://www.youtube.com/watch?v=YG5w939A9yQ
-   Susie Wolff shares her experiences and insights on motivation, perseverance, and achieving success.
-
-6. The Next Conversation Workbook
-   Talks at Google · None min · Personal Growth
-   https://www.youtube.com/watch?v=bIjz7UkauBA
-   Jefferson Fisher presents a workbook for improving conversation skills and building stronger relationships.
+6. Circle CEO: 3 Things That Will Transform Stablecoins in 2027
+   Y Combinator · 29.4 min · Finance
+   https://www.youtube.com/watch?v=ZVdgiuiOQ7E
+   The Circle CEO discusses the future of stablecoins and their potential transformation in 2027.
