@@ -37,10 +37,9 @@ RSS_FEEDS = [
     ("a16z Technology",      "https://www.a16z.news/feed"),
     # IBM
     ("IBM Newsroom",         "https://newsroom.ibm.com/announcements?pagetemplate=rss"),
-    ("IBM Blog",             "https://www.ibm.com/blog/feed/"),
     # Startups / VC
     ("Y Combinator Blog",    "https://www.ycombinator.com/blog/rss"),
-    ("First Round Review",   "http://firstround.com/review/feed.xml"),
+    ("First Round Review",   "https://review.firstround.com/feed.xml"),
     ("SaaStr",               "https://www.saastr.com/feed/"),
     # Newsletters
     ("Lenny's Newsletter",   "https://www.lennysnewsletter.com/feed"),
