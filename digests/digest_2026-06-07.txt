@@ -1,0 +1,58 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-07  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
+   TechCrunch → https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
+   OpenAI introduces Lockdown Mode to safeguard sensitive data from potential vulnerabilities in AI models.
+
+2. Beyond Instagram: Introducing the next generation of social apps
+   TechCrunch → https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/
+   The next generation of social apps is emerging, focused on community, privacy, and new forms of interaction.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM's acquisition of Red Hat aims to create a leading hybrid cloud provider, expanding IBM's cloud capabilities.
+
+4. Are AI chatbots making us lose control of our brains?
+   MIT Tech Review → https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
+   The increasing use of AI chatbots may lead to a loss of control over our own thoughts and decisions, as they influence our behavior and perceptions.
+
+5. Anthropic says 80% of its new production code is now authored by Claude
+   VentureBeat → https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up
+   Anthropic's AI model, Claude, is now responsible for 80% of the company's new production code, showcasing the potential of AI in software development.
+
+
+🏋  GYM PLAYLIST  (~40 min)
+────────────────────────────────────────────────────────────────
+1. The easiest (& laziest) way to get rich
+   Nischa · None min · Finance
+   https://www.youtube.com/watch?v=lAbTmTxiOAQ
+   The video discusses a straightforward approach to achieving wealth, focusing on simplicity and patience.
+
+2. The Problem Solvers
+   Claude · None min · Technology
+   https://www.youtube.com/watch?v=rjSvJYrVY2k
+   The video features a conversation with Anton Osika, exploring the potential of AI in solving complex problems.
+
+3. 9 Little Luxuries That Completely Changed My Daily Life
+   Nischa · None min · Personal Growth
+   https://www.youtube.com/watch?v=LQ_xCttn_8k
+   The video showcases small, luxurious items that can significantly improve one's daily life, focusing on comfort and well-being.
+
+4. Building safe Payment Infrastructure for the autonomous economy
+   AI Engineer · None min · Technology
+   https://www.youtube.com/watch?v=KLSuFPj2ld0
+   The video discusses the development of secure payment infrastructure for autonomous economies, featuring a talk by Steve Kaliski from Stripe.
+
+5. How to Fix Inauthentic Content Before You Start Losing Viewers
+   The Science of Scaling · None min · Personal Growth
+   https://www.youtube.com/watch?v=3Vr1HFPVzdU
+   The video offers guidance on identifying and addressing inauthentic content, helping creators to maintain their audience's trust and engagement.
+
+6. Your Business Isn't Showing Up in ChatGPT
+   The Science of Scaling · None min · Technology
+   https://www.youtube.com/watch?v=7cB-STYk_Cg
+   The video explores the issue of businesses not being visible in ChatGPT and provides advice on how to improve their discoverability.

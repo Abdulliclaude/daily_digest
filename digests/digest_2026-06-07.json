@@ -1,0 +1,86 @@
+{
+  "morning": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "summary": "OpenAI introduces Lockdown Mode to safeguard sensitive data from potential vulnerabilities in AI models."
+    },
+    {
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "summary": "The next generation of social apps is emerging, focused on community, privacy, and new forms of interaction."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM's acquisition of Red Hat aims to create a leading hybrid cloud provider, expanding IBM's cloud capabilities."
+    },
+    {
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "summary": "The increasing use of AI chatbots may lead to a loss of control over our own thoughts and decisions, as they influence our behavior and perceptions."
+    },
+    {
+      "title": "Anthropic says 80% of its new production code is now authored by Claude",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+      "summary": "Anthropic's AI model, Claude, is now responsible for 80% of the company's new production code, showcasing the potential of AI in software development."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The easiest (& laziest) way to get rich",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=lAbTmTxiOAQ",
+      "duration_min": null,
+      "category": "Finance",
+      "summary": "The video discusses a straightforward approach to achieving wealth, focusing on simplicity and patience."
+    },
+    {
+      "title": "The Problem Solvers",
+      "channel": "Claude",
+      "url": "https://www.youtube.com/watch?v=rjSvJYrVY2k",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The video features a conversation with Anton Osika, exploring the potential of AI in solving complex problems."
+    },
+    {
+      "title": "9 Little Luxuries That Completely Changed My Daily Life",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=LQ_xCttn_8k",
+      "duration_min": null,
+      "category": "Personal Growth",
+      "summary": "The video showcases small, luxurious items that can significantly improve one's daily life, focusing on comfort and well-being."
+    },
+    {
+      "title": "Building safe Payment Infrastructure for the autonomous economy",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=KLSuFPj2ld0",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The video discusses the development of secure payment infrastructure for autonomous economies, featuring a talk by Steve Kaliski from Stripe."
+    },
+    {
+      "title": "How to Fix Inauthentic Content Before You Start Losing Viewers",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=3Vr1HFPVzdU",
+      "duration_min": null,
+      "category": "Personal Growth",
+      "summary": "The video offers guidance on identifying and addressing inauthentic content, helping creators to maintain their audience's trust and engagement."
+    },
+    {
+      "title": "Your Business Isn't Showing Up in ChatGPT",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=7cB-STYk_Cg",
+      "duration_min": null,
+      "category": "Technology",
+      "summary": "The video explores the issue of businesses not being visible in ChatGPT and provides advice on how to improve their discoverability."
+    }
+  ],
+  "gym_total_min": 40,
+  "mode": "live"
+}
