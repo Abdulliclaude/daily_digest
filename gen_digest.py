@@ -301,7 +301,7 @@ def fmt_videos(items):
         for v in items
     )
 
-articles_block = fmt_articles((rss_articles + hn_top)[:25])
+articles_block = fmt_articles((rss_articles + hn_top)[:40])
 ibm_block      = fmt_articles(ibm_stories[:5])
 videos_block   = fmt_videos(all_videos[:35])
 
@@ -322,7 +322,11 @@ PROMPT = f"""You are a personal daily content curator. Today is {date_str}.
 {videos_block or "(fetch failed)"}
 
 ### Rules:
-1. MORNING READ: 4-5 best articles. Prioritise AI, engineering, startups, IBM. Use EXACT URLs — no homepages.
+1. MORNING READ: Pick exactly 10 articles. Prioritise AI, engineering, startups, IBM. Use EXACT URLs — no homepages.
+   - SOURCE DIVERSITY IS MANDATORY: max 2 articles from any single source. Spread across at least 6 different sources.
+   - Techmeme is a meta-aggregator — treat each Techmeme article as its own story but still cap at 2 from Techmeme.
+   - Always include at least 1 IBM story (from IBM STORIES section or the main list).
+   - Prefer stories with specific insights over general news roundups.
 2. GYM PLAYLIST: 4-6 videos, 30-50 min total. Use ONLY URLs from the list. Balance across Finance, Personal Growth, Technology. Pick substantive content: podcasts, talks, interviews, deep-dives. Skip anything that looks like a Short (title under 5 words, "#shorts", rapid tips, reels). Prefer videos with known duration_min; if duration_min is null, only include if the title clearly indicates a full talk/podcast/interview.
 3. One crisp sentence summary per item — what's the specific insight or takeaway.
 
@@ -340,7 +344,7 @@ client = Groq(api_key=os.environ["GROQ_API_KEY"])
 completion = client.chat.completions.create(
     model="llama-3.3-70b-versatile",
     messages=[{"role": "user", "content": PROMPT}],
-    max_tokens=2000,
+    max_tokens=3000,
     response_format={"type": "json_object"},
 )
 
