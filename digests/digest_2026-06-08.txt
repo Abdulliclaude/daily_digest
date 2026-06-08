@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-08  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app
+   9to5Mac → https://www.techmeme.com/260608/p35#a260608p35
+   Apple overhauls Siri with new AI features and interface
+
+2. IBM acquires Red Hat
+   Red Hat → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider
+
+3. Apple puts parents back in control of kids’ iPhone use
+   TechCrunch → https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/
+   Apple introduces new parental controls for iPhone
+
+4. Are AI chatbots making us lose control of our brains?
+   MIT Tech Review → https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
+   AI chatbots may be affecting human decision-making and autonomy
+
+5. Agentic AI solved coding — and exposed every other problem in software engineering
+   VentureBeat → https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering
+   Agentic AI has made breakthroughs in coding, but also highlights other software engineering problems
+
+6. Apple announces that AirPods will gain a custom EQ feature as part of iOS 27
+   TechRadar → https://www.techmeme.com/260608/p31#a260608p31
+   AirPods will get custom EQ feature with iOS 27
+
+7. The weather and climate science AI revolution isn’t revolutionary
+   MIT Tech Review → https://www.technologyreview.com/2026/06/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary
+   AI is not bringing revolutionary changes to weather and climate science
+
+8. Apple WWDC 2026: Live updates on iOS 27, Siri and Tim Cook's last event as CEO
+   ZDNet → https://www.zdnet.com/article/apple-wwdc-live-blog-06-08-2026/
+   Apple WWDC 2026 keynote covers iOS 27, Siri, and more
+
+9. Apple’s long-awaited AI Siri overhaul is finally here
+   TechCrunch → https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/
+   Apple releases major AI-powered Siri update
+
+10. Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence
+   VentureBeat → https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence
+   Microsoft AI chief comments on the company's goals for superintelligence
+
+
+🏋  GYM PLAYLIST  (~175.3 min)
+────────────────────────────────────────────────────────────────
+1. How to Use Substack as a Complete Beginner in 2026 (Full Tutorial)
+   The Science of Scaling · 18.4 min · Technology
+   https://www.youtube.com/watch?v=qiDQb4PCkCc
+   A tutorial on getting started with Substack in 2026
+
+2. Tony Fadell: How to build real taste (and why AI makes it matter more)
+   Lenny's Podcast · 95.1 min · Personal Growth
+   https://www.youtube.com/watch?v=RJjl1TwyfWM
+   Tony Fadell discusses building real taste and AI's impact
+
+3. The Next Conversation Workbook
+   Talks at Google · 32.6 min · Personal Growth
+   https://www.youtube.com/watch?v=bIjz7UkauBA
+   Jefferson Fisher discusses his workbook on conversations
+
+4. How to Build Your First AI Agent (Step-by-step Tutorial)
+   The Science of Scaling · 15.1 min · Technology
+   https://www.youtube.com/watch?v=YkdAx2XjWDs
+   A tutorial on building a first AI agent
+
+5. Why Your Business Doesn't Show Up In AI Search (And How to Fix It)
+   The Science of Scaling · 14.1 min · Technology
+   https://www.youtube.com/watch?v=qT3M5WVafRQ
+   Understanding and fixing AI search visibility issues for businesses
