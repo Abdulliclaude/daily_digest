@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-10  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Cybersecurity researchers complain that Claude Fable's guardrails are too strict
+   TechCrunch → https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
+   Cybersecurity researchers are unhappy with the strict guardrails on Anthropic's Fable, which reject innocuous tasks like reading blog posts or performing code reviews.
+
+2. Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer
+   VentureBeat → https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer
+   Apple's new Siri AI is a more advanced and enterprise-focused assistant that can be integrated into various apps and services.
+
+3. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM's CEO believes that spending on AI data centers may not be a viable long-term investment for the company.
+
+4. Survey: 53% of Americans fear AI could put someone in their household out of work
+   Techmeme → https://www.techmeme.com/260610/p46#a260610p46
+   A recent survey shows that a majority of Americans are concerned that AI could lead to job losses in their households.
+
+5. Google introduces DiffusionGemma, an experimental 26B-parameter open model
+   Techmeme → https://www.techmeme.com/260610/p44#a260610p44
+   Google has introduced a new experimental AI model called DiffusionGemma, which is a 26B-parameter open model that uses text diffusion for faster text generation.
+
+6. The Download: whole-body rejuvenation drugs and five things to know about AI
+   MIT Tech Review → https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/
+   The article provides an update on whole-body rejuvenation drugs and highlights five key things to know about AI, including its potential impact on society and the economy.
+
+7. On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.
+   VentureBeat → https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it
+   Apple's new architecture is designed to overcome the memory limitations of on-device AI agents, allowing for more efficient processing of AI tasks.
+
+8. Racist comments targeting politicians tripled since Meta relaxed its rules
+   Ars Technica → https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/
+   Racist comments targeting politicians have increased significantly since Meta relaxed its content moderation rules, according to a recent study.
+
+9. MassMutual's AI strategy: 12-month contracts, 30% productivity gains, zero lock-in
+   VentureBeat → https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in
+   MassMutual's AI strategy involves using 12-month contracts to drive 30% productivity gains with zero lock-in, allowing the company to remain flexible and adaptable.
+
+10. Best Early Amazon Prime Day phone deals: Over 20% on Samsung and Google devices
+   ZDNet → https://www.zdnet.com/article/best-early-amazon-prime-day-phone-deals-2026/
+   ZDNet highlights the best early Amazon Prime Day phone deals, including discounts of over 20% on Samsung and Google devices.
+
+
+🏋  GYM PLAYLIST  (~262.8 min)
+────────────────────────────────────────────────────────────────
+1. Tony Fadell: How to build real taste (and why AI makes it matter more)
+   Lenny's Podcast · 95.1 min · Technology
+   https://www.youtube.com/watch?v=RJjl1TwyfWM
+   Tony Fadell discusses the importance of building real taste and how AI can enhance this process.
+
+2. The easiest (& laziest) way to get rich
+   Nischa · 14.6 min · Finance
+   https://www.youtube.com/watch?v=lAbTmTxiOAQ
+   The video presents a simple and lazy approach to achieving wealth, focusing on long-term investments and smart financial decisions.
+
+3. Dr. Deepika Chopra | The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the power of real optimism and how it can be applied to achieve personal and professional success.
+
+4. The most rational take on AI you’ll hear this year
+   Lenny's Podcast · 79.8 min · Technology
+   https://www.youtube.com/watch?v=BD3vLtWhT5A
+   The podcast presents a rational and balanced perspective on AI, discussing its potential benefits and challenges.
+
+5. Nelson Dellis | Everyday Genius: Hacks to Boost Your Memory, Focus...
+   Talks at Google · 32.8 min · Personal Growth
+   https://www.youtube.com/watch?v=MGY_OM8u42A
+   Nelson Dellis shares hacks and strategies for improving memory and focus, providing practical tips for achieving everyday genius.
