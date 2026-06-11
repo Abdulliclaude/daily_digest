@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-11  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Some investors question SpaceX's projected $1.77T valuation
+   New York Times → https://www.techmeme.com/260611/p42#a260611p42
+   Investors are questioning SpaceX's projected $1.77T valuation due to concerns over its $4.3B loss on $4.7B in revenue in Q1.
+
+2. Former a16z GP John O'Farrell criticizes the AI industry
+   New York Times → https://www.techmeme.com/260611/p40#a260611p40
+   Former a16z GP John O'Farrell criticizes the AI industry and his ex-partners for spending hundreds of millions to fight regulation.
+
+3. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Business Insider → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM CEO says there is 'no way' spending on AI data centers will pay off, citing concerns over the high costs and limited returns.
+
+4. Google DeepMind is worried about what happens when millions of agents start to interact
+   MIT Tech Review → https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/
+   Google DeepMind is worried about the potential consequences of millions of agents interacting with each other, citing concerns over safety and control.
+
+5. Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit
+   VentureBeat → https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit
+   New research has developed a context compression technique that can cut LLM input by 16x without affecting accuracy, potentially improving efficiency and performance.
+
+6. Why China is betting on big nuclear reactors
+   MIT Tech Review → https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/
+   China is investing heavily in big nuclear reactors, citing the need for clean and reliable energy sources to support its growing economy and population.
+
+7. The first complex cells had genes from a complex mix of species
+   Ars Technica → https://arstechnica.com/science/2026/06/the-first-complex-cells-had-genes-from-a-complex-mix-of-species/
+   Scientists have discovered that the first complex cells had genes from a complex mix of species, challenging traditional theories of cellular evolution.
+
+8. Several things I like about macOS 27 Golden Gate that have nothing to do with AI
+   Ars Technica → https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/
+   The author discusses several features of macOS 27 Golden Gate that they like, including improvements to the user interface and new productivity tools.
+
+9. Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights
+   VentureBeat → https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights
+   Microsoft has released an open-source tool called SkillOpt that can automatically upgrade AI agent skills without modifying the underlying model weights.
+
+10. What AI benchmarks miss about real-world performance
+   VentureBeat → https://venturebeat.com/orchestration/what-ai-benchmarks-miss-about-real-world-performance
+   The article discusses the limitations of AI benchmarks in measuring real-world performance, citing factors such as data quality and deployment environments.
+
+
+🏋  GYM PLAYLIST  (~214.6 min)
+────────────────────────────────────────────────────────────────
+1. Dr. Deepika Chopra | The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the power of real optimism and how it can be applied in daily life.
+
+2. Tony Fadell: How to build real taste (and why AI makes it matter more)
+   Lenny's Podcast · 95.1 min · Technology
+   https://www.youtube.com/watch?v=RJjl1TwyfWM
+   Tony Fadell discusses the importance of building real taste and how AI is changing the way we approach product design and development.
+
+3. The agent-ready web: Simplify user actions with WebMCP — Tara Agyemang, Google
+   AI Engineer · 21.6 min · Technology
+   https://www.youtube.com/watch?v=ghJmWQCIHRM
+   Tara Agyemang discusses the concept of the agent-ready web and how WebMCP can simplify user actions and improve the overall user experience.
+
+4. Our AI Future: From Abundance to Apocalypse
+   Stanford Graduate School of Business · 45.2 min · Technology
+   https://www.youtube.com/watch?v=vKhh82Y0l0E
+   The panel discusses the potential future of AI, including both the benefits and risks, and how we can work towards creating a more abundant and sustainable future.
+
+5. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   The accountant explains how people may be richer than they think, discussing factors such as asset valuation and financial planning.
