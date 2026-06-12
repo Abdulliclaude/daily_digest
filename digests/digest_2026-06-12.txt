@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-12  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Google sues alleged Chinese cybercrime operation that used AI to send scam texts
+   TechCrunch → https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/
+   Google sues a Chinese cybercrime operation for using AI to send scam texts.
+
+2. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+3. NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code
+   VentureBeat → https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code
+   NanoClaw and JFrog launch an 'immune system' to block AI agents from downloading malicious code.
+
+4. Google DeepMind is worried about what happens when millions of agents start to interact
+   MIT Tech Review → https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/
+   Google DeepMind is concerned about the potential consequences of millions of agents interacting.
+
+5. 40% of enterprises will scrap AI agents - 3 ways to ensure yours don't fail
+   ZDNet → https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/
+   40% of enterprises will scrap AI agents, and there are three ways to ensure yours don't fail.
+
+6. Claude Fable 5 secretly throttled AI researchers, and the internet went wild
+   ZDNet → https://www.zdnet.com/article/claude-fable-5-secretly-throttled/
+   Claude Fable 5 secretly throttled AI researchers, causing an internet controversy.
+
+7. The Download: soccer’s data renaissance and China’s big nuclear plans
+   MIT Tech Review → https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/
+   The soccer industry is experiencing a data renaissance, and China has big nuclear plans.
+
+8. RFK Jr. melts down over NYT report, admits he blacklists reporters
+   Ars Technica → https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/
+   RFK Jr. had a public meltdown over an NYT report and admitted to blacklisting reporters.
+
+9. Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO
+   TechCrunch → https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/
+   Elon Musk became the world's first trillionaire after SpaceX's historic IPO.
+
+10. China Didn't Make People Hate Data Centers
+   Wired → https://www.wired.com/story/china-us-data-center-opposition/
+   The US and China have different oppositions to data centers.
+
+
+🏋  GYM PLAYLIST  (~339.7 min)
+────────────────────────────────────────────────────────────────
+1. Tony Fadell: How to build real taste (and why AI makes it matter more)
+   Lenny's Podcast · 95.1 min · Technology
+   https://www.youtube.com/watch?v=RJjl1TwyfWM
+   Tony Fadell discusses building real taste and how AI affects it.
+
+2. You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   This video explores the idea that people may be richer than they think.
+
+3. The most rational take on AI you’ll hear this year
+   Lenny's Podcast · 79.8 min · Technology
+   https://www.youtube.com/watch?v=BD3vLtWhT5A
+   This podcast offers a rational take on AI.
+
+4. Why the AI Boom Is Just Getting Started
+   Invest Like The Best · 80.2 min · Technology
+   https://www.youtube.com/watch?v=DZt1DDmMNGk
+   This video discusses why the AI boom is just getting started.
+
+5. Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation
+   Invest Like The Best · 71.3 min · Technology
+   https://www.youtube.com/watch?v=ThMtheE5eO0
+   The Uber CEO talks about AI, autonomous vehicles, and the future of transportation.
