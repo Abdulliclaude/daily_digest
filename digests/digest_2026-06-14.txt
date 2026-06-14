@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-14  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Ajinomoto says it can meet demand through 2030 for ABF
+   Wall Street Journal → https://www.techmeme.com/260614/p6#a260614p6
+   Ajinomoto plans to expand capacity instead of hiking prices for ABF, a key material for advanced chipmaking substrates.
+
+2. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations
+   VentureBeat → https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations
+   Google researchers introduced 'faithful uncertainty' to allow LLMs to offer best guesses instead of hallucinations.
+
+4. Kioxia's shares soared 56x in 18 months
+   Techmeme → https://www.techmeme.com/260614/p5#a260614p5
+   Kioxia's shares soared 56x in 18 months, making it Japan's most valuable company.
+
+5. Anthropic shuts down Fable, Mythos models following Trump admin directive
+   Ars Technica → https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive
+   Anthropic shut down Fable and Mythos models following a Trump administration directive.
+
+6. PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data
+   Ars Technica → https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data
+   A PeopleSoft 0-day vulnerability is affecting hundreds of organizations, stealing gigabytes of data.
+
+7. As the 2026 FIFA World Cup begins, there is still no clear replacement for 'Sports Twitter'
+   Techmeme → https://www.techmeme.com/260614/p4#a260614p4
+   There is still no clear replacement for 'Sports Twitter' as the 2026 FIFA World Cup begins.
+
+8. The Download: soccer’s data renaissance and China’s big nuclear plans
+   MIT Tech Review → https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power
+   The Download covers soccer's data renaissance and China's big nuclear plans.
+
+9. SpaceX is now a public company valued for its AI potential, so what comes next?
+   Ars Technica → https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next
+   SpaceX is now a public company valued for its AI potential, and its future plans are uncertain.
+
+10. Nothing CEO Carl Pei says memory is now the costliest phone component
+   The Verge → https://www.techmeme.com/260614/p2#a260614p2
+   Nothing CEO Carl Pei says memory is now the costliest phone component, accounting for 50%+ of BOM in some models.
+
+
+🏋  GYM PLAYLIST  (~232 min)
+────────────────────────────────────────────────────────────────
+1. The hidden pattern behind successful products
+   Lenny's Podcast · 99.4 min · Technology
+   https://www.youtube.com/watch?v=7eh9C3TUotc
+   Mark Pincus discusses the hidden pattern behind successful products like FarmVille and Words with Friends.
+
+2. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra talks about the power of real optimism.
+
+3. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   An accountant explains how you might be richer than you think.
+
+4. The ERP for the AI Revolution is here
+   Y Combinator · 27.6 min · Technology
+   https://www.youtube.com/watch?v=X1NXnLRNIfM
+   The ERP for the AI Revolution is discussed by Y Combinator.
+
+5. How to Disagree Better
+   Talks at Google · 32.2 min · Personal Growth
+   https://www.youtube.com/watch?v=GigRB6bZ0MI
+   Julia Minson talks about how to disagree better.
+
+6. Meet The DevTool Founders Building For AI Agents
+   Y Combinator · 20.5 min · Technology
+   https://www.youtube.com/watch?v=RMmEB9ajmdo
+   Y Combinator meets the devtool founders building for AI agents.

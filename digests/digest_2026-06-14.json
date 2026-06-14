@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Ajinomoto says it can meet demand through 2030 for ABF",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260614/p6#a260614p6",
+      "summary": "Ajinomoto plans to expand capacity instead of hiking prices for ABF, a key material for advanced chipmaking substrates."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
+      "summary": "Google researchers introduced 'faithful uncertainty' to allow LLMs to offer best guesses instead of hallucinations."
+    },
+    {
+      "title": "Kioxia's shares soared 56x in 18 months",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260614/p5#a260614p5",
+      "summary": "Kioxia's shares soared 56x in 18 months, making it Japan's most valuable company."
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
+      "summary": "Anthropic shut down Fable and Mythos models following a Trump administration directive."
+    },
+    {
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data",
+      "summary": "A PeopleSoft 0-day vulnerability is affecting hundreds of organizations, stealing gigabytes of data."
+    },
+    {
+      "title": "As the 2026 FIFA World Cup begins, there is still no clear replacement for 'Sports Twitter'",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260614/p4#a260614p4",
+      "summary": "There is still no clear replacement for 'Sports Twitter' as the 2026 FIFA World Cup begins."
+    },
+    {
+      "title": "The Download: soccer\u2019s data renaissance and China\u2019s big nuclear plans",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power",
+      "summary": "The Download covers soccer's data renaissance and China's big nuclear plans."
+    },
+    {
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
+      "summary": "SpaceX is now a public company valued for its AI potential, and its future plans are uncertain."
+    },
+    {
+      "title": "Nothing CEO Carl Pei says memory is now the costliest phone component",
+      "source": "The Verge",
+      "url": "https://www.techmeme.com/260614/p2#a260614p2",
+      "summary": "Nothing CEO Carl Pei says memory is now the costliest phone component, accounting for 50%+ of BOM in some models."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The hidden pattern behind successful products",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "duration_min": 99.4,
+      "category": "Technology",
+      "summary": "Mark Pincus discusses the hidden pattern behind successful products like FarmVille and Words with Friends."
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "Dr. Deepika Chopra talks about the power of real optimism."
+    },
+    {
+      "title": "Accountant explains: You might be richer than you think",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=859_TTVdfn4",
+      "duration_min": 12.3,
+      "category": "Finance",
+      "summary": "An accountant explains how you might be richer than you think."
+    },
+    {
+      "title": "The ERP for the AI Revolution is here",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=X1NXnLRNIfM",
+      "duration_min": 27.6,
+      "category": "Technology",
+      "summary": "The ERP for the AI Revolution is discussed by Y Combinator."
+    },
+    {
+      "title": "How to Disagree Better",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=GigRB6bZ0MI",
+      "duration_min": 32.2,
+      "category": "Personal Growth",
+      "summary": "Julia Minson talks about how to disagree better."
+    },
+    {
+      "title": "Meet The DevTool Founders Building For AI Agents",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=RMmEB9ajmdo",
+      "duration_min": 20.5,
+      "category": "Technology",
+      "summary": "Y Combinator meets the devtool founders building for AI agents."
+    }
+  ],
+  "gym_total_min": 232,
+  "mode": "live"
+}
