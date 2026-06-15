@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Meta launches new AI features, including an 'AI Mode' for search",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "summary": "Meta launched a new AI mode for search, pulling answers from public posts across the platform"
+    },
+    {
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "summary": "IBM CEO expresses skepticism about the financial viability of investing in AI data centers"
+    },
+    {
+      "title": "Arcade, which helps companies manage which actions AI agents are authorized to take, raised a $60M Series A",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260615/p37#a260615p37",
+      "summary": "Arcade secured $60M in Series A funding to develop AI agent management solutions"
+    },
+    {
+      "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+      "summary": "Satya Nadella cautions that AI may have a devastating impact on various industries, comparable to globalization"
+    },
+    {
+      "title": "UK to ban social media for kids under 16, may impose overnight curfews",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
+      "summary": "The UK plans to ban social media for children under 16 and may introduce overnight curfews"
+    },
+    {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "summary": "Nvidia aims to secure over $25B in its first bond deal since 2021"
+    },
+    {
+      "title": "Why do South Koreans love AI so much?",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "summary": "This article explores the reasons behind South Koreans' enthusiasm for AI"
+    },
+    {
+      "title": "A US judge dismisses xAI's lawsuit alleging OpenAI stole trade secrets",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260615/p36#a260615p36",
+      "summary": "xAI's lawsuit against OpenAI, alleging trade secret theft, was dismissed by a US judge"
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider"
+    },
+    {
+      "title": "85% of IT teams claim every AI agent is under control. Only 42% actually know who owns them",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them",
+      "summary": "A significant gap exists between IT teams' confidence in controlling AI agents and their actual knowledge of agent ownership"
+    }
+  ],
+  "gym": [
+    {
+      "title": "The most rational take on AI you\u2019ll hear this year",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
+      "duration_min": 79.8,
+      "category": "Technology",
+      "summary": "A rational discussion about AI, its potential, and its limitations"
+    },
+    {
+      "title": "The hidden pattern behind successful products",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "duration_min": 99.4,
+      "category": "Personal Growth",
+      "summary": "Insights into the common patterns and characteristics of successful products"
+    },
+    {
+      "title": "Ep. 44, Preferred Futures: Climate and Environmental Justice Across Borders",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=whfrZBMkZ7c",
+      "duration_min": 19.9,
+      "category": "Personal Growth",
+      "summary": "A discussion on climate and environmental justice, focusing on preferred futures and cross-border collaboration"
+    },
+    {
+      "title": "Why I'm changing how I invest (before it's too late)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=HNVg81nA2J8",
+      "duration_min": 12.0,
+      "category": "Finance",
+      "summary": "A personal reflection on investing strategies and the importance of adapting to changing circumstances"
+    },
+    {
+      "title": "AI on campus",
+      "channel": "Anthropic",
+      "url": "https://www.youtube.com/watch?v=N5yJJA0NCU0",
+      "duration_min": 38.8,
+      "category": "Technology",
+      "summary": "A discussion on the applications and implications of AI in educational settings"
+    },
+    {
+      "title": "Inside the Octagon: How AI Brings UFC\u2019s Fastest Moments into Focus",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=S-VapXoiEcA",
+      "duration_min": 47.2,
+      "category": "Technology",
+      "summary": "An examination of how AI is used to enhance the viewing experience of UFC events"
+    }
+  ],
+  "gym_total_min": 42.1,
+  "mode": "live"
+}

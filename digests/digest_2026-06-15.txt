@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-15  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Meta launches new AI features, including an 'AI Mode' for search
+   TechCrunch → https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/
+   Meta launched a new AI mode for search, pulling answers from public posts across the platform
+
+2. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM CEO expresses skepticism about the financial viability of investing in AI data centers
+
+3. Arcade, which helps companies manage which actions AI agents are authorized to take, raised a $60M Series A
+   Techmeme → https://www.techmeme.com/260615/p37#a260615p37
+   Arcade secured $60M in Series A funding to develop AI agent management solutions
+
+4. Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization
+   VentureBeat → https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization
+   Satya Nadella cautions that AI may have a devastating impact on various industries, comparable to globalization
+
+5. UK to ban social media for kids under 16, may impose overnight curfews
+   Ars Technica → https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/
+   The UK plans to ban social media for children under 16 and may introduce overnight curfews
+
+6. Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021
+   Ars Technica → https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/
+   Nvidia aims to secure over $25B in its first bond deal since 2021
+
+7. Why do South Koreans love AI so much?
+   MIT Tech Review → https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
+   This article explores the reasons behind South Koreans' enthusiasm for AI
+
+8. A US judge dismisses xAI's lawsuit alleging OpenAI stole trade secrets
+   Techmeme → https://www.techmeme.com/260615/p36#a260615p36
+   xAI's lawsuit against OpenAI, alleging trade secret theft, was dismissed by a US judge
+
+9. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider
+
+10. 85% of IT teams claim every AI agent is under control. Only 42% actually know who owns them
+   VentureBeat → https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them
+   A significant gap exists between IT teams' confidence in controlling AI agents and their actual knowledge of agent ownership
+
+
+🏋  GYM PLAYLIST  (~42.1 min)
+────────────────────────────────────────────────────────────────
+1. The most rational take on AI you’ll hear this year
+   Lenny's Podcast · 79.8 min · Technology
+   https://www.youtube.com/watch?v=BD3vLtWhT5A
+   A rational discussion about AI, its potential, and its limitations
+
+2. The hidden pattern behind successful products
+   Lenny's Podcast · 99.4 min · Personal Growth
+   https://www.youtube.com/watch?v=7eh9C3TUotc
+   Insights into the common patterns and characteristics of successful products
+
+3. Ep. 44, Preferred Futures: Climate and Environmental Justice Across Borders
+   Stanford Graduate School of Business · 19.9 min · Personal Growth
+   https://www.youtube.com/watch?v=whfrZBMkZ7c
+   A discussion on climate and environmental justice, focusing on preferred futures and cross-border collaboration
+
+4. Why I'm changing how I invest (before it's too late)
+   Nischa · 12.0 min · Finance
+   https://www.youtube.com/watch?v=HNVg81nA2J8
+   A personal reflection on investing strategies and the importance of adapting to changing circumstances
+
+5. AI on campus
+   Anthropic · 38.8 min · Technology
+   https://www.youtube.com/watch?v=N5yJJA0NCU0
+   A discussion on the applications and implications of AI in educational settings
+
+6. Inside the Octagon: How AI Brings UFC’s Fastest Moments into Focus
+   IBM Technology · 47.2 min · Technology
+   https://www.youtube.com/watch?v=S-VapXoiEcA
+   An examination of how AI is used to enhance the viewing experience of UFC events
