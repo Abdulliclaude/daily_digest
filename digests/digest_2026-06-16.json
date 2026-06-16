@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Sensor Tower: ChatGPT's market share fell to 46.4% by the end of May",
+      "source": "TechCrunch",
+      "url": "https://www.techmeme.com/260616/p38#a260616p38",
+      "summary": "ChatGPT's market share has decreased to 46.4% as competitors like Gemini and Claude gain traction."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Zhipu launches GLM-5.2, says it markedly improves coding and agentic tasks",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260616/p37#a260616p37",
+      "summary": "Zhipu's GLM-5.2 improves coding and agentic tasks with strong long-horizon capabilities and a 1M context window."
+    },
+    {
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
+      "summary": "OpenAI is losing billions of dollars annually, according to leaked financial documents."
+    },
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features",
+      "summary": "Android 17 introduces new multitasking tools and expands Gemini features for improved productivity."
+    },
+    {
+      "title": "Qualcomm announces Snapdragon Reality Elite, its new flagship XR chipset",
+      "source": "UploadVR",
+      "url": "https://www.techmeme.com/260616/p35#a260616p35",
+      "summary": "Qualcomm's Snapdragon Reality Elite is a new flagship XR chipset debuting in Xreal's Aura Android XR device."
+    },
+    {
+      "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+      "summary": "Sakana AI introduces an 'ultra deep research' agent for 100+ page reports in 8 hours, enhancing business research capabilities."
+    },
+    {
+      "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+      "summary": "Satya Nadella cautions that AI may have a similar devastating impact on industries as globalization has had in the past."
+    },
+    {
+      "title": "The Pentagon boasts of using AI to write reports mandated by Congress",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress",
+      "summary": "The Pentagon is utilizing AI to generate reports required by Congress, showcasing AI's potential in bureaucratic tasks."
+    },
+    {
+      "title": "Stanford's DeLM cuts multi-agent task costs 50% \u2014 without a central orchestrator",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator",
+      "summary": "Stanford's DeLM reduces multi-agent task costs by 50% without needing a central orchestrator, improving efficiency and scalability."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The hidden pattern behind successful products",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "duration_min": 99.4,
+      "category": "Technology",
+      "summary": "Mark Pincus discusses the underlying pattern that contributes to the success of products like FarmVille and Words with Friends."
+    },
+    {
+      "title": "Accountant explains: You might be richer than you think",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=859_TTVdfn4",
+      "duration_min": 12.3,
+      "category": "Finance",
+      "summary": "An accountant shares insights on how individuals may have more wealth than they realize, offering a fresh perspective on personal finance."
+    },
+    {
+      "title": "How to Use Substack as a Complete Beginner in 2026",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=qiDQb4PCkCc",
+      "duration_min": 18.4,
+      "category": "Personal Growth",
+      "summary": "A tutorial on using Substack for beginners, covering the basics and best practices for getting started with the platform in 2026."
+    },
+    {
+      "title": "AI Content is Killing Your Views in 2026",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=3Vr1HFPVzdU",
+      "duration_min": 17.0,
+      "category": "Technology",
+      "summary": "A discussion on how AI-generated content is impacting views in 2026 and potential strategies to mitigate this effect."
+    },
+    {
+      "title": "The ERP for the AI Revolution is here",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=X1NXnLRNIfM",
+      "duration_min": 27.6,
+      "category": "Technology",
+      "summary": "An introduction to the ERP designed for the AI revolution, highlighting its key features and implications for businesses."
+    }
+  ],
+  "gym_total_min": 174.7,
+  "mode": "live"
+}

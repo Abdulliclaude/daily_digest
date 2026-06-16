@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-16  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sensor Tower: ChatGPT's market share fell to 46.4% by the end of May
+   TechCrunch → https://www.techmeme.com/260616/p38#a260616p38
+   ChatGPT's market share has decreased to 46.4% as competitors like Gemini and Claude gain traction.
+
+2. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Zhipu launches GLM-5.2, says it markedly improves coding and agentic tasks
+   Techmeme → https://www.techmeme.com/260616/p37#a260616p37
+   Zhipu's GLM-5.2 improves coding and agentic tasks with strong long-horizon capabilities and a 1M context window.
+
+4. Leaked financial docs show OpenAI is losing billions of dollars a year
+   Ars Technica → https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year
+   OpenAI is losing billions of dollars annually, according to leaked financial documents.
+
+5. Android 17 launches with new multitasking tools as Google expands Gemini features
+   TechCrunch → https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features
+   Android 17 introduces new multitasking tools and expands Gemini features for improved productivity.
+
+6. Qualcomm announces Snapdragon Reality Elite, its new flagship XR chipset
+   UploadVR → https://www.techmeme.com/260616/p35#a260616p35
+   Qualcomm's Snapdragon Reality Elite is a new flagship XR chipset debuting in Xreal's Aura Android XR device.
+
+7. When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent
+   VentureBeat → https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours
+   Sakana AI introduces an 'ultra deep research' agent for 100+ page reports in 8 hours, enhancing business research capabilities.
+
+8. Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization
+   VentureBeat → https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization
+   Satya Nadella cautions that AI may have a similar devastating impact on industries as globalization has had in the past.
+
+9. The Pentagon boasts of using AI to write reports mandated by Congress
+   Ars Technica → https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress
+   The Pentagon is utilizing AI to generate reports required by Congress, showcasing AI's potential in bureaucratic tasks.
+
+10. Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator
+   VentureBeat → https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator
+   Stanford's DeLM reduces multi-agent task costs by 50% without needing a central orchestrator, improving efficiency and scalability.
+
+
+🏋  GYM PLAYLIST  (~174.7 min)
+────────────────────────────────────────────────────────────────
+1. The hidden pattern behind successful products
+   Lenny's Podcast · 99.4 min · Technology
+   https://www.youtube.com/watch?v=7eh9C3TUotc
+   Mark Pincus discusses the underlying pattern that contributes to the success of products like FarmVille and Words with Friends.
+
+2. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   An accountant shares insights on how individuals may have more wealth than they realize, offering a fresh perspective on personal finance.
+
+3. How to Use Substack as a Complete Beginner in 2026
+   The Science of Scaling · 18.4 min · Personal Growth
+   https://www.youtube.com/watch?v=qiDQb4PCkCc
+   A tutorial on using Substack for beginners, covering the basics and best practices for getting started with the platform in 2026.
+
+4. AI Content is Killing Your Views in 2026
+   The Science of Scaling · 17.0 min · Technology
+   https://www.youtube.com/watch?v=3Vr1HFPVzdU
+   A discussion on how AI-generated content is impacting views in 2026 and potential strategies to mitigate this effect.
+
+5. The ERP for the AI Revolution is here
+   Y Combinator · 27.6 min · Technology
+   https://www.youtube.com/watch?v=X1NXnLRNIfM
+   An introduction to the ERP designed for the AI revolution, highlighting its key features and implications for businesses.
