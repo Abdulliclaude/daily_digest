@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-17  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources: Dario Amodei and Demis Hassabis called for a US-led coalition to shape AI rules and standards
+   CNBC → https://www.techmeme.com/260617/p39#a260617p39
+   Tech leaders call for a US-led coalition to shape AI rules and standards.
+
+2. A newly discovered data leak has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials
+   BleepingComputer → https://www.techmeme.com/260617/p38#a260617p38
+   A data leak has exposed Fortinet and FortiGate VPN credentials.
+
+3. IBM acquires Red Hat
+   Red Hat → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+4. Studies: Mira, an AI medical tool developed by researchers in Germany, and Google's Amie matched or surpassed doctors on diagnostic and treatment decisions
+   Financial Times → https://www.techmeme.com/260617/p35#a260617p35
+   AI medical tools match or surpass doctors in diagnostic and treatment decisions.
+
+5. World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names
+   TechCrunch → https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/
+   Odyssey raises $1.45B in valuation backed by Amazon and other big names.
+
+6. Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents
+   VentureBeat → https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents
+   Databricks solves the decades-old data pipeline problem slowing AI agents.
+
+7. Every way your phone tracks your location - and how to stop it
+   ZDNet → https://www.zdnet.com/article/a-guide-to-location-tracking-on-your-phone-how-it-works-and-how-to-stop-it/
+   Understanding how phones track location and how to stop it.
+
+8. Native NACS ports, infotainment upgrade for MY27 Porsche Taycan
+   Ars Technica → https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/
+   Porsche Taycan gets native NACS ports and infotainment upgrade.
+
+9. Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization
+   VentureBeat → https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization
+   Satya Nadella warns AI could hollow out entire industries like globalization.
+
+10. The Download: a reality check for geoengineering and the science of interoception
+   MIT Tech Review → https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/
+   A reality check for geoengineering and the science of interoception.
+
+
+🏋  GYM PLAYLIST  (~249.8 min)
+────────────────────────────────────────────────────────────────
+1. The hidden pattern behind successful products
+   Lenny's Podcast · 99.4 min · Technology
+   https://www.youtube.com/watch?v=7eh9C3TUotc
+   Mark Pincus discusses the hidden pattern behind successful products.
+
+2. How to Optimize Your Profile for LinkedIn's New AI Algorithm
+   The Science of Scaling · 13.8 min · Personal Growth
+   https://www.youtube.com/watch?v=MGjXraYMbhQ
+   Optimizing your LinkedIn profile for the new AI algorithm.
+
+3. Why the AI Boom Is Just Getting Started
+   Invest Like The Best · 80.2 min · Technology
+   https://www.youtube.com/watch?v=DZt1DDmMNGk
+   The AI boom is just getting started.
+
+4. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   An accountant explains how you might be richer than you think.
+
+5. Your Attention Is the Bottleneck, Not Your Agents
+   AI Engineer · 25.3 min · Technology
+   https://www.youtube.com/watch?v=so9l_MwS2yg
+   Your attention is the bottleneck, not your agents.
+
+6. You Might Not Need 50 Diffusion Steps
+   AI Engineer · 18.8 min · Technology
+   https://www.youtube.com/watch?v=gHs5ZiY80PM
+   You might not need 50 diffusion steps.
