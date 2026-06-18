@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-18  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Apple opens iOS to alternative app marketplaces in Brazil and changes App Store commission structure following a settlement with competition watchdog CADE
+   Techmeme → https://www.techmeme.com/260618/p35#a260618p35
+   Apple has opened iOS to alternative app marketplaces in Brazil and changed its App Store commission structure following a settlement with the competition watchdog CADE.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team called Strategic Futures, focused on frontier AI policy and internal governance
+   Techmeme → https://www.techmeme.com/260618/p34#a260618p34
+   Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team focused on frontier AI policy and internal governance.
+
+4. The search for dark matter has been blown wide open
+   MIT Tech Review → https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/
+   The search for dark matter has been blown wide open with new discoveries and advancements in the field.
+
+5. Rivian owners sue over false promises on self-driving features
+   TechCrunch → https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/
+   Rivian owners are suing the company over false promises on self-driving features.
+
+6. Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost
+   VentureBeat → https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost
+   Z.ai's open-weights GLM-5.2 has beaten GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost.
+
+7. The smartphone era created an attention crisis. Slowtech is fixing it
+   TechCrunch → https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/
+   The smartphone era has created an attention crisis, but Slowtech is working to fix it with new approaches to technology design.
+
+8. Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration
+   VentureBeat → https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration
+   Adobe is embedding agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration.
+
+9. AWS enters the context layer race with a graph that learns from agents, not manual curation
+   VentureBeat → https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation
+   AWS is entering the context layer race with a graph that learns from agents, rather than relying on manual curation.
+
+10. Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again
+   VentureBeat → https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again
+   Weibo's tiny VibeThinker-3B has sparked debate in the AI world over benchmarks and their validity.
+
+
+🏋  GYM PLAYLIST  (~231.1 min)
+────────────────────────────────────────────────────────────────
+1. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the power of real optimism and how it can be applied to everyday life.
+
+2. Why the AI Boom Is Just Getting Started
+   Invest Like The Best · 80.2 min · Technology
+   https://www.youtube.com/watch?v=DZt1DDmMNGk
+   The AI boom is just getting started, with significant potential for growth and innovation in the field.
+
+3. Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation
+   Invest Like The Best · 71.3 min · Technology
+   https://www.youtube.com/watch?v=ThMtheE5eO0
+   The Uber CEO discusses the role of AI, autonomous vehicles, and the future of transportation.
+
+4. From Apartment Startup to Luxury Tech Brand
+   The Science of Scaling · 19.2 min · Finance
+   https://www.youtube.com/watch?v=ho2A6IYqwLs
+   The story of how a startup went from apartments to becoming a luxury tech brand.
+
+5. Stop Making Models Bigger, Make Them Behave
+   AI Engineer · 20.9 min · Technology
+   https://www.youtube.com/watch?v=TNwJ1LMiENk
+   The importance of making models behave rather than just increasing their size.

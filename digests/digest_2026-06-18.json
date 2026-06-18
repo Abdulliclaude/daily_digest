@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Apple opens iOS to alternative app marketplaces in Brazil and changes App Store commission structure following a settlement with competition watchdog CADE",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260618/p35#a260618p35",
+      "summary": "Apple has opened iOS to alternative app marketplaces in Brazil and changed its App Store commission structure following a settlement with the competition watchdog CADE."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team called Strategic Futures, focused on frontier AI policy and internal governance",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260618/p34#a260618p34",
+      "summary": "Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team focused on frontier AI policy and internal governance."
+    },
+    {
+      "title": "The search for dark matter has been blown wide open",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+      "summary": "The search for dark matter has been blown wide open with new discoveries and advancements in the field."
+    },
+    {
+      "title": "Rivian owners sue over false promises on self-driving features",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/",
+      "summary": "Rivian owners are suing the company over false promises on self-driving features."
+    },
+    {
+      "title": "Z.ai\u2019s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "summary": "Z.ai's open-weights GLM-5.2 has beaten GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost."
+    },
+    {
+      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+      "summary": "The smartphone era has created an attention crisis, but Slowtech is working to fix it with new approaches to technology design."
+    },
+    {
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "summary": "Adobe is embedding agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration."
+    },
+    {
+      "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
+      "summary": "AWS is entering the context layer race with a graph that learns from agents, rather than relying on manual curation."
+    },
+    {
+      "title": "Why Weibo\u2019s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+      "summary": "Weibo's tiny VibeThinker-3B has sparked debate in the AI world over benchmarks and their validity."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "Dr. Deepika Chopra discusses the power of real optimism and how it can be applied to everyday life."
+    },
+    {
+      "title": "Why the AI Boom Is Just Getting Started",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=DZt1DDmMNGk",
+      "duration_min": 80.2,
+      "category": "Technology",
+      "summary": "The AI boom is just getting started, with significant potential for growth and innovation in the field."
+    },
+    {
+      "title": "Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=ThMtheE5eO0",
+      "duration_min": 71.3,
+      "category": "Technology",
+      "summary": "The Uber CEO discusses the role of AI, autonomous vehicles, and the future of transportation."
+    },
+    {
+      "title": "From Apartment Startup to Luxury Tech Brand",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=ho2A6IYqwLs",
+      "duration_min": 19.2,
+      "category": "Finance",
+      "summary": "The story of how a startup went from apartments to becoming a luxury tech brand."
+    },
+    {
+      "title": "Stop Making Models Bigger, Make Them Behave",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=TNwJ1LMiENk",
+      "duration_min": 20.9,
+      "category": "Technology",
+      "summary": "The importance of making models behave rather than just increasing their size."
+    }
+  ],
+  "gym_total_min": 231.1,
+  "mode": "live"
+}
