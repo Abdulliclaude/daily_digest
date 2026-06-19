@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-19  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate
+   Techmeme → https://www.techmeme.com/260619/p15#a260619p15
+   ASML denies that one of its EUV lithography systems has been sent to China.
+
+2. Norway imposes a near ban on gen AI use by elementary school children and restricts its use in older kids' education
+   Techmeme → https://www.techmeme.com/260619/p14#a260619p14
+   Norway restricts the use of AI in schools to prevent negative impact on learning.
+
+3. Billionaire Ambani wants AI in every call, app, and home
+   TechCrunch → https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
+   Ambani plans to integrate AI into various aspects of daily life.
+
+4. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+5. Is the US government’s Anthropic ban accidentally helping the brand?
+   TechCrunch → https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/
+   The US government's Anthropic ban might be inadvertently promoting the brand.
+
+6. New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget
+   VentureBeat → https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget
+   A new AI optimization framework outperforms Claude Code and Codex.
+
+7. A bold satellite rescue mission came together in record time, but will it work?
+   Ars Technica → https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/
+   A satellite rescue mission was quickly assembled, but its success is uncertain.
+
+8. The Download: AI bottleneck debates, and BCI trials take off
+   MIT Tech Review → https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
+   AI bottleneck debates and BCI trials are gaining attention.
+
+9. Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration
+   VentureBeat → https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration
+   Adobe integrates AI workflows into Creative Cloud for improved production orchestration.
+
+10. AWS enters the context layer race with a graph that learns from agents, not manual curation
+   VentureBeat → https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation
+   AWS introduces a graph-based context layer that learns from agents.
+
+
+🏋  GYM PLAYLIST  (~200.0 min)
+────────────────────────────────────────────────────────────────
+1. The Production AI Playbook: Deploying Agents at Enterprise Scale
+   AI Engineer · 37.1 min · Technology
+   https://www.youtube.com/watch?v=ObTPqBGsEbA
+   A playbook for deploying AI agents at enterprise scale.
+
+2. Why the AI Boom Is Just Getting Started
+   Invest Like The Best · 80.2 min · Finance
+   https://www.youtube.com/watch?v=DZt1DDmMNGk
+   The AI boom is expected to continue growing.
+
+3. Dr. Deepika Chopra | The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   The importance of real optimism in personal growth.
+
+4. How to Build a Self-Improving Company with AI
+   Y Combinator · 13.5 min · Technology
+   https://www.youtube.com/watch?v=t-G67yKAHBQ
+   Building a self-improving company using AI.
+
+5. Circle CEO: 3 Things That Will Transform Stablecoins in 2027
+   Y Combinator · 29.4 min · Finance
+   https://www.youtube.com/watch?v=ZVdgiuiOQ7E
+   Three factors that will transform stablecoins in 2027.

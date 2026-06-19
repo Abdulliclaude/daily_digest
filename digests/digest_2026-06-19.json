@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260619/p15#a260619p15",
+      "summary": "ASML denies that one of its EUV lithography systems has been sent to China."
+    },
+    {
+      "title": "Norway imposes a near ban on gen AI use by elementary school children and restricts its use in older kids' education",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260619/p14#a260619p14",
+      "summary": "Norway restricts the use of AI in schools to prevent negative impact on learning."
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "summary": "Ambani plans to integrate AI into various aspects of daily life."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "The US government's Anthropic ban might be inadvertently promoting the brand."
+    },
+    {
+      "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+      "summary": "A new AI optimization framework outperforms Claude Code and Codex."
+    },
+    {
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "summary": "A satellite rescue mission was quickly assembled, but its success is uncertain."
+    },
+    {
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "summary": "AI bottleneck debates and BCI trials are gaining attention."
+    },
+    {
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "summary": "Adobe integrates AI workflows into Creative Cloud for improved production orchestration."
+    },
+    {
+      "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
+      "summary": "AWS introduces a graph-based context layer that learns from agents."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The Production AI Playbook: Deploying Agents at Enterprise Scale",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=ObTPqBGsEbA",
+      "duration_min": 37.1,
+      "category": "Technology",
+      "summary": "A playbook for deploying AI agents at enterprise scale."
+    },
+    {
+      "title": "Why the AI Boom Is Just Getting Started",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=DZt1DDmMNGk",
+      "duration_min": 80.2,
+      "category": "Finance",
+      "summary": "The AI boom is expected to continue growing."
+    },
+    {
+      "title": "Dr. Deepika Chopra | The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "The importance of real optimism in personal growth."
+    },
+    {
+      "title": "How to Build a Self-Improving Company with AI",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=t-G67yKAHBQ",
+      "duration_min": 13.5,
+      "category": "Technology",
+      "summary": "Building a self-improving company using AI."
+    },
+    {
+      "title": "Circle CEO: 3 Things That Will Transform Stablecoins in 2027",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=ZVdgiuiOQ7E",
+      "duration_min": 29.4,
+      "category": "Finance",
+      "summary": "Three factors that will transform stablecoins in 2027."
+    }
+  ],
+  "gym_total_min": 200.0,
+  "mode": "live"
+}
