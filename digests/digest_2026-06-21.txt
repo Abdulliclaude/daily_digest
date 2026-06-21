@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-21  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. SoftBank struggling to find startups in Latin America
+   Bloomberg via Techmeme → https://www.techmeme.com/260621/p4#a260621p4
+   SoftBank is facing challenges in finding suitable startups in Latin America for major investments, having completed only two new deals over the past two years.
+
+2. Polymarket paying creators to make deceptive videos
+   Wall Street Journal via Techmeme → https://www.techmeme.com/260621/p3#a260621p3
+   Polymarket is paying creators to make deceptive videos about winning bets, targeting users in the US where its primary crypto platform is banned.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider, expanding its cloud computing capabilities.
+
+4. Adobe embeds agentic AI workflows across Creative Cloud
+   VentureBeat → https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration
+   Adobe is integrating agentic AI workflows across its Creative Cloud platform to enable more efficient media production and orchestration.
+
+5. The Download: AI bottleneck debates, and BCI trials take off
+   MIT Tech Review → https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off
+   The latest AI bottleneck debates and the emergence of brain-computer interface trials are key developments in the field of AI research.
+
+6. Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones
+   ZDNet → https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair
+   Sennheiser's new Momentum 5 headphones offer a unique battery repair feature, potentially making them a more sustainable option than competitors from Bose and Sony.
+
+7. New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget
+   VentureBeat → https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget
+   A new AI optimization framework has demonstrated superior performance to existing solutions like Claude Code and Codex, achieving a 2.5x improvement on the same compute budget.
+
+8. Geoengineering still faces major practical challenges
+   MIT Tech Review → https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges
+   Despite its potential as a climate change mitigation strategy, geoengineering remains hindered by significant practical challenges that need to be addressed.
+
+9. I tested the new modular ThinkPad, and it's the repairable future I'm hoping for
+   ZDNet → https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review
+   The new modular ThinkPad offers a promising step towards more sustainable and repairable electronics, with its modular design allowing for easier maintenance and upgrade.
+
+10. Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’
+   TechCrunch → https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends
+   Meredith Whittaker emphasizes the importance of understanding that AI chatbots are not genuine friends but rather tools designed to serve specific purposes, highlighting the need for critical awareness when interacting with AI systems.
+
+
+🏋  GYM PLAYLIST  (~210.2 min)
+────────────────────────────────────────────────────────────────
+1. The Production AI Playbook: Deploying Agents at Enterprise Scale
+   AI Engineer · 37.1 min · Technology
+   https://www.youtube.com/watch?v=ObTPqBGsEbA
+   This video discusses the playbook for deploying AI agents at an enterprise scale, covering key considerations and strategies for successful implementation.
+
+2. What TEN years of MARRIAGE taught me
+   Muzamil Hasan | TBT Podcast · 19.5 min · Personal Growth
+   https://www.youtube.com/watch?v=CVcYCiuweRw
+   This podcast episode shares insights and lessons learned from ten years of marriage, offering perspectives on building a strong and lasting relationship.
+
+3. ACCOUNTANT EXPLAINS: The Smartest Order to Invest Your Money (2026)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   This video provides an accountant's perspective on the smartest order for investing money in 2026, offering guidance on making informed investment decisions.
+
+4. The agent-ready web: Simplify user actions with WebMCP
+   AI Engineer · 21.6 min · Technology
+   https://www.youtube.com/watch?v=ghJmWQCIHRM
+   This talk introduces the concept of the agent-ready web and how WebMCP can simplify user actions, enhancing the interaction between humans and AI systems.
+
+5. You Might Not Need 50 Diffusion Steps
+   AI Engineer · 18.8 min · Technology
+   https://www.youtube.com/watch?v=gHs5ZiY80PM
+   This video explores the idea that fewer diffusion steps might be necessary for certain AI applications, potentially streamlining processes and improving efficiency.
+
+6. Building the most AI-pilled engineering team in the world
+   Lenny's Podcast · 98.8 min · Technology
+   https://www.youtube.com/watch?v=Ybrl4FYM57c
+   This podcast episode discusses the challenges and strategies involved in building an engineering team that is heavily focused on AI, covering topics such as recruitment and team culture.

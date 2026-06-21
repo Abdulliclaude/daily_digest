@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "SoftBank struggling to find startups in Latin America",
+      "source": "Bloomberg via Techmeme",
+      "url": "https://www.techmeme.com/260621/p4#a260621p4",
+      "summary": "SoftBank is facing challenges in finding suitable startups in Latin America for major investments, having completed only two new deals over the past two years."
+    },
+    {
+      "title": "Polymarket paying creators to make deceptive videos",
+      "source": "Wall Street Journal via Techmeme",
+      "url": "https://www.techmeme.com/260621/p3#a260621p3",
+      "summary": "Polymarket is paying creators to make deceptive videos about winning bets, targeting users in the US where its primary crypto platform is banned."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider, expanding its cloud computing capabilities."
+    },
+    {
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "summary": "Adobe is integrating agentic AI workflows across its Creative Cloud platform to enable more efficient media production and orchestration."
+    },
+    {
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off",
+      "summary": "The latest AI bottleneck debates and the emergence of brain-computer interface trials are key developments in the field of AI research."
+    },
+    {
+      "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair",
+      "summary": "Sennheiser's new Momentum 5 headphones offer a unique battery repair feature, potentially making them a more sustainable option than competitors from Bose and Sony."
+    },
+    {
+      "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+      "summary": "A new AI optimization framework has demonstrated superior performance to existing solutions like Claude Code and Codex, achieving a 2.5x improvement on the same compute budget."
+    },
+    {
+      "title": "Geoengineering still faces major practical challenges",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges",
+      "summary": "Despite its potential as a climate change mitigation strategy, geoengineering remains hindered by significant practical challenges that need to be addressed."
+    },
+    {
+      "title": "I tested the new modular ThinkPad, and it's the repairable future I'm hoping for",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review",
+      "summary": "The new modular ThinkPad offers a promising step towards more sustainable and repairable electronics, with its modular design allowing for easier maintenance and upgrade."
+    },
+    {
+      "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends",
+      "summary": "Meredith Whittaker emphasizes the importance of understanding that AI chatbots are not genuine friends but rather tools designed to serve specific purposes, highlighting the need for critical awareness when interacting with AI systems."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The Production AI Playbook: Deploying Agents at Enterprise Scale",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=ObTPqBGsEbA",
+      "duration_min": 37.1,
+      "category": "Technology",
+      "summary": "This video discusses the playbook for deploying AI agents at an enterprise scale, covering key considerations and strategies for successful implementation."
+    },
+    {
+      "title": "What TEN years of MARRIAGE taught me",
+      "channel": "Muzamil Hasan | TBT Podcast",
+      "url": "https://www.youtube.com/watch?v=CVcYCiuweRw",
+      "duration_min": 19.5,
+      "category": "Personal Growth",
+      "summary": "This podcast episode shares insights and lessons learned from ten years of marriage, offering perspectives on building a strong and lasting relationship."
+    },
+    {
+      "title": "ACCOUNTANT EXPLAINS: The Smartest Order to Invest Your Money (2026)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=eulBaP-3OX4",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "This video provides an accountant's perspective on the smartest order for investing money in 2026, offering guidance on making informed investment decisions."
+    },
+    {
+      "title": "The agent-ready web: Simplify user actions with WebMCP",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=ghJmWQCIHRM",
+      "duration_min": 21.6,
+      "category": "Technology",
+      "summary": "This talk introduces the concept of the agent-ready web and how WebMCP can simplify user actions, enhancing the interaction between humans and AI systems."
+    },
+    {
+      "title": "You Might Not Need 50 Diffusion Steps",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=gHs5ZiY80PM",
+      "duration_min": 18.8,
+      "category": "Technology",
+      "summary": "This video explores the idea that fewer diffusion steps might be necessary for certain AI applications, potentially streamlining processes and improving efficiency."
+    },
+    {
+      "title": "Building the most AI-pilled engineering team in the world",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
+      "duration_min": 98.8,
+      "category": "Technology",
+      "summary": "This podcast episode discusses the challenges and strategies involved in building an engineering team that is heavily focused on AI, covering topics such as recruitment and team culture."
+    }
+  ],
+  "gym_total_min": 210.2,
+  "mode": "live"
+}
