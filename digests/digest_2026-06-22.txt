@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-22  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sakana AI launches Fugu, a multi-agent orchestration system
+   Techmeme → https://www.techmeme.com/260622/p36#a260622p36
+   Sakana AI launches Fugu, a multi-agent orchestration system with a single model API, claiming it matches Fable and Mythos on benchmarks.
+
+2. Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO
+   Techmeme → https://www.techmeme.com/260622/p35#a260622p35
+   Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+4. No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system
+   VentureBeat → https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system
+   Sakana achieves frontier performance with its new Fugu multi-model, auto synthesis system, rivaling Claude Fable 5.
+
+5. A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak
+   TechCrunch → https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/
+   A new unpatchable flaw in Apple chips could allow for an iPhone jailbreak, posing a significant security risk.
+
+6. OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos
+   Wired → https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos
+   OpenAI launches a full-scale effort to patch open-source bugs, taking on Anthropic's Mythos in the process.
+
+7. Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad
+   The Verge → https://www.theverge.com/2026/6/22/1139424/valve-steam-machine-review
+   The Valve Steam Machine is smaller than the PS5, smooth, and navigable with any modern gamepad, but very expensive and requires manual configuration.
+
+8. Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach
+   TechCrunch → https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/
+   Tata Electronics, a major tech supplier to Apple and Tesla, confirms a data breach, highlighting the vulnerability of supply chains.
+
+9. Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%
+   VentureBeat → https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60
+   Researchers introduce Self-Harness, a framework that allows AI agents to rewrite their own rules, potentially boosting performance by up to 60%.
+
+10. The inevitable weakness of metrics
+   MIT Tech Review → https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review
+   The inevitable weakness of metrics is discussed in a book review, highlighting the limitations and potential pitfalls of relying on metrics.
+
+
+🏋  GYM PLAYLIST  (~38.8 min)
+────────────────────────────────────────────────────────────────
+1. The Smartest Order to Invest Your Money (Step-by-Step)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   A step-by-step guide to investing money, highlighting the smartest order to follow.
+
+2. How to Run ChatGPT Ads: The Complete Tutorial
+   The Science of Scaling · 14.2 min · Technology
+   https://www.youtube.com/watch?v=Dg3yC82J7To
+   A comprehensive tutorial on running ChatGPT ads, covering all the necessary steps.
+
+3. Your old Mac/PC is your new home cloud - Done in less than 20 mins
+   Oliur Online · 9.3 min · Technology
+   https://www.youtube.com/watch?v=Cbx3wirxLWc
+   A guide to repurposing an old Mac or PC as a home cloud, which can be done in under 20 minutes.
+
+4. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   An accountant explains how people may be richer than they think, highlighting potential areas of untapped wealth.
+
+5. The hidden pattern behind successful products
+   Lenny's Podcast · 99.4 min · Personal Growth
+   https://www.youtube.com/watch?v=7eh9C3TUotc
+   A discussion on the hidden patterns behind successful products, featuring Mark Pincus, founder of FarmVille and Words with Friends.
+
+6. How to Optimize Your Profile for LinkedIn's New AI Algorithm
+   The Science of Scaling · 13.8 min · Personal Growth
+   https://www.youtube.com/watch?v=MGjXraYMbhQ
+   A guide to optimizing a LinkedIn profile for the new AI algorithm, including tips and best practices.

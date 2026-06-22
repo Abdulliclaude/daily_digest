@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Sakana AI launches Fugu, a multi-agent orchestration system",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260622/p36#a260622p36",
+      "summary": "Sakana AI launches Fugu, a multi-agent orchestration system with a single model API, claiming it matches Fable and Mythos on benchmarks."
+    },
+    {
+      "title": "Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260622/p35#a260622p35",
+      "summary": "Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+      "summary": "Sakana achieves frontier performance with its new Fugu multi-model, auto synthesis system, rivaling Claude Fable 5."
+    },
+    {
+      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+      "summary": "A new unpatchable flaw in Apple chips could allow for an iPhone jailbreak, posing a significant security risk."
+    },
+    {
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic\u2019s Mythos",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos",
+      "summary": "OpenAI launches a full-scale effort to patch open-source bugs, taking on Anthropic's Mythos in the process."
+    },
+    {
+      "title": "Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/2026/6/22/1139424/valve-steam-machine-review",
+      "summary": "The Valve Steam Machine is smaller than the PS5, smooth, and navigable with any modern gamepad, but very expensive and requires manual configuration."
+    },
+    {
+      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+      "summary": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms a data breach, highlighting the vulnerability of supply chains."
+    },
+    {
+      "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
+      "summary": "Researchers introduce Self-Harness, a framework that allows AI agents to rewrite their own rules, potentially boosting performance by up to 60%."
+    },
+    {
+      "title": "The inevitable weakness of metrics",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review",
+      "summary": "The inevitable weakness of metrics is discussed in a book review, highlighting the limitations and potential pitfalls of relying on metrics."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The Smartest Order to Invest Your Money (Step-by-Step)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=eulBaP-3OX4",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "A step-by-step guide to investing money, highlighting the smartest order to follow."
+    },
+    {
+      "title": "How to Run ChatGPT Ads: The Complete Tutorial",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=Dg3yC82J7To",
+      "duration_min": 14.2,
+      "category": "Technology",
+      "summary": "A comprehensive tutorial on running ChatGPT ads, covering all the necessary steps."
+    },
+    {
+      "title": "Your old Mac/PC is your new home cloud - Done in less than 20 mins",
+      "channel": "Oliur Online",
+      "url": "https://www.youtube.com/watch?v=Cbx3wirxLWc",
+      "duration_min": 9.3,
+      "category": "Technology",
+      "summary": "A guide to repurposing an old Mac or PC as a home cloud, which can be done in under 20 minutes."
+    },
+    {
+      "title": "Accountant explains: You might be richer than you think",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=859_TTVdfn4",
+      "duration_min": 12.3,
+      "category": "Finance",
+      "summary": "An accountant explains how people may be richer than they think, highlighting potential areas of untapped wealth."
+    },
+    {
+      "title": "The hidden pattern behind successful products",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "duration_min": 99.4,
+      "category": "Personal Growth",
+      "summary": "A discussion on the hidden patterns behind successful products, featuring Mark Pincus, founder of FarmVille and Words with Friends."
+    },
+    {
+      "title": "How to Optimize Your Profile for LinkedIn's New AI Algorithm",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=MGjXraYMbhQ",
+      "duration_min": 13.8,
+      "category": "Personal Growth",
+      "summary": "A guide to optimizing a LinkedIn profile for the new AI algorithm, including tips and best practices."
+    }
+  ],
+  "gym_total_min": 38.8,
+  "mode": "live"
+}
