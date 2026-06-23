@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-23  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. LastPass notifies customers that their personal information and customer support case records were stolen during a hack at Canadian market research company Klue
+   TechCrunch → https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/
+   LastPass notifies customers of a data breach at Klue, a Canadian market research company, resulting in stolen personal information and customer support case records.
+
+2. HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment
+   TechCrunch → https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/
+   HaloBraid raises $7M in funding from Seven Seven Six to streamline hair salon appointments, reducing wait times and increasing efficiency.
+
+3. Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away
+   VentureBeat → https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away
+   Alibaba's AI video model achieves the second rank globally, surpassing OpenAI's Sora and ByteDance's Seedance in the rankings.
+
+4. No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system
+   VentureBeat → https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system
+   Sakana introduces the Fugu multi-model, an auto synthesis system that achieves frontier performance without relying on Claude Fable 5.
+
+5. The Download: the future of chipmaking and Anthropic’s government clash
+   MIT Tech Review → https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash
+   A discussion on the future of chipmaking, including ASML's role, and Anthropic's recent government clash over AI technology.
+
+6. Everyone pays the price as patent holders on seeds stifle innovation
+   Ars Technica → https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation
+   Patent holders on seeds are stifling innovation in the agricultural sector, ultimately affecting food production and availability.
+
+7. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to become a leading provider of hybrid cloud solutions, strengthening its position in the cloud market.
+
+8. With Starfall, SpaceX eyes an edge in global cargo delivery from orbit
+   Ars Technica → https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit
+   SpaceX introduces Starfall, aiming to dominate global cargo delivery from orbit and expand its capabilities in space transportation.
+
+9. The $400 million machine powering the future of chipmaking
+   MIT Tech Review → https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking
+   A $400 million machine from ASML is poised to revolutionize the future of chipmaking, enabling the production of smaller, more efficient chips.
+
+10. AI hit the memory wall — now it needs a new context tier
+   VentureBeat → https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier
+   The increasing demands of AI systems are pushing against the limits of traditional memory, necessitating the development of a new context tier to support future growth.
+
+
+🏋  GYM PLAYLIST  (~155.6 min)
+────────────────────────────────────────────────────────────────
+1. The Science of Scaling: How to Run ChatGPT Ads: The Complete Tutorial
+   The Science of Scaling · 14.2 min · Technology
+   https://www.youtube.com/watch?v=Dg3yC82J7To
+   A comprehensive tutorial on running effective ChatGPT ads, covering setup, targeting, and optimization strategies.
+
+2. Muzamil Hasan | TBT Podcast: What TEN years of MARRIAGE taught me | tips & thoughts!
+   Muzamil Hasan | TBT Podcast · 19.5 min · Personal Growth
+   https://www.youtube.com/watch?v=CVcYCiuweRw
+   A reflective look at the lessons learned from ten years of marriage, offering insights and advice on building a strong, lasting relationship.
+
+3. The ERP for the AI Revolution is here
+   Y Combinator · 27.6 min · Technology
+   https://www.youtube.com/watch?v=X1NXnLRNIfM
+   An introduction to the emerging ERP (Enterprise Resource Planning) solutions designed specifically for the AI-driven revolution, streamlining business processes and enhancing decision-making.
+
+4. Invest Like The Best: Investing a $120 Billion Balance Sheet with No Outside Investors
+   Invest Like The Best · 76.5 min · Finance
+   https://www.youtube.com/watch?v=OxHWFmFHnoc
+   A discussion on the unique challenges and opportunities of managing a $120 billion balance sheet without external investors, highlighting strategies for success and growth.
+
+5. AI Engineer: 6 Things to Know about AIE World's Fair 2026
+   AI Engineer · 17.8 min · Technology
+   https://www.youtube.com/watch?v=0S8xe9ftGTM
+   An overview of the AIE World's Fair 2026, covering six key aspects to know about this significant event in the AI industry.

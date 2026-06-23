@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "LastPass notifies customers that their personal information and customer support case records were stolen during a hack at Canadian market research company Klue",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "summary": "LastPass notifies customers of a data breach at Klue, a Canadian market research company, resulting in stolen personal information and customer support case records."
+    },
+    {
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "summary": "HaloBraid raises $7M in funding from Seven Seven Six to streamline hair salon appointments, reducing wait times and increasing efficiency."
+    },
+    {
+      "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+      "summary": "Alibaba's AI video model achieves the second rank globally, surpassing OpenAI's Sora and ByteDance's Seedance in the rankings."
+    },
+    {
+      "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+      "summary": "Sakana introduces the Fugu multi-model, an auto synthesis system that achieves frontier performance without relying on Claude Fable 5."
+    },
+    {
+      "title": "The Download: the future of chipmaking and Anthropic\u2019s government clash",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash",
+      "summary": "A discussion on the future of chipmaking, including ASML's role, and Anthropic's recent government clash over AI technology."
+    },
+    {
+      "title": "Everyone pays the price as patent holders on seeds stifle innovation",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation",
+      "summary": "Patent holders on seeds are stifling innovation in the agricultural sector, ultimately affecting food production and availability."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat to become a leading provider of hybrid cloud solutions, strengthening its position in the cloud market."
+    },
+    {
+      "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit",
+      "summary": "SpaceX introduces Starfall, aiming to dominate global cargo delivery from orbit and expand its capabilities in space transportation."
+    },
+    {
+      "title": "The $400 million machine powering the future of chipmaking",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking",
+      "summary": "A $400 million machine from ASML is poised to revolutionize the future of chipmaking, enabling the production of smaller, more efficient chips."
+    },
+    {
+      "title": "AI hit the memory wall \u2014 now it needs a new context tier",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
+      "summary": "The increasing demands of AI systems are pushing against the limits of traditional memory, necessitating the development of a new context tier to support future growth."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The Science of Scaling: How to Run ChatGPT Ads: The Complete Tutorial",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=Dg3yC82J7To",
+      "duration_min": 14.2,
+      "category": "Technology",
+      "summary": "A comprehensive tutorial on running effective ChatGPT ads, covering setup, targeting, and optimization strategies."
+    },
+    {
+      "title": "Muzamil Hasan | TBT Podcast: What TEN years of MARRIAGE taught me | tips & thoughts!",
+      "channel": "Muzamil Hasan | TBT Podcast",
+      "url": "https://www.youtube.com/watch?v=CVcYCiuweRw",
+      "duration_min": 19.5,
+      "category": "Personal Growth",
+      "summary": "A reflective look at the lessons learned from ten years of marriage, offering insights and advice on building a strong, lasting relationship."
+    },
+    {
+      "title": "The ERP for the AI Revolution is here",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=X1NXnLRNIfM",
+      "duration_min": 27.6,
+      "category": "Technology",
+      "summary": "An introduction to the emerging ERP (Enterprise Resource Planning) solutions designed specifically for the AI-driven revolution, streamlining business processes and enhancing decision-making."
+    },
+    {
+      "title": "Invest Like The Best: Investing a $120 Billion Balance Sheet with No Outside Investors",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=OxHWFmFHnoc",
+      "duration_min": 76.5,
+      "category": "Finance",
+      "summary": "A discussion on the unique challenges and opportunities of managing a $120 billion balance sheet without external investors, highlighting strategies for success and growth."
+    },
+    {
+      "title": "AI Engineer: 6 Things to Know about AIE World's Fair 2026",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=0S8xe9ftGTM",
+      "duration_min": 17.8,
+      "category": "Technology",
+      "summary": "An overview of the AIE World's Fair 2026, covering six key aspects to know about this significant event in the AI industry."
+    }
+  ],
+  "gym_total_min": 155.6,
+  "mode": "live"
+}
