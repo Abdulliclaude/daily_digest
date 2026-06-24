@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-24  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Ornn raises $33M for GPU capacity marketplace
+   Bloomberg via Techmeme → https://www.techmeme.com/260624/p28#a260624p28
+   Ornn has raised $33M for its marketplace that allows trading of GPU capacity.
+
+2. XCures raises $46M for AI-powered patient data
+   Crunchbase News via Techmeme → https://www.techmeme.com/260624/p27#a260624p27
+   XCures has raised $46M for its AI-powered patient data and medical records platform.
+
+3. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+4. OpenAI unveils its first custom chip, built by Broadcom
+   TechCrunch → https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+   OpenAI has unveiled its first custom chip, built by Broadcom, for AI inference.
+
+5. Alibaba's AI video model rises to No. 2 in global rankings
+   VentureBeat → https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away
+   Alibaba's AI video model has risen to No. 2 in global rankings, surpassing OpenAI's Sora and ByteDance's Seedance.
+
+6. The emergence of the web data infrastructure layer for AI
+   MIT Tech Review → https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai
+   The web data infrastructure layer for AI is emerging, enabling more efficient AI model training and deployment.
+
+7. Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections
+   MIT Tech Review → https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections
+   Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections using AI and data analytics.
+
+8. Microsoft's Digital Crimes Unit uses AI to take down hacking tools
+   Bloomberg via Techmeme → https://www.techmeme.com/260624/p24#a260624p24
+   Microsoft's Digital Crimes Unit has used AI to link two separate hacking tools and take them down.
+
+9. Chinese cybersecurity company 360 unveils new AI tools
+   Reuters via Techmeme → https://www.techmeme.com/260624/p23#a260624p23
+   Chinese cybersecurity company 360 has unveiled new AI tools, including Tulongfeng and Yitianzhen, for cyber defense.
+
+10. Intuit will show off its rebuilt AI infrastructure at VB Transform 2026
+   VentureBeat → https://venturebeat.com/orchestration/intuit-will-show-off-how-it-rebuilt-its-ai-infrastructure-to-support-fast-and-complex-tasks-at-vb-transform-2026
+   Intuit will showcase its rebuilt AI infrastructure at VB Transform 2026, highlighting its support for fast and complex tasks.
+
+
+🏋  GYM PLAYLIST  (~263.5 min)
+────────────────────────────────────────────────────────────────
+1. How to Run ChatGPT Ads: The Complete Tutorial
+   The Science of Scaling · 14.2 min · Technology
+   https://www.youtube.com/watch?v=Dg3yC82J7To
+   This tutorial provides a comprehensive guide on how to run ChatGPT ads.
+
+2. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   This video explains how individuals may be richer than they think, from an accountant's perspective.
+
+3. What happens after coding is solved?
+   Lenny's Podcast · 98.8 min · Technology
+   https://www.youtube.com/watch?v=Ybrl4FYM57c
+   This podcast episode explores the potential consequences and implications of coding being 'solved'.
+
+4. AI on campus
+   Anthropic · 38.8 min · Technology
+   https://www.youtube.com/watch?v=N5yJJA0NCU0
+   This video discusses the applications and potential of AI on college campuses.
+
+5. The hidden pattern behind successful products
+   Lenny's Podcast · 99.4 min · Personal Growth
+   https://www.youtube.com/watch?v=7eh9C3TUotc
+   This podcast episode reveals the hidden pattern behind successful products, featuring Mark Pincus.

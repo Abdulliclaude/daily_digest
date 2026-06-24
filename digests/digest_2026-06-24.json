@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Ornn raises $33M for GPU capacity marketplace",
+      "source": "Bloomberg via Techmeme",
+      "url": "https://www.techmeme.com/260624/p28#a260624p28",
+      "summary": "Ornn has raised $33M for its marketplace that allows trading of GPU capacity."
+    },
+    {
+      "title": "XCures raises $46M for AI-powered patient data",
+      "source": "Crunchbase News via Techmeme",
+      "url": "https://www.techmeme.com/260624/p27#a260624p27",
+      "summary": "XCures has raised $46M for its AI-powered patient data and medical records platform."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "summary": "OpenAI has unveiled its first custom chip, built by Broadcom, for AI inference."
+    },
+    {
+      "title": "Alibaba's AI video model rises to No. 2 in global rankings",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+      "summary": "Alibaba's AI video model has risen to No. 2 in global rankings, surpassing OpenAI's Sora and ByteDance's Seedance."
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai",
+      "summary": "The web data infrastructure layer for AI is emerging, enabling more efficient AI model training and deployment."
+    },
+    {
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections",
+      "summary": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections using AI and data analytics."
+    },
+    {
+      "title": "Microsoft's Digital Crimes Unit uses AI to take down hacking tools",
+      "source": "Bloomberg via Techmeme",
+      "url": "https://www.techmeme.com/260624/p24#a260624p24",
+      "summary": "Microsoft's Digital Crimes Unit has used AI to link two separate hacking tools and take them down."
+    },
+    {
+      "title": "Chinese cybersecurity company 360 unveils new AI tools",
+      "source": "Reuters via Techmeme",
+      "url": "https://www.techmeme.com/260624/p23#a260624p23",
+      "summary": "Chinese cybersecurity company 360 has unveiled new AI tools, including Tulongfeng and Yitianzhen, for cyber defense."
+    },
+    {
+      "title": "Intuit will show off its rebuilt AI infrastructure at VB Transform 2026",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/intuit-will-show-off-how-it-rebuilt-its-ai-infrastructure-to-support-fast-and-complex-tasks-at-vb-transform-2026",
+      "summary": "Intuit will showcase its rebuilt AI infrastructure at VB Transform 2026, highlighting its support for fast and complex tasks."
+    }
+  ],
+  "gym": [
+    {
+      "title": "How to Run ChatGPT Ads: The Complete Tutorial",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=Dg3yC82J7To",
+      "duration_min": 14.2,
+      "category": "Technology",
+      "summary": "This tutorial provides a comprehensive guide on how to run ChatGPT ads."
+    },
+    {
+      "title": "Accountant explains: You might be richer than you think",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=859_TTVdfn4",
+      "duration_min": 12.3,
+      "category": "Finance",
+      "summary": "This video explains how individuals may be richer than they think, from an accountant's perspective."
+    },
+    {
+      "title": "What happens after coding is solved?",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
+      "duration_min": 98.8,
+      "category": "Technology",
+      "summary": "This podcast episode explores the potential consequences and implications of coding being 'solved'."
+    },
+    {
+      "title": "AI on campus",
+      "channel": "Anthropic",
+      "url": "https://www.youtube.com/watch?v=N5yJJA0NCU0",
+      "duration_min": 38.8,
+      "category": "Technology",
+      "summary": "This video discusses the applications and potential of AI on college campuses."
+    },
+    {
+      "title": "The hidden pattern behind successful products",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "duration_min": 99.4,
+      "category": "Personal Growth",
+      "summary": "This podcast episode reveals the hidden pattern behind successful products, featuring Mark Pincus."
+    }
+  ],
+  "gym_total_min": 263.5,
+  "mode": "live"
+}
