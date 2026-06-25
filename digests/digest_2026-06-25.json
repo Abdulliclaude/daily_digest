@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Sources and a draft document: the US proposes that the EU sign on to an AI partnership to help secure chip supply chains",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260625/p29#a260625p29",
+      "summary": "US proposes EU sign AI partnership to secure chip supply chains"
+    },
+    {
+      "title": "Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has 'never seen a component price increase this much, this quickly'",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260625/p24#a260625p24",
+      "summary": "Apple raises prices due to component cost increase"
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat to create leading hybrid cloud provider"
+    },
+    {
+      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "summary": "General Intuition raises $2.3B to train AI with video games"
+    },
+    {
+      "title": "Alibaba's model never trained as an agent \u2014 and improved agent performance across seven benchmarks",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
+      "summary": "Alibaba's model improves agent performance without training as an agent"
+    },
+    {
+      "title": "The Download: Europe\u2019s heat wave hits the grid, and IBM\u2019s chip targets Moore\u2019s Law",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "summary": "Europe's heat wave affects power grid and IBM's chip targets Moore's Law"
+    },
+    {
+      "title": "What Europe\u2019s heat wave means for the power grid",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "summary": "Heat wave's impact on Europe's power grid"
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "summary": "IBM's chip tech could extend Moore's Law for another decade"
+    },
+    {
+      "title": "Sail, whose software optimizes how AI models run on existing chips, emerges from stealth with $80M in seed and Series A led by Kleiner at a $450M valuation",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260625/p26#a260625p26",
+      "summary": "Sail emerges from stealth with $80M funding for AI model optimization"
+    },
+    {
+      "title": "Google Finance gets a dedicated app for Android",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "summary": "Google Finance launches dedicated Android app"
+    }
+  ],
+  "gym": [
+    {
+      "title": "What It Actually Takes to Deploy a Voice Agent to a Fortune 500",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=eSm_9tbY5ZbY",
+      "duration_min": 30.8,
+      "category": "Technology",
+      "summary": "Deploying voice agent to Fortune 500 company"
+    },
+    {
+      "title": "The smartest order to invest your money (step-by-step)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=eulBaP-3OX4",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "Investing money in a smart order"
+    },
+    {
+      "title": "Nir Eyal | Beyond Belief",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=057mnWzLBcA",
+      "duration_min": 46.1,
+      "category": "Personal Growth",
+      "summary": "Nir Eyal discusses beyond belief"
+    },
+    {
+      "title": "How to Disagree Better",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=GigRB6bZ0MI",
+      "duration_min": 32.2,
+      "category": "Personal Growth",
+      "summary": "Disagreeing better with others"
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "The power of real optimism"
+    }
+  ],
+  "gym_total_min": 163.0,
+  "mode": "live"
+}

@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-25  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources and a draft document: the US proposes that the EU sign on to an AI partnership to help secure chip supply chains
+   Techmeme → https://www.techmeme.com/260625/p29#a260625p29
+   US proposes EU sign AI partnership to secure chip supply chains
+
+2. Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has 'never seen a component price increase this much, this quickly'
+   Techmeme → https://www.techmeme.com/260625/p24#a260625p24
+   Apple raises prices due to component cost increase
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create leading hybrid cloud provider
+
+4. From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world
+   TechCrunch → https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
+   General Intuition raises $2.3B to train AI with video games
+
+5. Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks
+   VentureBeat → https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks
+   Alibaba's model improves agent performance without training as an agent
+
+6. The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law
+   MIT Tech Review → https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/
+   Europe's heat wave affects power grid and IBM's chip targets Moore's Law
+
+7. What Europe’s heat wave means for the power grid
+   MIT Tech Review → https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/
+   Heat wave's impact on Europe's power grid
+
+8. IBM has unveiled chip technology that could help extend Moore’s Law another decade
+   MIT Tech Review → https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
+   IBM's chip tech could extend Moore's Law for another decade
+
+9. Sail, whose software optimizes how AI models run on existing chips, emerges from stealth with $80M in seed and Series A led by Kleiner at a $450M valuation
+   Techmeme → https://www.techmeme.com/260625/p26#a260625p26
+   Sail emerges from stealth with $80M funding for AI model optimization
+
+10. Google Finance gets a dedicated app for Android
+   TechCrunch → https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/
+   Google Finance launches dedicated Android app
+
+
+🏋  GYM PLAYLIST  (~163.0 min)
+────────────────────────────────────────────────────────────────
+1. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tbY5ZbY
+   Deploying voice agent to Fortune 500 company
+
+2. The smartest order to invest your money (step-by-step)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   Investing money in a smart order
+
+3. Nir Eyal | Beyond Belief
+   Talks at Google · 46.1 min · Personal Growth
+   https://www.youtube.com/watch?v=057mnWzLBcA
+   Nir Eyal discusses beyond belief
+
+4. How to Disagree Better
+   Talks at Google · 32.2 min · Personal Growth
+   https://www.youtube.com/watch?v=GigRB6bZ0MI
+   Disagreeing better with others
+
+5. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   The power of real optimism
