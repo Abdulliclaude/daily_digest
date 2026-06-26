@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-26  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it
+   Techmeme → https://www.techmeme.com/260626/p12#a260626p12
+   The US federal AI policy has become more restrictive and opaque, and independent auditors could help improve it.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Italy is investigating Microsoft 365's price hike
+   Techmeme → https://www.techmeme.com/260626/p8#a260626p8
+   Italy is investigating Microsoft 365's price hike due to inadequate notification of integrated AI tools like Copilot.
+
+4. Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that
+   TechCrunch → https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/
+   A startup is building 'pitstops' to clean and charge robotaxis, reducing the need for them to drive miles for maintenance.
+
+5. The White House is asking OpenAI to slow roll the release of its new model over safety concerns
+   TechCrunch → https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
+   The White House is asking OpenAI to delay the release of its new model due to safety concerns.
+
+6. Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'
+   VentureBeat → https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere
+   Liquid AI's smallest model, LFM2.5-230M, outperforms larger models in data extraction and can run on various devices.
+
+7. Mistral launches OCR 4, turning document extraction into a full enterprise AI play
+   VentureBeat → https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play
+   Mistral's OCR 4 turns document extraction into a full enterprise AI play, enhancing productivity and efficiency.
+
+8. IBM has unveiled chip technology that could help extend Moore’s Law another decade
+   MIT Tech Review → https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
+   IBM's new chip technology could extend Moore's Law for another decade, advancing computing capabilities.
+
+9. Europe Is Fed Up and Wants Its Own AI
+   Wired → https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai
+   Europe is seeking to develop its own AI capabilities, reducing dependence on US and Chinese technologies.
+
+10. Notion killing Skiff-influenced email app since most users use AI agents instead
+   Ars Technica → https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead
+   Notion is discontinuing its Skiff-influenced email app as most users prefer AI-powered alternatives.
+
+
+🏋  GYM PLAYLIST  (~184.4 min)
+────────────────────────────────────────────────────────────────
+1. Investing a $120 Billion Balance Sheet with No Outside Investors
+   Invest Like The Best · 76.5 min · Finance
+   https://www.youtube.com/watch?v=OxHWFmFHnoc
+   Insights into investing and managing a large balance sheet without external investors.
+
+2. On Making Organizational Culture Great
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   Creating a great organizational culture and its importance for success.
+
+3. What AI Can’t Do — And Why
+   Stanford Graduate School of Business · 28.9 min · Technology
+   https://www.youtube.com/watch?v=6_D6OPuDIis
+   Limitations of AI and understanding its capabilities and constraints.
+
+4. AI on campus
+   Anthropic · 38.8 min · Technology
+   https://www.youtube.com/watch?v=N5yJJA0NCU0
+   The role and applications of AI in educational settings and campuses.
+
+5. Learn AI” Is Bad Advice. Learn This Instead
+   Greg Isenberg · 29.9 min · Technology
+   https://www.youtube.com/watch?v=jJIOA4GroBw
+   Advice on what to learn instead of focusing solely on AI, emphasizing broader skill development.

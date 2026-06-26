@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260626/p12#a260626p12",
+      "summary": "The US federal AI policy has become more restrictive and opaque, and independent auditors could help improve it."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Italy is investigating Microsoft 365's price hike",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260626/p8#a260626p8",
+      "summary": "Italy is investigating Microsoft 365's price hike due to inadequate notification of integrated AI tools like Copilot."
+    },
+    {
+      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+      "summary": "A startup is building 'pitstops' to clean and charge robotaxis, reducing the need for them to drive miles for maintenance."
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "The White House is asking OpenAI to delay the release of its new model due to safety concerns."
+    },
+    {
+      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+      "summary": "Liquid AI's smallest model, LFM2.5-230M, outperforms larger models in data extraction and can run on various devices."
+    },
+    {
+      "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+      "summary": "Mistral's OCR 4 turns document extraction into a full enterprise AI play, enhancing productivity and efficiency."
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "summary": "IBM's new chip technology could extend Moore's Law for another decade, advancing computing capabilities."
+    },
+    {
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai",
+      "summary": "Europe is seeking to develop its own AI capabilities, reducing dependence on US and Chinese technologies."
+    },
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead",
+      "summary": "Notion is discontinuing its Skiff-influenced email app as most users prefer AI-powered alternatives."
+    }
+  ],
+  "gym": [
+    {
+      "title": "Investing a $120 Billion Balance Sheet with No Outside Investors",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=OxHWFmFHnoc",
+      "duration_min": 76.5,
+      "category": "Finance",
+      "summary": "Insights into investing and managing a large balance sheet without external investors."
+    },
+    {
+      "title": "On Making Organizational Culture Great",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=_Od2gHrrIuQ",
+      "duration_min": 60.3,
+      "category": "Personal Growth",
+      "summary": "Creating a great organizational culture and its importance for success."
+    },
+    {
+      "title": "What AI Can\u2019t Do \u2014 And Why",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=6_D6OPuDIis",
+      "duration_min": 28.9,
+      "category": "Technology",
+      "summary": "Limitations of AI and understanding its capabilities and constraints."
+    },
+    {
+      "title": "AI on campus",
+      "channel": "Anthropic",
+      "url": "https://www.youtube.com/watch?v=N5yJJA0NCU0",
+      "duration_min": 38.8,
+      "category": "Technology",
+      "summary": "The role and applications of AI in educational settings and campuses."
+    },
+    {
+      "title": "Learn AI\u201d Is Bad Advice. Learn This Instead",
+      "channel": "Greg Isenberg",
+      "url": "https://www.youtube.com/watch?v=jJIOA4GroBw",
+      "duration_min": 29.9,
+      "category": "Technology",
+      "summary": "Advice on what to learn instead of focusing solely on AI, emphasizing broader skill development."
+    }
+  ],
+  "gym_total_min": 184.4,
+  "mode": "live"
+}
