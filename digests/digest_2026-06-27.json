@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Sources: Meituan, Baidu, Xiaomi, and other Chinese tech giants have been trimming their workforces, fueling Chinese workers' concerns of being replaced by AI",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260627/p4#a260627p4",
+      "summary": "Chinese tech giants are trimming workforces, fueling concerns of AI replacement."
+    },
+    {
+      "title": "Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "summary": "Corgi denies accusations of using Papermark's open source code without permission."
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "summary": "IBM's new chip technology could extend Moore's Law for another decade."
+    },
+    {
+      "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
+      "summary": "Autonomous security agents require complete data to function effectively."
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm",
+      "summary": "OpenAI limits GPT-5.6 rollout due to government request, citing restrictions as not the norm."
+    },
+    {
+      "title": "South Korea plans to train entire military as 'drone warriors'",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "summary": "South Korea plans to train its entire military as 'drone warriors'."
+    },
+    {
+      "title": "What AI Can\u2019t Do \u2014 And Why",
+      "source": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=6_D6OPuDIis",
+      "summary": "This video discusses the limitations of AI and why it cannot perform certain tasks."
+    },
+    {
+      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+      "summary": "Liquid AI's smallest model yet beats larger models in data extraction and can run anywhere."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat, creating a leading hybrid cloud provider."
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models as Anthropic\u2019s export ban drags on",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+      "summary": "Asian AI startups launch Mythos-like models amid Anthropic's export ban."
+    }
+  ],
+  "gym": [
+    {
+      "title": "What It Actually Takes to Deploy a Voice Agent to a Fortune 500",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=eSm_9tb5ZbY",
+      "duration_min": 30.8,
+      "category": "Technology",
+      "summary": "Deploying a voice agent to a Fortune 500 company requires significant planning and execution."
+    },
+    {
+      "title": "Accountant explains: You might be richer than you think",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=859_TTVdfn4",
+      "duration_min": 12.3,
+      "category": "Finance",
+      "summary": "An accountant explains how individuals may be richer than they think, offering insights into financial planning."
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "This talk discusses the power of real optimism and its impact on personal growth and well-being."
+    },
+    {
+      "title": "On Making Organizational Culture Great",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=_Od2gHrrIuQ",
+      "duration_min": 60.3,
+      "category": "Personal Growth",
+      "summary": "This talk focuses on making organizational culture great, providing insights into leadership and management."
+    },
+    {
+      "title": "The easiest (& laziest) way to get rich",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=lAbTmTxiOAQ",
+      "duration_min": 14.6,
+      "category": "Finance",
+      "summary": "This video discusses the easiest and laziest ways to get rich, offering practical advice on wealth creation."
+    }
+  ],
+  "gym_total_min": 167.1,
+  "mode": "live"
+}

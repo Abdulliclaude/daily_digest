@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-27  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources: Meituan, Baidu, Xiaomi, and other Chinese tech giants have been trimming their workforces, fueling Chinese workers' concerns of being replaced by AI
+   Techmeme → https://www.techmeme.com/260627/p4#a260627p4
+   Chinese tech giants are trimming workforces, fueling concerns of AI replacement.
+
+2. Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own
+   TechCrunch → https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/
+   Corgi denies accusations of using Papermark's open source code without permission.
+
+3. IBM has unveiled chip technology that could help extend Moore’s Law another decade
+   MIT Tech Review → https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
+   IBM's new chip technology could extend Moore's Law for another decade.
+
+4. Autonomous security agents need complete data. Here's how to check if yours is ready.
+   VentureBeat → https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready
+   Autonomous security agents require complete data to function effectively.
+
+5. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
+   TechCrunch → https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm
+   OpenAI limits GPT-5.6 rollout due to government request, citing restrictions as not the norm.
+
+6. South Korea plans to train entire military as 'drone warriors'
+   Ars Technica → https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/
+   South Korea plans to train its entire military as 'drone warriors'.
+
+7. What AI Can’t Do — And Why
+   Stanford Graduate School of Business → https://www.youtube.com/watch?v=6_D6OPuDIis
+   This video discusses the limitations of AI and why it cannot perform certain tasks.
+
+8. Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'
+   VentureBeat → https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere
+   Liquid AI's smallest model yet beats larger models in data extraction and can run anywhere.
+
+9. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat, creating a leading hybrid cloud provider.
+
+10. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on
+   TechCrunch → https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on
+   Asian AI startups launch Mythos-like models amid Anthropic's export ban.
+
+
+🏋  GYM PLAYLIST  (~167.1 min)
+────────────────────────────────────────────────────────────────
+1. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   Deploying a voice agent to a Fortune 500 company requires significant planning and execution.
+
+2. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   An accountant explains how individuals may be richer than they think, offering insights into financial planning.
+
+3. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   This talk discusses the power of real optimism and its impact on personal growth and well-being.
+
+4. On Making Organizational Culture Great
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   This talk focuses on making organizational culture great, providing insights into leadership and management.
+
+5. The easiest (& laziest) way to get rich
+   Nischa · 14.6 min · Finance
+   https://www.youtube.com/watch?v=lAbTmTxiOAQ
+   This video discusses the easiest and laziest ways to get rich, offering practical advice on wealth creation.
