@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-28  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Brazil turns to AI for soccer talent scouting
+   New York Times → https://www.techmeme.com/260628/p7#a260628p7
+   Brazil is using AI-powered scouting apps to analyze video clips and identify soccer talent.
+
+2. Jacob Andreou leads Microsoft's Copilot team
+   Fortune → https://www.techmeme.com/260628/p6#a260628p6
+   Jacob Andreou, a former Snap executive, is leading Microsoft's Copilot team to compete with OpenAI and Anthropic.
+
+3. Masayoshi Son questions Musk's orbital AI data centers
+   Wall Street Journal → https://www.techmeme.com/260628/p5#a260628p5
+   Masayoshi Son doubts the viability of Elon Musk's orbital AI data centers, citing high costs and limited benefits.
+
+4. Thriving underground economy for Claude access in China
+   Wired → https://www.techmeme.com/260628/p4#a260628p4
+   A black market for Claude access has emerged in China, with 'transfer station' sites buying API tokens abroad and distributing them to users.
+
+5. Apple appeals London Court ruling over Optis patents
+   Financial Times → https://www.techmeme.com/260628/p3#a260628p3
+   Apple is appealing a London Court ruling requiring the company to pay $502M for using Optis' wireless patents.
+
+6. Z.ai's GLM-5.2 matches US models in security bug detection
+   Wall Street Journal → https://www.techmeme.com/260628/p2#a260628p2
+   Z.ai's GLM-5.2 model has achieved parity with US models in detecting security bugs, raising concerns about unrestricted access to Chinese AI models.
+
+7. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+8. Chinese AI startups launch Mythos-like models
+   TechCrunch → https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+   Chinese AI startups have launched Mythos-like models, potentially challenging US restrictions on AI technology exports.
+
+9. Heat waves affect brain function
+   MIT Tech Review → https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/
+   Research suggests that heat waves can impair brain function, with scientists working to understand the underlying mechanisms.
+
+10. IBM's chip technology extends Moore's Law
+   MIT Tech Review → https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
+   IBM has developed a new chip technology that could extend Moore's Law for another decade, enabling further advances in computing power.
+
+
+🏋  GYM PLAYLIST  (~218.9 min)
+────────────────────────────────────────────────────────────────
+1. The smartest order to invest your money
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   A step-by-step guide to investing money, emphasizing the importance of a well-thought-out strategy.
+
+2. Build Systems, Not Code
+   AI Engineer · 19.6 min · Technology
+   https://www.youtube.com/watch?v=ZD9-4fW2HhM
+   A talk on the benefits of building systems rather than just writing code, with a focus on scalability and maintainability.
+
+3. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   A discussion on the power of optimism, highlighting its positive effects on mental health and well-being.
+
+4. Stop Writing Tone Instructions. Layer Them.
+   AI Engineer · 20.9 min · Technology
+   https://www.youtube.com/watch?v=ij-AU9dpJjc
+   A talk on the importance of layering tone instructions in AI systems, rather than writing them from scratch.
+
+5. Investing a $120 Billion Balance Sheet
+   Invest Like The Best · 76.5 min · Finance
+   https://www.youtube.com/watch?v=OxHWFmFHnoc
+   A discussion on investing a large balance sheet, with insights from experienced investors and financial experts.
+
+6. Inside the Octagon: How AI Brings UFC’s Fastest Moments into Focus
+   IBM Technology · 47.2 min · Technology
+   https://www.youtube.com/watch?v=S-VapXoiEcA
+   A look at how AI is being used in the UFC to analyze and enhance the viewing experience of fast-paced moments.
