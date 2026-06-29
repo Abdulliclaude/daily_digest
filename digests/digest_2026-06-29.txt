@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-29  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Quantifind raises $200M led by Summit Partners
+   Wall Street Journal → https://www.techmeme.com/260629/p30#a260629p30
+   Quantifind raised $200M to help banks combat financial crimes
+
+2. Claude Code turned every engineer into three. Now companies need more product thinkers
+   VentureBeat → https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers
+   Companies need more product thinkers due to AI-powered engineering
+
+3. OpenAI unveils GPT-5.6 Sol, Terra and Luna models
+   VentureBeat → https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
+   OpenAI unveiled new GPT models, but with limited access
+
+4. SCOTUS limits the law enforcement use of 'geofence' warrants
+   TechCrunch → https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/
+   US Supreme Court limits 'geofence' warrant use, citing privacy rights
+
+5. Changpeng Zhao says Binance's MiCA application in Greece was fully compliant
+   The Block → https://www.techmeme.com/260629/p26#a260629p26
+   Binance's MiCA application in Greece was fully compliant, according to Changpeng Zhao
+
+6. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider
+
+7. TIDAL cracks down on AI music by cutting off monetization
+   TechCrunch → https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/
+   TIDAL cuts off monetization for AI-generated music
+
+8. The attack that hijacked Claude Code came through Sentry
+   VentureBeat → https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure
+   Claude Code hijack attack came through Sentry, other services may be vulnerable
+
+9. Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change
+   Wired → https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/
+   Google security staff warn of potential search data hacking due to EU rule changes
+
+10. In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights
+   TechCrunch → https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/
+   US Supreme Court rules geofence warrants are protected by privacy rights
+
+
+🏋  GYM PLAYLIST  (~194.2 min)
+────────────────────────────────────────────────────────────────
+1. On Making Organizational Culture Great
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   Creating a great organizational culture
+
+2. I Turned 6 Prompts into a Full Content Strategy in Under An Hour
+   The Science of Scaling · 16.2 min · Technology
+   https://www.youtube.com/watch?v=VpTvYBfvbhI
+   Creating a content strategy using AI prompts
+
+3. The smartest order to invest your money
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   Investing money in the right order
+
+4. What happens after coding is solved?
+   Lenny's Podcast · 98.8 min · Technology
+   https://www.youtube.com/watch?v=Ybrl4FYM57c
+   The future of coding and its implications
+
+5. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   The power of real optimism in personal growth
+
+6. The easiest (& laziest) way to get rich
+   Nischa · 14.6 min · Finance
+   https://www.youtube.com/watch?v=lAbTmTxiOAQ
+   Getting rich through easy and lazy methods

@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Quantifind raises $200M led by Summit Partners",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260629/p30#a260629p30",
+      "summary": "Quantifind raised $200M to help banks combat financial crimes"
+    },
+    {
+      "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+      "summary": "Companies need more product thinkers due to AI-powered engineering"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "summary": "OpenAI unveiled new GPT models, but with limited access"
+    },
+    {
+      "title": "SCOTUS limits the law enforcement use of 'geofence' warrants",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+      "summary": "US Supreme Court limits 'geofence' warrant use, citing privacy rights"
+    },
+    {
+      "title": "Changpeng Zhao says Binance's MiCA application in Greece was fully compliant",
+      "source": "The Block",
+      "url": "https://www.techmeme.com/260629/p26#a260629p26",
+      "summary": "Binance's MiCA application in Greece was fully compliant, according to Changpeng Zhao"
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider"
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "summary": "TIDAL cuts off monetization for AI-generated music"
+    },
+    {
+      "title": "The attack that hijacked Claude Code came through Sentry",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
+      "summary": "Claude Code hijack attack came through Sentry, other services may be vulnerable"
+    },
+    {
+      "title": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/",
+      "summary": "Google security staff warn of potential search data hacking due to EU rule changes"
+    },
+    {
+      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+      "summary": "US Supreme Court rules geofence warrants are protected by privacy rights"
+    }
+  ],
+  "gym": [
+    {
+      "title": "On Making Organizational Culture Great",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=_Od2gHrrIuQ",
+      "duration_min": 60.3,
+      "category": "Personal Growth",
+      "summary": "Creating a great organizational culture"
+    },
+    {
+      "title": "I Turned 6 Prompts into a Full Content Strategy in Under An Hour",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=VpTvYBfvbhI",
+      "duration_min": 16.2,
+      "category": "Technology",
+      "summary": "Creating a content strategy using AI prompts"
+    },
+    {
+      "title": "The smartest order to invest your money",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=eulBaP-3OX4",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "Investing money in the right order"
+    },
+    {
+      "title": "What happens after coding is solved?",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
+      "duration_min": 98.8,
+      "category": "Technology",
+      "summary": "The future of coding and its implications"
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "The power of real optimism in personal growth"
+    },
+    {
+      "title": "The easiest (& laziest) way to get rich",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=lAbTmTxiOAQ",
+      "duration_min": 14.6,
+      "category": "Finance",
+      "summary": "Getting rich through easy and lazy methods"
+    }
+  ],
+  "gym_total_min": 194.2,
+  "mode": "live"
+}
