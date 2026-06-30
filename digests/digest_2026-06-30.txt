@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-06-30  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+2. Q&A with Grindr CEO George Arison on turning Grindr into an 'AI-native company'
+   New York Times → https://www.techmeme.com/260630/p12#a260630p12
+   Grindr CEO discusses turning the company into an AI-native company, using AI to improve user experience.
+
+3. AI agents need context everywhere they run, even where the cloud can't follow
+   VentureBeat → https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow
+   AI agents require context to function effectively, even in areas with limited cloud connectivity.
+
+4. The AI jobs debate just got messier
+   TechCrunch → https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/
+   The AI jobs debate has become more complex, with concerns about job displacement and the need for new skills.
+
+5. 61% of US adults use AI for health information now - up from 2% in 2024
+   ZDNet → https://www.zdnet.com/article/us-adults-use-ai-for-health-information-now/
+   There has been a significant increase in the use of AI for health information among US adults, from 2% in 2024 to 61% now.
+
+6. Sony erases digital content from libraries; we're reminded we don’t own what we buy
+   Ars Technica → https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/
+   Sony's removal of digital content from libraries highlights the issue of ownership and consumer rights in the digital age.
+
+7. Agriculture is ready for AI, but its data isn’t
+   MIT Tech Review → https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/
+   Agriculture is poised to benefit from AI, but the industry's data infrastructure is not yet sufficient to support its adoption.
+
+8. US renewable boom passes key milestone in April
+   Ars Technica → https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/
+   The US renewable energy sector has reached a significant milestone, with solar energy outproducing coal in April.
+
+9. Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role
+   TechCrunch → https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/
+   Chamath Palihapitiya has raised $135M in Series A funding for his AI coding startup and will take on the CEO role.
+
+10. South Korea to spend $1T on more memory chip production and humanoid robots
+   Ars Technica → https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
+   South Korea plans to invest $1T in memory chip production and humanoid robots to drive technological advancement.
+
+
+🏋  GYM PLAYLIST  (~207.1 min)
+────────────────────────────────────────────────────────────────
+1. I Turned 6 Prompts into a Full Content Strategy in Under An Hour
+   The Science of Scaling · 16.2 min · Technology
+   https://www.youtube.com/watch?v=VpTvYBfvbhI
+   How to create a full content strategy using just 6 prompts in under an hour.
+
+2. What happens after coding is solved?
+   Lenny's Podcast · 98.8 min · Technology
+   https://www.youtube.com/watch?v=Ybrl4FYM57c
+   Discussion on the potential implications of coding being solved and what comes next.
+
+3. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Talk on the importance of real optimism in achieving success and well-being.
+
+4. The AI Agents Helping Home Services Book More Jobs
+   Y Combinator · 39.1 min · Finance
+   https://www.youtube.com/watch?v=EHp1HgwCo9I
+   How AI agents are being used to help home services book more jobs and increase revenue.
+
+5. How to Build a Self-Improving Company with AI
+   Y Combinator · 13.5 min · Technology
+   https://www.youtube.com/watch?v=t-G67yKAHBQ
+   Strategies for building a self-improving company using AI.
