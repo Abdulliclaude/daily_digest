@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-01  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO
+   VentureBeat → https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo
+   Anthropic launches Claude Sonnet 5, a more affordable version of its top model, as it prepares for an IPO.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+3. Google kills Tenor GIF API, forcing changes at X, Discord, and more
+   Ars Technica → https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more
+   Google shut down the Tenor GIF API, affecting multiple platforms that relied on it for GIF sharing.
+
+4. The ‘Father of the Internet’ is finally retiring
+   TechCrunch → https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring
+   The 'Father of the Internet' announces his retirement after a long and influential career in shaping the internet.
+
+5. Agriculture is ready for AI, but its data isn’t
+   MIT Tech Review → https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt
+   The agricultural sector is poised to adopt AI, but it lacks the necessary data infrastructure to support it.
+
+6. ByteDance is building a $39B data center complex in a free-trade zone in Brazil's Ceará
+   Techmeme → https://www.techmeme.com/260701/p13#a260701p13
+   ByteDance is investing in a massive data center complex in Brazil to expand its infrastructure.
+
+7. Meta introduces a $20/month Meta One Premium tier for its glasses and limits its Conversation Focus feature to three hours of use per month for free users
+   Techmeme → https://www.techmeme.com/260701/p15#a260701p15
+   Meta introduces a premium tier for its glasses with additional features and limits free usage of the Conversation Focus feature.
+
+8. Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation
+   VentureBeat → https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation
+   Google's Gemini Omni Flash API enables enterprise video production to be more conversational and interactive.
+
+9. The US sentences Guo Wengui, a self-exiled billionaire Chinese tycoon who defrauded his online followers out of hundreds of millions, to 30 years in prison
+   Techmeme → https://www.techmeme.com/260701/p14#a260701p14
+   A Chinese billionaire is sentenced to 30 years in prison for defrauding his online followers out of hundreds of millions of dollars.
+
+10. Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips
+   VentureBeat → https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips
+   Meituan open-sources its LongCat-2.0 model, a 1.6T agentic coding model trained on Chinese chips, leading the OpenRouter project.
+
+
+🏋  GYM PLAYLIST  (~150.9 min)
+────────────────────────────────────────────────────────────────
+1. Nir Eyal | Beyond Belief
+   Talks at Google · 46.1 min · Personal Growth
+   https://www.youtube.com/watch?v=057mnWzLBcA
+   Nir Eyal discusses his work on habit formation and behavioral design, providing insights into how to create lasting change.
+
+2. The Agentic AI Engineer - Benedikt Sanftl, Mutagent
+   AI Engineer · 34.8 min · Technology
+   https://www.youtube.com/watch?v=pSto5YaNGUo
+   Benedikt Sanftl talks about the role of the agentic AI engineer, emphasizing the importance of this position in AI development.
+
+3. Vivian Tu | Well Endowed
+   Talks at Google · 28.9 min · Personal Growth
+   https://www.youtube.com/watch?v=N4Pp37pMKmI
+   Vivian Tu discusses her experiences and insights on personal growth, wellbeing, and self-improvement.
+
+4. The ERP for the AI Revolution is here
+   Y Combinator · 27.6 min · Technology
+   https://www.youtube.com/watch?v=X1NXnLRNIfM
+   This talk explores the concept of an ERP system designed for the AI revolution, discussing its potential and implications.
+
+5. How to Build a Self-Improving Company with AI
+   Y Combinator · 13.5 min · Technology
+   https://www.youtube.com/watch?v=t-G67yKAHBQ
+   This video provides insights into how companies can leverage AI to create self-improving systems and processes.
