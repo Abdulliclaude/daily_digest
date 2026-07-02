@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-02  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM CEO questions the financial viability of spending on AI data centers.
+
+2. Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers
+   Techmeme → https://www.techmeme.com/260702/p13#a260702p13
+   Cloudflare sets a deadline for AI companies to differentiate their web crawlers to avoid being blocked.
+
+3. Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year
+   TechCrunch → https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/
+   Apple is planning to release new iPad Pro and MacBook Pro models in early 2027.
+
+4. The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem
+   VentureBeat → https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand
+   Enterprise AI organizations face an ownership problem, not a technology problem, when it comes to AI adoption.
+
+5. Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B
+   Techmeme → https://www.techmeme.com/260702/p12#a260702p12
+   Quantum Systems raises $1.2B in funding, valuing the company at $8B.
+
+6. Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding
+   VentureBeat → https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding
+   Z.ai launches ZCode, an AI coding tool that competes with other popular coding assistants.
+
+7. The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty should stand
+   Techmeme → https://www.techmeme.com/260702/p10#a260702p10
+   The European Court of Justice upholds the €4.1B fine against Google for abusing Android market power.
+
+8. I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick
+   ZDNet → https://www.zdnet.com/article/brave-origin-browser-hands-on/
+   The author praises Brave's new Origin browser as their top Chromium-based browser choice.
+
+9. An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices
+   Techmeme → https://www.techmeme.com/260702/p11#a260702p11
+   Amazon's Panos Panay discusses designing custom chips for Echo and Fire TV devices.
+
+10. T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit
+   Ars Technica → https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/
+   T-Mobile migrates virtual machines away from VMware due to an ongoing lawsuit.
+
+
+🏋  GYM PLAYLIST  (~38.4 min)
+────────────────────────────────────────────────────────────────
+1. The Two Harvard Dropouts Who raised $800M to take on NVIDIA
+   Invest Like The Best · 92.5 min · Finance
+   https://www.youtube.com/watch?v=BagWrgPww1o
+   An interview with two Harvard dropouts who raised $800M to compete with NVIDIA.
+
+2. What AI Can’t Do — And Why
+   Stanford Graduate School of Business · 28.9 min · Technology
+   https://www.youtube.com/watch?v=6_D6OPuDIis
+   A discussion on the limitations of AI and why they exist.
+
+3. How I Work: $10M/Year Serial Entrepreneur
+   Starter Story · 11.5 min · Personal Growth
+   https://www.youtube.com/watch?v=jjUf7lrb_xQ
+   An interview with a serial entrepreneur who shares their work habits and strategies.
+
+4. Building Great Agent Skills: The Missing Manual
+   AI Engineer · 20.7 min · Technology
+   https://www.youtube.com/watch?v=UNzCG3lw6O0
+   A discussion on building great agent skills and the missing manual for doing so.
+
+5. The Agentic AI Engineer - Benedikt Sanftl, Mutagent
+   AI Engineer · 34.8 min · Technology
+   https://www.youtube.com/watch?v=pSto5YaNGUo
+   A talk on the role of the agentic AI engineer and the work of Benedikt Sanftl at Mutagent.
