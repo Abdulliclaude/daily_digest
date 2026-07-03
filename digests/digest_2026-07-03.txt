@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-03  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Alibaba bans employees from using Claude Code
+   The Information → https://www.techmeme.com/260703/p4#a260703p4
+   Alibaba has banned employees from using Claude Code due to security concerns.
+
+2. Achieving operational excellence with AI
+   MIT Tech Review → https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai
+   Achieving operational excellence with AI requires a strategic approach to implementation and management.
+
+3. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+4. Newly discovered PamStealer isn't your typical macOS malware
+   Ars Technica → https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy
+   PamStealer is a new type of macOS malware that uses clever tradecraft to remain stealthy.
+
+5. The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem
+   VentureBeat → https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand
+   Enterprise AI organizations have an ownership problem, not a technology problem, and most are governing it by hand.
+
+6. Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped
+   TechCrunch → https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped
+   Mark Zuckerberg expressed disappointment with the slow progress of AI agents.
+
+7. Anthropic is bringing back Claude Fable 5 globally after US lifts export control order
+   VentureBeat → https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it
+   Anthropic is bringing back Claude Fable 5 globally after the US lifts export control order.
+
+8. Private space pilots are flying orbital missions for the US Space Force
+   TechCrunch → https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force
+   Private space pilots are flying orbital missions for the US Space Force.
+
+9. LLMs are stuck in a groupthink groove. This startup is trying to get them out.
+   MIT Tech Review → https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out
+   A startup is trying to get LLMs out of a groupthink groove.
+
+10. Sources: chip sector group SEMI warns US policies affecting prices or production capacity would worsen the shortage
+   Bloomberg → https://www.techmeme.com/260702/p41#a260702p41
+   The chip sector group SEMI warned that US policies affecting prices or production capacity would worsen the shortage.
+
+
+🏋  GYM PLAYLIST  (~42.0 min)
+────────────────────────────────────────────────────────────────
+1. OpenAI Codex lead on the new shape of product work
+   Lenny's Podcast · 70.0 min · Technology
+   https://www.youtube.com/watch?v=P3KDebPTUrw
+   The OpenAI Codex lead discusses the new shape of product work.
+
+2. The AI Agents Helping Home Services Book More Jobs
+   Y Combinator · 39.1 min · Technology
+   https://www.youtube.com/watch?v=EHp1HgwCo9I
+   AI agents are helping home services book more jobs.
+
+3. Investing a $120 Billion Balance Sheet with No Outside Investors
+   Invest Like The Best · 76.5 min · Finance
+   https://www.youtube.com/watch?v=OxHWFmFHnoc
+   Investing a $120 billion balance sheet with no outside investors is discussed.
+
+4. My Business Has Financially Crushed Me
+   Front Row Seat with Ken Coleman · 16.6 min · Personal Growth
+   https://www.youtube.com/watch?v=5Kx2S8ZTOKQ
+   A business owner discusses how their business has financially crushed them.
+
+5. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   Deploying a voice agent to a Fortune 500 company is discussed.

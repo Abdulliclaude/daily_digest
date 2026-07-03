@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Alibaba bans employees from using Claude Code",
+      "source": "The Information",
+      "url": "https://www.techmeme.com/260703/p4#a260703p4",
+      "summary": "Alibaba has banned employees from using Claude Code due to security concerns."
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai",
+      "summary": "Achieving operational excellence with AI requires a strategic approach to implementation and management."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy",
+      "summary": "PamStealer is a new type of macOS malware that uses clever tradecraft to remain stealthy."
+    },
+    {
+      "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+      "summary": "Enterprise AI organizations have an ownership problem, not a technology problem, and most are governing it by hand."
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "summary": "Mark Zuckerberg expressed disappointment with the slow progress of AI agents."
+    },
+    {
+      "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "summary": "Anthropic is bringing back Claude Fable 5 globally after the US lifts export control order."
+    },
+    {
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force",
+      "summary": "Private space pilots are flying orbital missions for the US Space Force."
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out",
+      "summary": "A startup is trying to get LLMs out of a groupthink groove."
+    },
+    {
+      "title": "Sources: chip sector group SEMI warns US policies affecting prices or production capacity would worsen the shortage",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260702/p41#a260702p41",
+      "summary": "The chip sector group SEMI warned that US policies affecting prices or production capacity would worsen the shortage."
+    }
+  ],
+  "gym": [
+    {
+      "title": "OpenAI Codex lead on the new shape of product work",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=P3KDebPTUrw",
+      "duration_min": 70.0,
+      "category": "Technology",
+      "summary": "The OpenAI Codex lead discusses the new shape of product work."
+    },
+    {
+      "title": "The AI Agents Helping Home Services Book More Jobs",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=EHp1HgwCo9I",
+      "duration_min": 39.1,
+      "category": "Technology",
+      "summary": "AI agents are helping home services book more jobs."
+    },
+    {
+      "title": "Investing a $120 Billion Balance Sheet with No Outside Investors",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=OxHWFmFHnoc",
+      "duration_min": 76.5,
+      "category": "Finance",
+      "summary": "Investing a $120 billion balance sheet with no outside investors is discussed."
+    },
+    {
+      "title": "My Business Has Financially Crushed Me",
+      "channel": "Front Row Seat with Ken Coleman",
+      "url": "https://www.youtube.com/watch?v=5Kx2S8ZTOKQ",
+      "duration_min": 16.6,
+      "category": "Personal Growth",
+      "summary": "A business owner discusses how their business has financially crushed them."
+    },
+    {
+      "title": "What It Actually Takes to Deploy a Voice Agent to a Fortune 500",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=eSm_9tb5ZbY",
+      "duration_min": 30.8,
+      "category": "Technology",
+      "summary": "Deploying a voice agent to a Fortune 500 company is discussed."
+    }
+  ],
+  "gym_total_min": 42.0,
+  "mode": "live"
+}
