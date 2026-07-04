@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "A profile of Google DeepMind philosopher Iason Gabriel",
+      "source": "The Guardian",
+      "url": "https://www.techmeme.com/260704/p5#a260704p5",
+      "summary": "Iason Gabriel's work has tracked and predicted ethical challenges posed by the success of LLMs"
+    },
+    {
+      "title": "Micron breaks ground on its ~$9.3B Hiroshima factory expansion",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260704/p4#a260704p4",
+      "summary": "Micron's expansion is part of its global ramp-up to meet AI demand"
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Red Hat",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider"
+    },
+    {
+      "title": "The only AI glossary you\u2019ll need this year",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "A comprehensive AI glossary covering common terms and concepts"
+    },
+    {
+      "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "Alternative browsers are gaining traction, offering unique features and benefits"
+    },
+    {
+      "title": "Teaching AI to run with the turbines",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "summary": "Researchers are exploring the potential of AI in optimizing turbine performance"
+    },
+    {
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "summary": "A new type of macOS malware, PamStealer, uses clever tactics to evade detection"
+    },
+    {
+      "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "summary": "Trunk Tools' customized approach reduced document review time from 60 days to 10"
+    },
+    {
+      "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem \u2014 and most are governing it by hand",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+      "summary": "Enterprise AI organizations face ownership and governance challenges, rather than technological limitations"
+    },
+    {
+      "title": "Visiting the stars (and planets, and telescopes) in VR",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
+      "summary": "A new VR exhibit allows users to explore the stars, planets, and telescopes in an immersive experience"
+    }
+  ],
+  "gym": [
+    {
+      "title": "The smartest order to invest your money (step-by-step)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=eulBaP-3OX4",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "A step-by-step guide to investing money wisely"
+    },
+    {
+      "title": "What AI Can\u2019t Do \u2014 And Why",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=6_D6OPuDIis",
+      "duration_min": 28.9,
+      "category": "Technology",
+      "summary": "An exploration of the limitations of AI and its implications"
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "A discussion on the power of optimism and its effects on mental health"
+    },
+    {
+      "title": "You Can't Prompt the Room: The Last Skill AI Won't Replace",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=6bmM45jkMDY",
+      "duration_min": 15.8,
+      "category": "Technology",
+      "summary": "The importance of human skills that AI cannot replace"
+    },
+    {
+      "title": "The Future Is Domain-Specific Agents",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=spNAUEgq_A8",
+      "duration_min": 30.6,
+      "category": "Technology",
+      "summary": "The potential of domain-specific agents in the future of AI"
+    },
+    {
+      "title": "Building Great Agent Skills: The Missing Manual",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
+      "duration_min": 20.7,
+      "category": "Technology",
+      "summary": "A guide to building effective agent skills"
+    }
+  ],
+  "gym_total_min": 120.5,
+  "mode": "live"
+}

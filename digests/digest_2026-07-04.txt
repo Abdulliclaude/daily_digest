@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-04  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. A profile of Google DeepMind philosopher Iason Gabriel
+   The Guardian → https://www.techmeme.com/260704/p5#a260704p5
+   Iason Gabriel's work has tracked and predicted ethical challenges posed by the success of LLMs
+
+2. Micron breaks ground on its ~$9.3B Hiroshima factory expansion
+   Bloomberg → https://www.techmeme.com/260704/p4#a260704p4
+   Micron's expansion is part of its global ramp-up to meet AI demand
+
+3. IBM acquires Red Hat
+   Red Hat → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider
+
+4. The only AI glossary you’ll need this year
+   TechCrunch → https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+   A comprehensive AI glossary covering common terms and concepts
+
+5. The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari
+   TechCrunch → https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
+   Alternative browsers are gaining traction, offering unique features and benefits
+
+6. Teaching AI to run with the turbines
+   MIT Tech Review → https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+   Researchers are exploring the potential of AI in optimizing turbine performance
+
+7. Newly discovered PamStealer isn't your typical macOS malware
+   Ars Technica → https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/
+   A new type of macOS malware, PamStealer, uses clever tactics to evade detection
+
+8. Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models
+   VentureBeat → https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models
+   Trunk Tools' customized approach reduced document review time from 60 days to 10
+
+9. The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand
+   VentureBeat → https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand
+   Enterprise AI organizations face ownership and governance challenges, rather than technological limitations
+
+10. Visiting the stars (and planets, and telescopes) in VR
+   Ars Technica → https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/
+   A new VR exhibit allows users to explore the stars, planets, and telescopes in an immersive experience
+
+
+🏋  GYM PLAYLIST  (~120.5 min)
+────────────────────────────────────────────────────────────────
+1. The smartest order to invest your money (step-by-step)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   A step-by-step guide to investing money wisely
+
+2. What AI Can’t Do — And Why
+   Stanford Graduate School of Business · 28.9 min · Technology
+   https://www.youtube.com/watch?v=6_D6OPuDIis
+   An exploration of the limitations of AI and its implications
+
+3. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   A discussion on the power of optimism and its effects on mental health
+
+4. You Can't Prompt the Room: The Last Skill AI Won't Replace
+   AI Engineer · 15.8 min · Technology
+   https://www.youtube.com/watch?v=6bmM45jkMDY
+   The importance of human skills that AI cannot replace
+
+5. The Future Is Domain-Specific Agents
+   AI Engineer · 30.6 min · Technology
+   https://www.youtube.com/watch?v=spNAUEgq_A8
+   The potential of domain-specific agents in the future of AI
+
+6. Building Great Agent Skills: The Missing Manual
+   AI Engineer · 20.7 min · Technology
+   https://www.youtube.com/watch?v=UNzCG3lw6O0
+   A guide to building effective agent skills
