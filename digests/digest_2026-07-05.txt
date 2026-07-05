@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-05  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al.
+   Techmeme → https://www.techmeme.com/260705/p5#a260705p5
+   Kaley Glenn-Mills was awarded $6M in damages in a landmark LA jury trial over social media addiction
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider
+
+3. New Google commercial imagines a Declaration of Independence written with help from AI
+   TechCrunch → https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
+   Google's new commercial explores the idea of AI-assisted writing
+
+4. Achieving operational excellence with AI
+   MIT Tech Review → https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/
+   Operational excellence can be achieved with AI by streamlining processes and improving decision-making
+
+5. India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content
+   Techmeme → https://www.techmeme.com/260705/p1#a260705p1
+   India has asked Telegram to curb the spread of pirated content on its platform
+
+6. What is Mistral AI? Everything to know about the OpenAI competitor
+   TechCrunch → https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
+   Mistral AI is a competitor to OpenAI, offering similar AI-powered services
+
+7. The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand
+   VentureBeat → https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand
+   Enterprise AI organizations face an ownership problem, not a technology problem, and are governing AI by hand
+
+8. There’s a Global Network of Fungi Under Your Feet. This Is the First Complete Map
+   Wired → https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/
+   The first complete map of the global network of fungi under our feet has been created
+
+9. Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding
+   VentureBeat → https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding
+   Z.ai has launched ZCode, an AI coding tool that challenges existing competitors
+
+10. Teaching AI to run with the turbines
+   MIT Tech Review → https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+   Researchers are teaching AI to optimize turbine performance for improved energy efficiency
+
+
+🏋  GYM PLAYLIST  (~170.2 min)
+────────────────────────────────────────────────────────────────
+1. The future of work with @Claude
+   Claude · 11.4 min · Technology
+   https://www.youtube.com/watch?v=MhfnicQVkgY
+   The future of work is discussed with Claude, highlighting the role of AI in shaping work patterns
+
+2. I Turned This Spreadsheet Into a $30K/Month Micro-SaaS
+   Starter Story · 12.4 min · Finance
+   https://www.youtube.com/watch?v=d8PdJJcEtE0
+   The story of how a spreadsheet was turned into a successful micro-SaaS business
+
+3. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the power of real optimism and its impact on life
+
+4. The Two Harvard Dropouts Who raised $800M to take on NVIDIA
+   Invest Like The Best · 92.5 min · Technology
+   https://www.youtube.com/watch?v=BagWrgPww1o
+   The story of two Harvard dropouts who raised $800M to take on NVIDIA
+
+5. The smartest order to invest your money (step-by-step)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   A step-by-step guide to investing money in the smartest order
