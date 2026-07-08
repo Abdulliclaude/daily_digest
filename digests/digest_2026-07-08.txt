@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-08  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. EU General Court dismisses Apple's legal challenges against its designation as a DMA "gatekeeper"
+   Techmeme → https://www.techmeme.com/260708/p11#a260708p11
+   The EU General Court has dismissed Apple's legal challenges against its designation as a DMA "gatekeeper" for its App Store and iOS.
+
+2. Chip startup SambaNova raised a $1B Series F led by General Atlantic at an $11B valuation
+   Techmeme → https://www.techmeme.com/260708/p10#a260708p10
+   SambaNova has raised $1 billion in a Series F funding round led by General Atlantic, valuing the company at $11 billion.
+
+3. US lawmakers are considering strategies to curb US companies' growing adoption of Chinese AI models
+   Techmeme → https://www.techmeme.com/260708/p9#a260708p9
+   US lawmakers are considering strategies to curb US companies' growing adoption of Chinese AI models due to security concerns.
+
+4. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+5. Hot French startup ZML releases free product to speed inference across lots of AI chips
+   TechCrunch → https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
+   ZML has released a free product to speed up inference across multiple AI chips, aiming to improve AI performance.
+
+6. The real cost, security, and culture problems behind enterprise AI agents
+   VentureBeat → https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents
+   Enterprise AI agents can bring significant costs, security risks, and cultural challenges that need to be addressed.
+
+7. Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding
+   VentureBeat → https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding
+   Anthropic has expanded Claude Cowork to mobile and web, catering to non-coding users based on usage data insights.
+
+8. I spent a week with Sony's $3,500 Bravia TV - the True RGB display is the real deal
+   ZDNet → https://www.zdnet.com/article/sony-bravia-9-ii-review/
+   A review of Sony's $3,500 Bravia TV highlights the exceptional quality of its True RGB display.
+
+9. Microsoft joins AI cost-cutting trend by relying more on its own models
+   TechCrunch → https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/
+   Microsoft is shifting towards using its own AI models to cut costs, following a trend in the tech industry.
+
+10. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+   Ars Technica → https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
+   Researchers have found that hackers can exploit popular AI tools to create massive botnets, posing significant security risks.
+
+
+🏋  GYM PLAYLIST  (~235 min)
+────────────────────────────────────────────────────────────────
+1. On Making Organizational Culture Great
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   This talk focuses on the importance of creating a great organizational culture and provides insights on how to achieve it.
+
+2. The AI Agents Helping Home Services Book More Jobs
+   Y Combinator · 39.1 min · Technology
+   https://www.youtube.com/watch?v=EHp1HgwCo9I
+   This video discusses how AI agents are being used in the home services industry to increase booking efficiency.
+
+3. Why OpenAI is merging Codex and ChatGPT and the future of knowledge work
+   Lenny's Podcast · 70.0 min · Technology
+   https://www.youtube.com/watch?v=P3KDebPTUrw
+   This podcast episode explores the reasons behind OpenAI's decision to merge Codex and ChatGPT and the potential impact on knowledge work.
+
+4. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   This video provides an accountant's perspective on why individuals might be richer than they think, offering insights into personal finance.
+
+5. How to Create a WhatsApp Chatbot for Your Business (No Coding)
+   The Science of Scaling · 13.9 min · Technology
+   https://www.youtube.com/watch?v=sgpNrQZqUW4
+   This video tutorial shows how to create a WhatsApp chatbot for business without requiring any coding knowledge.
+
+6. The Quantum Shift in Biomedical Discovery
+   IBM Technology · 44.3 min · Technology
+   https://www.youtube.com/watch?v=GRroB-0wrnc
+   This video discusses the role of quantum computing in biomedical discovery and its potential to drive innovation in the field.
