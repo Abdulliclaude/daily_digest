@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-09  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Interpol and law enforcement agencies arrest 5,811 suspects and seize $293M in an operation combating social engineering scams and fraud across 97 countries
+   BleepingComputer → https://www.techmeme.com/260709/p7#a260709p7
+   A massive operation combating social engineering scams and fraud across 97 countries resulted in 5,811 arrests and $293M seized.
+
+2. Leaked renders via Android Headlines show the Samsung Galaxy Z Flip 8, Z Fold 8, Watch 9, and Watch Ultra 2
+   Engadget → https://www.techmeme.com/260709/p6#a260709p6
+   Leaked renders of upcoming Samsung devices, including Galaxy Z Flip 8 and Z Fold 8, have been revealed.
+
+3. Sonos' layoffs include some top design and product executives, like VP of Design Dana Krieger
+   Bloomberg → https://www.techmeme.com/260709/p5#a260709p5
+   Sonos is laying off top executives, including VP of Design Dana Krieger, as part of a restructuring effort.
+
+4. IBM acquires Red Hat
+   IBM → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+5. The AI data center boom has led to surging demand for power transformers, with average lead times for orders now stretching into years
+   Financial Times → https://www.techmeme.com/260709/p4#a260709p4
+   The AI data center boom is causing a surge in demand for power transformers, leading to lengthy lead times.
+
+6. A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final
+   Inside Higher Ed → https://www.techmeme.com/260709/p3#a260709p3
+   A professor at Brown University suspected his students of using AI to cheat after a high average score on a take-home exam.
+
+7. Companies are mobilizing internal groups of 'AI champions' to drive adoption
+   Wall Street Journal → https://www.techmeme.com/260709/p2#a260709p2
+   Companies are creating internal 'AI champion' groups to promote the adoption of AI within their organizations.
+
+8. Truecaller clashes with India’s telecom regulator over anti-spam rules
+   TechCrunch → https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/
+   Truecaller is in a dispute with India's telecom regulator over anti-spam rules.
+
+9. Google’s deepfake detector system used to debunk McConnell hoax pic
+   TechCrunch → https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/
+   Google's deepfake detector system was used to debunk a fake image of Mitch McConnell.
+
+10. The foundational elements of AI architecture that IT leaders need to scale
+   MIT Tech Review → https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/
+   IT leaders need to understand the foundational elements of AI architecture to scale AI effectively.
+
+
+🏋  GYM PLAYLIST  (~40.9 min)
+────────────────────────────────────────────────────────────────
+1. What do we build now? — Theo Browne, @t3dotgg
+   AI Engineer · 16.0 min · Technology
+   https://www.youtube.com/watch?v=xUnRQ9vLXxo
+   Theo Browne discusses what to build next in the field of AI.
+
+2. I Tested My Brand's AI Visibility Using Only FREE AEO Tools
+   The Science of Scaling · 8.8 min · Technology
+   https://www.youtube.com/watch?v=fqmqzlz7cHg
+   The speaker shares their experience of testing their brand's AI visibility using free AEO tools.
+
+3. Once you get money, upgrade these 10 things immediately
+   Nischa · 15.1 min · Finance
+   https://www.youtube.com/watch?v=RaLlpEQv_LA
+   The speaker advises on the top 10 things to upgrade immediately after getting money.
+
+4. The smartest order to invest your  money (step-by-step)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   The speaker provides a step-by-step guide on the smartest order to invest money.
+
+5. The Billion Dollar PDF
+   Invest Like The Best · 86.6 min · Finance
+   https://www.youtube.com/watch?v=Y82q5Lw7_8E
+   The speaker discusses the concept of a billion-dollar PDF and its implications.
