@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-10  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Filing: Polymarket is seeking CFTC approval to offer margin trading in the US
+   Techmeme → https://www.techmeme.com/260710/p7#a260710p7
+   Polymarket is seeking CFTC approval to offer margin trading in the US, allowing users to bet on events with less capital upfront.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. OpenAI and Google are providing advanced AI models to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent
+   Techmeme → https://www.techmeme.com/260710/p4#a260710p4
+   OpenAI and Google are providing advanced AI models to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent, exposing a gap in US AI controls.
+
+4. After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV
+   TechCrunch → https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/
+   India's smartphone manufacturing boom is entering a new phase with Vivo's joint venture, following Apple's investment in the country.
+
+5. EmTech AI 2026: The Rise of the AI Platform
+   MIT Tech Review → https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/
+   The EmTech AI 2026 conference discussed the rise of the AI platform and its impact on various industries.
+
+6. Allstate accuses Broadcom of auditing it because it quit VMware, CA
+   Ars Technica → https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/
+   Allstate is accusing Broadcom of auditing it because it quit using VMware and CA products.
+
+7. Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds
+   VentureBeat → https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research
+   New research from VentureBeat found that shared API keys expose AI agents at 69% of enterprises.
+
+8. The best VPS hosting services for 2026: Expert tested and reviewed
+   ZDNet → https://www.zdnet.com/article/best-vps-hosting-service/
+   ZDNet reviewed and ranked the best VPS hosting services for 2026, based on expert testing.
+
+9. OpenAI launches its new family of models with GPT-5.6
+   TechCrunch → https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/
+   OpenAI launched its new family of models with GPT-5.6, which promises improved performance and capabilities.
+
+10. The enterprise AI challenge nobody solves with code generation alone
+   VentureBeat → https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone
+   VentureBeat discussed the enterprise AI challenge that cannot be solved with code generation alone, highlighting the need for a more comprehensive approach.
+
+
+🏋  GYM PLAYLIST  (~241.5 min)
+────────────────────────────────────────────────────────────────
+1. On Making Organizational Culture Great
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   Professor Glenn Carroll discusses the importance of organizational culture and how to make it great.
+
+2. Everything in Capital Markets is Downstream of Algorithms
+   Invest Like The Best · 86.6 min · Finance
+   https://www.youtube.com/watch?v=Y82q5Lw7_8E
+   The podcast discusses how algorithms are driving capital markets and the implications for investors.
+
+3. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the power of real optimism and its impact on mental health and well-being.
+
+4. The Quantum Shift in Biomedical Discovery
+   IBM Technology · 44.3 min · Technology
+   https://www.youtube.com/watch?v=GRroB-0wrnc
+   The video discusses the quantum shift in biomedical discovery and how IBM is contributing to this field.
+
+5. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   The video discusses the challenges and opportunities of deploying a voice agent to a Fortune 500 company.

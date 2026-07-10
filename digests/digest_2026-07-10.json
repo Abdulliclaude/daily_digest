@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Filing: Polymarket is seeking CFTC approval to offer margin trading in the US",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260710/p7#a260710p7",
+      "summary": "Polymarket is seeking CFTC approval to offer margin trading in the US, allowing users to bet on events with less capital upfront."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "OpenAI and Google are providing advanced AI models to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260710/p4#a260710p4",
+      "summary": "OpenAI and Google are providing advanced AI models to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent, exposing a gap in US AI controls."
+    },
+    {
+      "title": "After Apple, India\u2019s smartphone manufacturing boom enters new phase with Vivo JV",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+      "summary": "India's smartphone manufacturing boom is entering a new phase with Vivo's joint venture, following Apple's investment in the country."
+    },
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "summary": "The EmTech AI 2026 conference discussed the rise of the AI platform and its impact on various industries."
+    },
+    {
+      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+      "summary": "Allstate is accusing Broadcom of auditing it because it quit using VMware and CA products."
+    },
+    {
+      "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+      "summary": "New research from VentureBeat found that shared API keys expose AI agents at 69% of enterprises."
+    },
+    {
+      "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/best-vps-hosting-service/",
+      "summary": "ZDNet reviewed and ranked the best VPS hosting services for 2026, based on expert testing."
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "summary": "OpenAI launched its new family of models with GPT-5.6, which promises improved performance and capabilities."
+    },
+    {
+      "title": "The enterprise AI challenge nobody solves with code generation alone",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
+      "summary": "VentureBeat discussed the enterprise AI challenge that cannot be solved with code generation alone, highlighting the need for a more comprehensive approach."
+    }
+  ],
+  "gym": [
+    {
+      "title": "On Making Organizational Culture Great",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=_Od2gHrrIuQ",
+      "duration_min": 60.3,
+      "category": "Personal Growth",
+      "summary": "Professor Glenn Carroll discusses the importance of organizational culture and how to make it great."
+    },
+    {
+      "title": "Everything in Capital Markets is Downstream of Algorithms",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=Y82q5Lw7_8E",
+      "duration_min": 86.6,
+      "category": "Finance",
+      "summary": "The podcast discusses how algorithms are driving capital markets and the implications for investors."
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "Dr. Deepika Chopra discusses the power of real optimism and its impact on mental health and well-being."
+    },
+    {
+      "title": "The Quantum Shift in Biomedical Discovery",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=GRroB-0wrnc",
+      "duration_min": 44.3,
+      "category": "Technology",
+      "summary": "The video discusses the quantum shift in biomedical discovery and how IBM is contributing to this field."
+    },
+    {
+      "title": "What It Actually Takes to Deploy a Voice Agent to a Fortune 500",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=eSm_9tb5ZbY",
+      "duration_min": 30.8,
+      "category": "Technology",
+      "summary": "The video discusses the challenges and opportunities of deploying a voice agent to a Fortune 500 company."
+    }
+  ],
+  "gym_total_min": 241.5,
+  "mode": "live"
+}
