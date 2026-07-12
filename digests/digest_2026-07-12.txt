@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-12  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. A look at the growing anti-AI movement in the Bay Area, as the disappearance of Sam Kirchner, co-founder of a hard-line activist group, has the movement on edge
+   Wall Street Journal → https://www.techmeme.com/260712/p4#a260712p4
+   The growing anti-AI movement in the Bay Area is on edge due to the disappearance of Sam Kirchner, co-founder of a hard-line activist group.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+3. AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations
+   Financial Times → https://www.techmeme.com/260712/p3#a260712p3
+   Airbnb saw a surge in new listings during the FIFA World Cup group stage, while hotel bookings fell short of expectations.
+
+4. NYC-based Vendelux, a live B2B event information platform for CMOs and marketing and sales teams, raised a $50M Series B led by Tribeca Venture Partners
+   Business Insider → https://www.techmeme.com/260712/p2#a260712p2
+   Vendelux, a live B2B event information platform, raised $50M in Series B funding led by Tribeca Venture Partners.
+
+5. The Download: Claude’s inner workings and OpenAI’s “super app”
+   MIT Tech Review → https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
+   OpenAI's 'super app' and Claude's inner workings are discussed in the latest Download.
+
+6. Google's TabFM skips per-dataset training and still predicts on tables it's never seen
+   VentureBeat → https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen
+   Google's TabFM can predict on tables it has never seen without per-dataset training.
+
+7. EU Justice Commissioner Michael McGrath says the EC is set to propose new digital rules by year-end aimed at protecting consumers from online spending traps
+   Financial Times → https://www.techmeme.com/260712/p1#a260712p1
+   The EC will propose new digital rules to protect consumers from online spending traps by year-end.
+
+8. OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars
+   VentureBeat → https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars
+   OpenAI introduced ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack, and calendars.
+
+9. AI Found a Root Bug in Linux That Everyone Missed for 15 Years
+   Wired → https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/
+   AI found a root bug in Linux that went undetected for 15 years.
+
+10. Red Hat will support your RHEL forever now - for a price
+   ZDNet → https://www.zdnet.com/article/red-hat-enterprise-linux-forever-support/
+   Red Hat will offer lifetime support for RHEL, but at a cost.
+
+
+🏋  GYM PLAYLIST  (~205.4 min)
+────────────────────────────────────────────────────────────────
+1. The rise of taste, human authenticity and judgment in an AI world
+   Lenny's Podcast · 68.5 min · Technology
+   https://www.youtube.com/watch?v=yQ_EWmtfWvQ
+   Adam Mosseri discusses the rise of taste, human authenticity, and judgment in an AI world.
+
+2. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   The deployment of a voice agent to a Fortune 500 company is discussed.
+
+3. From Passion to Profession
+   Talks at Google · 63.2 min · Personal Growth
+   https://www.youtube.com/watch?v=rixcd95VVuM
+   Leo Ku discusses turning passion into a profession.
+
+4. The smartest order to invest your money (step-by-step)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   A step-by-step guide to investing money is provided.
+
+5. Stop Evaluating Models Like It's the 50s
+   AI Engineer · 23.0 min · Technology
+   https://www.youtube.com/watch?v=EfcfUB2uprc
+   The evaluation of models is discussed, with a focus on moving beyond outdated methods.
+
+6. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the power of real optimism.
