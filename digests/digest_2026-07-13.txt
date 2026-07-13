@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-13  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Investigation: Western intelligence officials identify a Russian military intelligence unit in Tokyo that smuggles high-tech components for the war in Ukraine
+   New York Times → https://www.techmeme.com/260713/p11#a260713p11
+   Western intelligence officials have identified a Russian military intelligence unit in Tokyo that smuggles high-tech components for the war in Ukraine.
+
+2. OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars
+   VentureBeat → https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars
+   OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack, and calendars.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+4. How a Denmark-based research team is using quantum computers to accelerate AI protein discovery, showing a near-term commercial application for the quantum tech
+   Wired → https://www.techmeme.com/260713/p8#a260713p8
+   A Denmark-based research team is using quantum computers to accelerate AI protein discovery, showing a near-term commercial application for the quantum tech.
+
+5. EmTech AI 2026: The Rise of the AI Platform
+   MIT Tech Review → https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform
+   The EmTech AI 2026 conference focuses on the rise of the AI platform and its implications for the future of technology.
+
+6. Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them
+   VentureBeat → https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them
+   Enterprise AI is entering an evaluation gap where agents are gaining autonomy faster than companies can verify them.
+
+7. A look back at the 2007 heist of a Verizon data center in London, highlighting the role of physical data security as cyber defenses grow more sophisticated
+   New York Times → https://www.techmeme.com/260713/p7#a260713p7
+   The 2007 heist of a Verizon data center in London highlights the importance of physical data security as cyber defenses grow more sophisticated.
+
+8. 57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?
+   VentureBeat → https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one
+   57% of enterprises have watched AI agents be confidently wrong, and the fix is an agentic context layer, but few have implemented it.
+
+9. The Quantum Shift in Biomedical Discovery
+   IBM Technology → https://www.youtube.com/watch?v=GRroB-0wrnc
+   IBM discusses the quantum shift in biomedical discovery and its potential to revolutionize the field.
+
+10. Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools
+   VentureBeat → https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools
+   Slopsquatting is a new software supply chain threat created by AI coding tools that can compromise the security of software systems.
+
+
+🏋  GYM PLAYLIST  (~268.6 min)
+────────────────────────────────────────────────────────────────
+1. Why the tech workforce is quietly splitting in two
+   Lenny's Podcast · 96.5 min · Technology
+   https://www.youtube.com/watch?v=_cmpIveXnvE
+   The tech workforce is quietly splitting in two, with significant implications for the future of work.
+
+2. The smartest order to invest your money (step-by-step)
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=eulBaP-3OX4
+   The smartest order to invest your money involves a step-by-step approach that considers risk tolerance and financial goals.
+
+3. On Making Organizational Culture Great
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   Making organizational culture great requires intentional effort and a focus on creating a positive and productive work environment.
+
+4. The rise of taste, human authenticity and judgment in an AI world
+   Lenny's Podcast · 68.5 min · Technology
+   https://www.youtube.com/watch?v=yQ_EWmtfWvQ
+   The rise of AI is leading to a greater emphasis on human authenticity and judgment in a world where machines are increasingly capable of simulating human-like intelligence.
+
+5. What AI Can’t Do — And Why
+   Stanford Graduate School of Business · 28.9 min · Technology
+   https://www.youtube.com/watch?v=6_D6OPuDIis
+   There are certain things that AI cannot do, and understanding these limitations is essential for developing effective AI systems.

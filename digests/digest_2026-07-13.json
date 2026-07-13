@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Investigation: Western intelligence officials identify a Russian military intelligence unit in Tokyo that smuggles high-tech components for the war in Ukraine",
+      "source": "New York Times",
+      "url": "https://www.techmeme.com/260713/p11#a260713p11",
+      "summary": "Western intelligence officials have identified a Russian military intelligence unit in Tokyo that smuggles high-tech components for the war in Ukraine."
+    },
+    {
+      "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+      "summary": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack, and calendars."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "How a Denmark-based research team is using quantum computers to accelerate AI protein discovery, showing a near-term commercial application for the quantum tech",
+      "source": "Wired",
+      "url": "https://www.techmeme.com/260713/p8#a260713p8",
+      "summary": "A Denmark-based research team is using quantum computers to accelerate AI protein discovery, showing a near-term commercial application for the quantum tech."
+    },
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform",
+      "summary": "The EmTech AI 2026 conference focuses on the rise of the AI platform and its implications for the future of technology."
+    },
+    {
+      "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+      "summary": "Enterprise AI is entering an evaluation gap where agents are gaining autonomy faster than companies can verify them."
+    },
+    {
+      "title": "A look back at the 2007 heist of a Verizon data center in London, highlighting the role of physical data security as cyber defenses grow more sophisticated",
+      "source": "New York Times",
+      "url": "https://www.techmeme.com/260713/p7#a260713p7",
+      "summary": "The 2007 heist of a Verizon data center in London highlights the importance of physical data security as cyber defenses grow more sophisticated."
+    },
+    {
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "summary": "57% of enterprises have watched AI agents be confidently wrong, and the fix is an agentic context layer, but few have implemented it."
+    },
+    {
+      "title": "The Quantum Shift in Biomedical Discovery",
+      "source": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=GRroB-0wrnc",
+      "summary": "IBM discusses the quantum shift in biomedical discovery and its potential to revolutionize the field."
+    },
+    {
+      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+      "summary": "Slopsquatting is a new software supply chain threat created by AI coding tools that can compromise the security of software systems."
+    }
+  ],
+  "gym": [
+    {
+      "title": "Why the tech workforce is quietly splitting in two",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=_cmpIveXnvE",
+      "duration_min": 96.5,
+      "category": "Technology",
+      "summary": "The tech workforce is quietly splitting in two, with significant implications for the future of work."
+    },
+    {
+      "title": "The smartest order to invest your money (step-by-step)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=eulBaP-3OX4",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "The smartest order to invest your money involves a step-by-step approach that considers risk tolerance and financial goals."
+    },
+    {
+      "title": "On Making Organizational Culture Great",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=_Od2gHrrIuQ",
+      "duration_min": 60.3,
+      "category": "Personal Growth",
+      "summary": "Making organizational culture great requires intentional effort and a focus on creating a positive and productive work environment."
+    },
+    {
+      "title": "The rise of taste, human authenticity and judgment in an AI world",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=yQ_EWmtfWvQ",
+      "duration_min": 68.5,
+      "category": "Technology",
+      "summary": "The rise of AI is leading to a greater emphasis on human authenticity and judgment in a world where machines are increasingly capable of simulating human-like intelligence."
+    },
+    {
+      "title": "What AI Can\u2019t Do \u2014 And Why",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=6_D6OPuDIis",
+      "duration_min": 28.9,
+      "category": "Technology",
+      "summary": "There are certain things that AI cannot do, and understanding these limitations is essential for developing effective AI systems."
+    }
+  ],
+  "gym_total_min": 268.6,
+  "mode": "live"
+}
