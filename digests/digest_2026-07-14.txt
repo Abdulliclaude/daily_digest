@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-14  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. eMarketer: chatbots like ChatGPT and Google AI Mode will generate less than $1B in ad revenue in 2026
+   Techmeme → https://www.techmeme.com/260714/p4#a260714p4
+   Chatbots are expected to generate less than $1B in ad revenue in 2026, according to eMarketer.
+
+2. Google agrees to buy 100% of the initial output from the Steel River Energy Center's 1.6GW solar project in Arkansas
+   Techmeme → https://www.techmeme.com/260714/p3#a260714p3
+   Google has agreed to purchase the entire initial output of a 1.6GW solar project in Arkansas.
+
+3. Researchers detail "context bombing", where defenders use prompt injections to trigger guardrails of attackers' LLMs
+   Techmeme → https://www.techmeme.com/260714/p2#a260714p2
+   Researchers have discovered a method called "context bombing" to defend against LLM-based attacks.
+
+4. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+5. Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets
+   Ars Technica → https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
+   Apple is suing OpenAI over allegations that an ex-engineer used a bug to steal trade secrets.
+
+6. 57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?
+   VentureBeat → https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one
+   Most enterprises have experienced AI agents providing incorrect information with confidence, and a fix is needed.
+
+7. ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost
+   VentureBeat → https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost
+   ACRouter can select the most cost-effective AI model for a given task, outperforming Opus-only setups.
+
+8. The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night
+   Wired → https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/
+   The US has approved the launch of a mirror satellite capable of reflecting sunlight to illuminate the Earth at night.
+
+9.  PsiQuantum has a plan to make a massive quantum computer out of light
+   MIT Tech Review → https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light
+   PsiQuantum plans to develop a massive quantum computer using light.
+
+10. DeepSeek cut prices 75%. The 100x problem remains
+   VentureBeat → https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains
+   DeepSeek has reduced its prices by 75%, but the 100x problem persists.
+
+
+🏋  GYM PLAYLIST  (~37.2 min)
+────────────────────────────────────────────────────────────────
+1. If I Started Investing in July 2026, This is What I'd Do
+   Nischa · 14.6 min · Finance
+   https://www.youtube.com/watch?v=RvUVQcDVc1Q
+   The speaker shares their investment strategy for July 2026.
+
+2. The rise of taste, human authenticity and judgment in an AI world
+   Lenny's Podcast · 68.5 min · Technology
+   https://www.youtube.com/watch?v=yQ_EWmtfWvQ
+   The podcast discusses the importance of human taste and judgment in an AI-driven world.
+
+3. From Passion to Profession
+   Talks at Google · 63.2 min · Personal Growth
+   https://www.youtube.com/watch?v=rixcd95VVuM
+   The speaker shares their journey of turning their passion into a profession.
+
+4. The Agentic Web and the Bazaar Era of AI
+   AI Engineer · 12.2 min · Technology
+   https://www.youtube.com/watch?v=sum9DgexFRQ
+   The speaker discusses the concept of the Agentic Web and its relation to AI.
+
+5. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   The accountant explains how people may be richer than they think.

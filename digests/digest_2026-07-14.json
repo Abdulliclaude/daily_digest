@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "eMarketer: chatbots like ChatGPT and Google AI Mode will generate less than $1B in ad revenue in 2026",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260714/p4#a260714p4",
+      "summary": "Chatbots are expected to generate less than $1B in ad revenue in 2026, according to eMarketer."
+    },
+    {
+      "title": "Google agrees to buy 100% of the initial output from the Steel River Energy Center's 1.6GW solar project in Arkansas",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260714/p3#a260714p3",
+      "summary": "Google has agreed to purchase the entire initial output of a 1.6GW solar project in Arkansas."
+    },
+    {
+      "title": "Researchers detail \"context bombing\", where defenders use prompt injections to trigger guardrails of attackers' LLMs",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260714/p2#a260714p2",
+      "summary": "Researchers have discovered a method called \"context bombing\" to defend against LLM-based attacks."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "summary": "Apple is suing OpenAI over allegations that an ex-engineer used a bug to steal trade secrets."
+    },
+    {
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "summary": "Most enterprises have experienced AI agents providing incorrect information with confidence, and a fix is needed."
+    },
+    {
+      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+      "summary": "ACRouter can select the most cost-effective AI model for a given task, outperforming Opus-only setups."
+    },
+    {
+      "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
+      "summary": "The US has approved the launch of a mirror satellite capable of reflecting sunlight to illuminate the Earth at night."
+    },
+    {
+      "title": " PsiQuantum has a plan to make a massive quantum computer out of light",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light",
+      "summary": "PsiQuantum plans to develop a massive quantum computer using light."
+    },
+    {
+      "title": "DeepSeek cut prices 75%. The 100x problem remains",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+      "summary": "DeepSeek has reduced its prices by 75%, but the 100x problem persists."
+    }
+  ],
+  "gym": [
+    {
+      "title": "If I Started Investing in July 2026, This is What I'd Do",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=RvUVQcDVc1Q",
+      "duration_min": 14.6,
+      "category": "Finance",
+      "summary": "The speaker shares their investment strategy for July 2026."
+    },
+    {
+      "title": "The rise of taste, human authenticity and judgment in an AI world",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=yQ_EWmtfWvQ",
+      "duration_min": 68.5,
+      "category": "Technology",
+      "summary": "The podcast discusses the importance of human taste and judgment in an AI-driven world."
+    },
+    {
+      "title": "From Passion to Profession",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=rixcd95VVuM",
+      "duration_min": 63.2,
+      "category": "Personal Growth",
+      "summary": "The speaker shares their journey of turning their passion into a profession."
+    },
+    {
+      "title": "The Agentic Web and the Bazaar Era of AI",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=sum9DgexFRQ",
+      "duration_min": 12.2,
+      "category": "Technology",
+      "summary": "The speaker discusses the concept of the Agentic Web and its relation to AI."
+    },
+    {
+      "title": "Accountant explains: You might be richer than you think",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=859_TTVdfn4",
+      "duration_min": 12.3,
+      "category": "Finance",
+      "summary": "The accountant explains how people may be richer than they think."
+    }
+  ],
+  "gym_total_min": 37.2,
+  "mode": "live"
+}
