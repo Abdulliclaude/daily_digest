@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Walden Robotics emerges from stealth with a ~$300M seed at a $1.1B valuation",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260715/p11#a260715p11",
+      "summary": "Walden Robotics, a Toyota robotics spin-off, has emerged from stealth with a $300M seed funding at a $1.1B valuation."
+    },
+    {
+      "title": "ASML says Intel has decided to use ASML's next-gen High NA EUV machines",
+      "source": "Reuters",
+      "url": "https://www.techmeme.com/260715/p10#a260715p10",
+      "summary": "Intel has chosen to use ASML's next-generation High NA EUV machines for manufacturing some of its flagship Panther Lake laptop chips."
+    },
+    {
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "summary": "1Password is expanding into AI cost management, anticipating that token spend will become a significant enterprise budget concern."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b",
+      "summary": "OpenAI researcher Miles Wang is in discussions to launch an AI drug discovery startup with a valuation of $2B."
+    },
+    {
+      "title": "Microsoft\u2019s Secure Boot has been broken for a decade and no one noticed until now",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence",
+      "summary": "A critical vulnerability in Microsoft's Secure Boot has been discovered, which has been present for over a decade without being detected."
+    },
+    {
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light",
+      "summary": "PsiQuantum is working on a plan to develop a massive quantum computer using light."
+    },
+    {
+      "title": "Canva launches Code 2.0, offering AI website building to every user \u2014 including free accounts",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "summary": "Canva has launched Code 2.0, which provides AI-powered website building capabilities to all users, including those with free accounts."
+    },
+    {
+      "title": "The desktop infrastructure problem that Kubernetes finally solves",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
+      "summary": "Kubernetes is now solving the long-standing desktop infrastructure problem."
+    },
+    {
+      "title": "I've used the iOS 27 beta for a month: 7 ways the new Siri is dramatically better",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/public-beta-ios-27-siri-ai-hands-on-testing",
+      "summary": "The new Siri in iOS 27 beta has shown significant improvements in seven key areas after a month of use."
+    }
+  ],
+  "gym": [
+    {
+      "title": "Building the future of agentic infrastructure",
+      "channel": "Claude",
+      "url": "https://www.youtube.com/watch?v=ksfm6jeTg3Q",
+      "duration_min": 16.6,
+      "category": "Technology",
+      "summary": "The video discusses the future of agentic infrastructure and its potential impact on various industries."
+    },
+    {
+      "title": "If I Started Investing in July 2026, This is What I'd Do",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=RvUVQcDVc1Q",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "The speaker shares their investment strategy if they were to start investing in July 2026."
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "The talk discusses the importance of real optimism and its impact on personal and professional life."
+    },
+    {
+      "title": "How to Disagree Better",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=GigRB6bZ0MI",
+      "duration_min": 32.2,
+      "category": "Personal Growth",
+      "summary": "The speaker shares tips and strategies on how to disagree effectively and constructively."
+    },
+    {
+      "title": "What AI Can\u2019t Do \u2014 And Why",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=6_D6OPuDIis",
+      "duration_min": 28.9,
+      "category": "Technology",
+      "summary": "The talk explores the limitations of AI and its potential applications in various fields."
+    },
+    {
+      "title": "5 Social Media Trends Actually Working in 2026",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=RUUAqKg1Fy8",
+      "duration_min": 13.9,
+      "category": "Technology",
+      "summary": "The video discusses the top social media trends that are currently working in 2026."
+    }
+  ],
+  "gym_total_min": 37.5,
+  "mode": "live"
+}
