@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-16  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B
+   Bloomberg → https://www.techmeme.com/260716/p7#a260716p7
+   Uber acquires Delivery Hero for $14.8B, expanding its food delivery services.
+
+2. A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination
+   Techdirt → https://www.techmeme.com/260716/p6#a260716p6
+   US judge rules State Department's visa denial to researchers studying misinfo and disinfo is unconstitutional.
+
+3. IBM acquires Red Hat
+   Red Hat → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+4. TSMC reports Q2 revenue up 36% YoY to ~$39.45B
+   CNBC → https://www.techmeme.com/260716/p4#a260716p4
+   TSMC reports significant revenue growth in Q2, driven by strong demand for its chips.
+
+5. Data center company Csquare raises $1.05B in its US IPO
+   Reuters → https://www.techmeme.com/260716/p3#a260716p3
+   Csquare raises $1.05B in its US IPO, valuing the company at $3.25B.
+
+6. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer
+   MIT Tech Review → https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
+   OpenAI develops GPT-Red, a super-hacker LLM designed to improve model safety.
+
+7. What Anthropic’s latest AI discovery does—and doesn’t—show
+   MIT Tech Review → https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
+   Anthropic's latest AI discovery has significant implications, but its limitations must also be considered.
+
+8. Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem
+   VentureBeat → https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
+   Enterprise AI organizations face deployment challenges, not platform issues, and are calling chatbots agents.
+
+9. 1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis
+   VentureBeat → https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis
+   1Password enters AI cost management, anticipating token spend will become a major enterprise budget concern.
+
+10. Windows 0-day drops the same day Microsoft releases record number of patches
+   Ars Technica → https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/
+   Microsoft releases a record number of patches, but a new Windows 0-day vulnerability is discovered on the same day.
+
+
+🏋  GYM PLAYLIST  (~41.7 min)
+────────────────────────────────────────────────────────────────
+1. How to Win Without Crushing Your Soul
+   Stanford Graduate School of Business · 34.0 min · Personal Growth
+   https://www.youtube.com/watch?v=eQZO-MPpbJg
+   Graham Weaver discusses how to achieve success without sacrificing one's well-being.
+
+2. How to Disagree Better
+   Talks at Google · 32.2 min · Personal Growth
+   https://www.youtube.com/watch?v=GigRB6bZ0MI
+   Julia Minson shares strategies for improving the way we disagree with others.
+
+3. Everything in Capital Markets is Downstream of Algorithms
+   Invest Like The Best · 86.6 min · Finance
+   https://www.youtube.com/watch?v=Y82q5Lw7_8E
+   The impact of algorithms on capital markets is discussed in this episode.
+
+4. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra explores the concept of real optimism and its benefits.
+
+5. The engineer of the future is the person who is able to choose what is worth doing
+   AI Engineer · 18.4 min · Technology
+   https://www.youtube.com/watch?v=n97BCfyFIvw
+   Addy Osmani discusses the importance of choosing what is worth doing in the future of engineering.
