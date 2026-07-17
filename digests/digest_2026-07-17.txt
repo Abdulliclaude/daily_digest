@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-17  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources: Dave Brown, former SVP of AWS Compute, AI, and Platform, will join Meta
+   Wall Street Journal → https://www.techmeme.com/260717/p4#a260717p4
+   Meta hires former AWS executive to work on data center build-out
+
+2. Tata plans India's first large-scale chip fab in Dholera, Gujarat
+   Bloomberg → https://www.techmeme.com/260717/p3#a260717p3
+   Tata to build India's first large-scale chip fabrication plant
+
+3. Satya Nadella criticized Claude Fable 5 for being 'editorially controlled'
+   CNBC → https://www.techmeme.com/260717/p2#a260717p2
+   Microsoft CEO criticizes Claude Fable 5 for its editorial control
+
+4. IBM acquires Red Hat
+   Red Hat → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to become a leading hybrid cloud provider
+
+5. Court doc: a US federal jury says Japanese chipmaker Kioxia owes Viasat $229M
+   Reuters → https://www.techmeme.com/260716/p69#a260716p69
+   Kioxia owes Viasat $229M for infringing flash-memory patent
+
+6. Microsoft plans to release an AI security tool this month
+   The Information → https://www.techmeme.com/260716/p68#a260716p68
+   Microsoft to release AI security tool using models from Anthropic, OpenAI, and itself
+
+7. San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco
+   TechCrunch → https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/
+   San Francisco mayor seeks tougher rules after Waymo incident
+
+8. China’s Moonshot AI releases Kimi K3, the largest open-source model ever
+   VentureBeat → https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
+   China's Moonshot AI releases largest open-source model, Kimi K3
+
+9. The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs
+   VentureBeat → https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs
+   Enterprises struggle to measure AI infrastructure costs
+
+10. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer
+   MIT Tech Review → https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer
+   OpenAI develops GPT-Red to improve model safety
+
+
+🏋  GYM PLAYLIST  (~164.9 min)
+────────────────────────────────────────────────────────────────
+1. If I Started Investing in July 2026, This is What I'd Do
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=RvUVQcDVc1Q
+   Investing strategies for July 2026
+
+2. The New Physics of Business — Garry Tan, Y Combinator
+   AI Engineer · 21.1 min · Technology
+   https://www.youtube.com/watch?v=eBUyTS7SzV4
+   Garry Tan discusses the new physics of business
+
+3. Susie Wolff | Driven
+   Talks at Google · 45.0 min · Personal Growth
+   https://www.youtube.com/watch?v=YG5w939A9yQ
+   Susie Wolff talks about her experiences and motivations
+
+4. How to Raise a Few Billion Dollars
+   Invest Like The Best · 51.6 min · Finance
+   https://www.youtube.com/watch?v=zHvY9wzhjpA
+   Strategies for raising large amounts of capital
+
+5. Julia Minson | How to Disagree Better
+   Talks at Google · 32.2 min · Personal Growth
+   https://www.youtube.com/watch?v=GigRB6bZ0MI
+   Julia Minson discusses effective disagreement strategies

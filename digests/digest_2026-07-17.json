@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Sources: Dave Brown, former SVP of AWS Compute, AI, and Platform, will join Meta",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260717/p4#a260717p4",
+      "summary": "Meta hires former AWS executive to work on data center build-out"
+    },
+    {
+      "title": "Tata plans India's first large-scale chip fab in Dholera, Gujarat",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260717/p3#a260717p3",
+      "summary": "Tata to build India's first large-scale chip fabrication plant"
+    },
+    {
+      "title": "Satya Nadella criticized Claude Fable 5 for being 'editorially controlled'",
+      "source": "CNBC",
+      "url": "https://www.techmeme.com/260717/p2#a260717p2",
+      "summary": "Microsoft CEO criticizes Claude Fable 5 for its editorial control"
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Red Hat",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat to become a leading hybrid cloud provider"
+    },
+    {
+      "title": "Court doc: a US federal jury says Japanese chipmaker Kioxia owes Viasat $229M",
+      "source": "Reuters",
+      "url": "https://www.techmeme.com/260716/p69#a260716p69",
+      "summary": "Kioxia owes Viasat $229M for infringing flash-memory patent"
+    },
+    {
+      "title": "Microsoft plans to release an AI security tool this month",
+      "source": "The Information",
+      "url": "https://www.techmeme.com/260716/p68#a260716p68",
+      "summary": "Microsoft to release AI security tool using models from Anthropic, OpenAI, and itself"
+    },
+    {
+      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "summary": "San Francisco mayor seeks tougher rules after Waymo incident"
+    },
+    {
+      "title": "China\u2019s Moonshot AI releases Kimi K3, the largest open-source model ever",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "summary": "China's Moonshot AI releases largest open-source model, Kimi K3"
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "Enterprises struggle to measure AI infrastructure costs"
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
+      "summary": "OpenAI develops GPT-Red to improve model safety"
+    }
+  ],
+  "gym": [
+    {
+      "title": "If I Started Investing in July 2026, This is What I'd Do",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=RvUVQcDVc1Q",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "Investing strategies for July 2026"
+    },
+    {
+      "title": "The New Physics of Business \u2014 Garry Tan, Y Combinator",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=eBUyTS7SzV4",
+      "duration_min": 21.1,
+      "category": "Technology",
+      "summary": "Garry Tan discusses the new physics of business"
+    },
+    {
+      "title": "Susie Wolff | Driven",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=YG5w939A9yQ",
+      "duration_min": 45.0,
+      "category": "Personal Growth",
+      "summary": "Susie Wolff talks about her experiences and motivations"
+    },
+    {
+      "title": "How to Raise a Few Billion Dollars",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=zHvY9wzhjpA",
+      "duration_min": 51.6,
+      "category": "Finance",
+      "summary": "Strategies for raising large amounts of capital"
+    },
+    {
+      "title": "Julia Minson | How to Disagree Better",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=GigRB6bZ0MI",
+      "duration_min": 32.2,
+      "category": "Personal Growth",
+      "summary": "Julia Minson discusses effective disagreement strategies"
+    }
+  ],
+  "gym_total_min": 164.9,
+  "mode": "live"
+}
