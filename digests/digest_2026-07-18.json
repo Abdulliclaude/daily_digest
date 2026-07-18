@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Analysis: recent open weight models lag frontier closed models' cyber capabilities by 4 to 7 months",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260718/p9#a260718p9",
+      "summary": "Recent open weight models are narrowing the gap with frontier closed models in terms of cyber capabilities."
+    },
+    {
+      "title": "Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260718/p7#a260718p7",
+      "summary": "Feathery has raised $30M in funding to develop an AI operating and decisioning system for financial services."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "summary": "Databricks has reached a $188B valuation, solidifying its position in the AI industry."
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer believes that investment in AI is returning."
+    },
+    {
+      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+      "summary": "Capital One has released VulnHunter, an AI tool that identifies software vulnerabilities before they can be exploited."
+    },
+    {
+      "title": "China\u2019s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "summary": "Moonshot AI has released Kimi K3, the largest open-source AI model, which rivals top U.S. systems."
+    },
+    {
+      "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "summary": "China has made significant strides in AI, and there is a need to address misinformation about perimenopause."
+    },
+    {
+      "title": "The risk of weather data sabotage is rising",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "summary": "The risk of weather data sabotage is increasing, which can have significant consequences."
+    },
+    {
+      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+      "summary": "An AWS billing glitch has resulted in some customers receiving billion-dollar fees."
+    }
+  ],
+  "gym": [
+    {
+      "title": "If I Started Investing in July 2026, This is What I'd Do",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=RvUVQcDVc1Q",
+      "duration_min": 14.4,
+      "category": "Finance",
+      "summary": "The speaker shares their investment strategy for July 2026."
+    },
+    {
+      "title": "Building the future of agentic infrastructure",
+      "channel": "Claude",
+      "url": "https://www.youtube.com/watch?v=ksfm6jeTg3Q",
+      "duration_min": 16.6,
+      "category": "Technology",
+      "summary": "The speaker discusses the future of agentic infrastructure and its potential applications."
+    },
+    {
+      "title": "Your Agents Need a Save Button - Hamza Tahir, ZenML",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=bZISsg7H7DA",
+      "duration_min": 17.1,
+      "category": "Technology",
+      "summary": "The speaker highlights the importance of having a save button for AI agents."
+    },
+    {
+      "title": "Accountant explains: You might be richer than you think",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=859_TTVdfn4",
+      "duration_min": 12.3,
+      "category": "Finance",
+      "summary": "The accountant explains how individuals may be richer than they think, offering insights into personal finance."
+    },
+    {
+      "title": "Caller: \u201cMy Parents Disowned Me\u201d",
+      "channel": "Front Row Seat with Ken Coleman",
+      "url": "https://www.youtube.com/watch?v=rWEG9j_EubE",
+      "duration_min": 14.1,
+      "category": "Personal Growth",
+      "summary": "The caller shares their story of being disowned by their parents and seeks advice on how to move forward."
+    }
+  ],
+  "gym_total_min": 74.4,
+  "mode": "live"
+}

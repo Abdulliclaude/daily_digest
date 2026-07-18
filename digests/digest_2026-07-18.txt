@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-18  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Analysis: recent open weight models lag frontier closed models' cyber capabilities by 4 to 7 months
+   Techmeme → https://www.techmeme.com/260718/p9#a260718p9
+   Recent open weight models are narrowing the gap with frontier closed models in terms of cyber capabilities.
+
+2. Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding
+   Techmeme → https://www.techmeme.com/260718/p7#a260718p7
+   Feathery has raised $30M in funding to develop an AI operating and decisioning system for financial services.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+4. Databricks hits $188B valuation, extending its run as AI’s favorite second act
+   TechCrunch → https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/
+   Databricks has reached a $188B valuation, solidifying its position in the AI industry.
+
+5. Neil Rimer thinks the AI money is coming back out
+   TechCrunch → https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/
+   Neil Rimer believes that investment in AI is returning.
+
+6. Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do
+   VentureBeat → https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do
+   Capital One has released VulnHunter, an AI tool that identifies software vulnerabilities before they can be exploited.
+
+7. China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems
+   VentureBeat → https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
+   Moonshot AI has released Kimi K3, the largest open-source AI model, which rivals top U.S. systems.
+
+8. The Download: perimenopause misinformation and China’s latest AI leap
+   MIT Tech Review → https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/
+   China has made significant strides in AI, and there is a need to address misinformation about perimenopause.
+
+9. The risk of weather data sabotage is rising
+   MIT Tech Review → https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
+   The risk of weather data sabotage is increasing, which can have significant consequences.
+
+10. AWS Billing Glitch Hits Customers With Billion-Dollar Fees
+   Wired → https://www.wired.com/story/amazon-web-services-glitch-oh-no/
+   An AWS billing glitch has resulted in some customers receiving billion-dollar fees.
+
+
+🏋  GYM PLAYLIST  (~74.4 min)
+────────────────────────────────────────────────────────────────
+1. If I Started Investing in July 2026, This is What I'd Do
+   Nischa · 14.4 min · Finance
+   https://www.youtube.com/watch?v=RvUVQcDVc1Q
+   The speaker shares their investment strategy for July 2026.
+
+2. Building the future of agentic infrastructure
+   Claude · 16.6 min · Technology
+   https://www.youtube.com/watch?v=ksfm6jeTg3Q
+   The speaker discusses the future of agentic infrastructure and its potential applications.
+
+3. Your Agents Need a Save Button - Hamza Tahir, ZenML
+   AI Engineer · 17.1 min · Technology
+   https://www.youtube.com/watch?v=bZISsg7H7DA
+   The speaker highlights the importance of having a save button for AI agents.
+
+4. Accountant explains: You might be richer than you think
+   Nischa · 12.3 min · Finance
+   https://www.youtube.com/watch?v=859_TTVdfn4
+   The accountant explains how individuals may be richer than they think, offering insights into personal finance.
+
+5. Caller: “My Parents Disowned Me”
+   Front Row Seat with Ken Coleman · 14.1 min · Personal Growth
+   https://www.youtube.com/watch?v=rWEG9j_EubE
+   The caller shares their story of being disowned by their parents and seeks advice on how to move forward.
