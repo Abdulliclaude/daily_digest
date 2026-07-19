@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-19  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Kimi developer Moonshot told investors it is preparing for a Hong Kong IPO
+   Bloomberg → https://www.techmeme.com/260719/p5#a260719p5
+   Kimi developer Moonshot is preparing for a Hong Kong IPO in as early as six months with an ARR of $300M in June.
+
+2. The AI compute gap
+   VentureBeat → https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs
+   Enterprises are buying AI infrastructure faster than they can measure its costs, leading to an AI compute gap.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+4. Capital One releases VulnHunter
+   VentureBeat → https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do
+   Capital One released VulnHunter, an open-source AI tool that finds software flaws before hackers do.
+
+5. Alibaba open-sources its chip software
+   South China Morning Post → https://www.techmeme.com/260718/p18#a260718p18
+   Alibaba open-sourced its chip software to break Nvidia's CUDA dominance.
+
+6. The risk of weather data sabotage is rising
+   MIT Tech Review → https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
+   The risk of weather data sabotage is increasing due to the growing reliance on weather data for critical decision-making.
+
+7. Will AI fix prior authorization—or make it worse?
+   Ars Technica → https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/
+   AI may not necessarily fix prior authorization issues and could potentially make them worse if not implemented correctly.
+
+8. Waymo says San Francisco service has resumed after one-hour pause
+   TechCrunch → https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/
+   Waymo's San Francisco service resumed after a one-hour pause due to a power outage.
+
+9. Google-backed satellites for wildfire detection launch as smoke chokes US, Canada
+   Ars Technica → https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/
+   Google-backed satellites for wildfire detection have launched to help track and predict wildfires in the US and Canada.
+
+10. The Quantum Shift in Biomedical Discovery
+   IBM Technology → https://www.youtube.com/watch?v=GRroB-0wrnc
+   IBM Technology discusses the quantum shift in biomedical discovery and its potential applications.
+
+
+🏋  GYM PLAYLIST  (~39.3 min)
+────────────────────────────────────────────────────────────────
+1. The 5 Levels of AI-Native
+   Silicon Valley Girl · 13.5 min · Technology
+   https://www.youtube.com/watch?v=MDZIaEO-KHE
+   The video discusses the 5 levels of AI native and how to achieve them within 30 days.
+
+2. How to Raise a Few Billion Dollars
+   Invest Like The Best · 51.6 min · Finance
+   https://www.youtube.com/watch?v=zHvY9wzhjpA
+   The video discusses strategies for raising a few billion dollars in funding.
+
+3. What AI Can’t Do — And Why
+   Stanford Graduate School of Business · 28.9 min · Technology
+   https://www.youtube.com/watch?v=6_D6OPuDIis
+   The video discusses the limitations of AI and why it is important to understand these limitations.
+
+4. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   The video discusses the power of real optimism and its benefits for personal growth.
+
+5. I Tested Every Instagram Monetization Feature for 30 Days
+   The Science of Scaling · 10.4 min · Technology
+   https://www.youtube.com/watch?v=Tgb0DjM_hvY
+   The video discusses the results of testing every Instagram monetization feature for 30 days.
