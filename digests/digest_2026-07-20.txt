@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-20  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. AI is more likely than humans to form biases when hiring
+   MIT Tech Review → https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
+   AI hiring tools may perpetuate and even amplify biases present in historical data.
+
+2. The EU fines Alibaba's online marketplace AliExpress €550M for failing to do enough to prevent the sale of illegal products
+   Techmeme → https://www.techmeme.com/260720/p13#a260720p13
+   AliExpress has been fined €550M by the EU for not preventing the sale of illegal products on its platform.
+
+3. How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims
+   Techmeme → https://www.techmeme.com/260720/p9#a260720p9
+   Smart home devices can be used by abusive partners to control and intimidate their victims.
+
+4. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+5. Netflix paid $587M for Ben Affleck’s AI filmmaking startup
+   TechCrunch → https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/
+   Netflix acquired Ben Affleck's AI filmmaking startup for $587M, marking a significant investment in AI-powered content creation.
+
+6. Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do
+   VentureBeat → https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do
+   Capital One released VulnHunter, an open-source AI tool designed to identify software vulnerabilities before they can be exploited by hackers.
+
+7. India's first privately-developed rocket reaches orbit on dramatic debut launch
+   Ars Technica → https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/
+   India's first privately-developed rocket successfully reached orbit, marking a significant milestone in the country's space program.
+
+8. The cleanup trap: Stop asking RAG to fix bad data
+   VentureBeat → https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data
+   Organizations should focus on preventing bad data rather than relying on tools to fix it after the fact.
+
+9. Will AI fix prior authorization—or make it worse?
+   Ars Technica → https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/
+   The use of AI in prior authorization processes may not necessarily improve efficiency and could potentially introduce new issues.
+
+10. The risk of weather data sabotage is rising
+   MIT Tech Review → https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
+   The increasing reliance on weather data and the growth of IoT devices have elevated the risk of weather data sabotage.
+
+
+🏋  GYM PLAYLIST  (~267.2 min)
+────────────────────────────────────────────────────────────────
+1. Why Netflix is betting on systems thinkers—not specialists—in the AI era
+   Lenny's Podcast · 72.1 min · Technology
+   https://www.youtube.com/watch?v=t0GiTyz4syY
+   Netflix values systems thinkers over specialists in the AI era, recognizing their ability to understand complex systems and adapt to change.
+
+2. What To Do After Saving $100K (Most People Get This Wrong)
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   After saving $100K, individuals should focus on investing wisely, avoiding lifestyle inflation, and maintaining a long-term perspective.
+
+3. Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver
+   Stanford Graduate School of Business · 34.0 min · Personal Growth
+   https://www.youtube.com/watch?v=eQZO-MPpbJg
+   Graham Weaver emphasizes the importance of maintaining a strong sense of self and staying true to one's values in order to achieve success without sacrificing one's well-being.
+
+4. On Making Organizational Culture Great,
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   Creating a great organizational culture requires intentional effort, clear communication, and a focus on building strong relationships among team members.
+
+5. Everything in Capital Markets is Downstream of Algorithms
+   Invest Like The Best · 86.6 min · Finance
+   https://www.youtube.com/watch?v=Y82q5Lw7_8E
+   Algorithms play a crucial role in shaping capital markets, and understanding their impact is essential for making informed investment decisions.
