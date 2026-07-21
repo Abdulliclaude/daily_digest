@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-21  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources: China is weighing tightening AI and chip tech export controls
+   Financial Times → https://www.techmeme.com/260721/p6#a260721p6
+   China may tighten AI and chip export controls to slow advanced tech exports.
+
+2. Anthropic’s landmark $1.5B copyright settlement is approved
+   TechCrunch → https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
+   Anthropic's $1.5B copyright settlement has been approved, a significant development in AI copyright law.
+
+3. Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation
+   TechCrunch → https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/
+   Colossal Biosciences may raise new capital, valuing the company at $20B-$30B.
+
+4. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat, creating a leading hybrid cloud provider.
+
+5. GitHub says individuals and orgs have invested $100M+ in open source maintainers and projects via GitHub Sponsors
+   The GitHub Blog → https://techcrunch.com/2026/07/20/github-says-individuals-and-orgs-have-invested-100m-in-open-source-maintainers-and-projects-via-github-sponsors/
+   Over $100M has been invested in open source projects through GitHub Sponsors since 2019.
+
+6. AI is more likely than humans to form biases when hiring
+   MIT Tech Review → https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
+   AI is more prone to forming biases in hiring than humans, highlighting the need for careful AI system design.
+
+7. Google is working on a new AI chip designed to make Gemini more efficient
+   TechCrunch → https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
+   Google is developing a new AI chip to increase Gemini's efficiency.
+
+8. The risk of weather data sabotage is rising
+   MIT Tech Review → https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
+   The risk of weather data sabotage is growing, posing significant threats to various sectors.
+
+9. Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems
+   VentureBeat → https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems/
+   Hugging Face's safety guardrails failed to defend against an AI agent breach, highlighting the need for more effective security measures.
+
+10. AT&T loses key ruling in bid to stop offering basic phone service in California
+   Ars Technica → https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/
+   AT&T lost a key ruling in its attempt to stop offering basic phone service in California.
+
+
+🏋  GYM PLAYLIST  (~41.2 min)
+────────────────────────────────────────────────────────────────
+1. LEAD Webinar on Crisis Management with GSB Faculty Steve Callander
+   Stanford Graduate School of Business · 93.5 min · Personal Growth
+   https://www.youtube.com/watch?v=vTTVHMzFkp4
+   A webinar on crisis management with Steve Callander from Stanford GSB.
+
+2. If I was investing my first $20k in July 2026, this is what I'd buy
+   Nischa · 14.9 min · Finance
+   https://www.youtube.com/watch?v=RvUVQcDVc1Q
+   Nischa shares investment advice for a $20k investment in July 2026.
+
+3. Your agent architecture has a half-life of 6 months — Dan Farrelly, CTO, Inngest
+   AI Engineer · 19.3 min · Technology
+   https://www.youtube.com/watch?v=X1kp-ABIIxQ
+   Dan Farrelly discusses the short half-life of agent architecture in AI systems.
+
+4. What To Do After Saving $100K (Most People Get This Wrong)
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   Nischa provides advice on what to do after saving $100K.
+
+5. The Desktop Frontier — Ahmad Osman, Osmantic
+   AI Engineer · 18.0 min · Technology
+   https://www.youtube.com/watch?v=XV2oYi7kojc
+   Ahmad Osman discusses the desktop frontier in AI systems.
+
+6. Things we should be teaching our kids | Part I
+   Muzamil Hasan | TBT Podcast · 11.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Apn-Rf1ko8
+   Muzamil Hasan shares his thoughts on what we should teach our kids.
