@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform",
+      "source": "Bloomberg via Techmeme",
+      "url": "https://www.techmeme.com/260722/p4#a260722p4",
+      "summary": "US-regulated exchanges funded half of Polymarket's US-banned global platform trading volume."
+    },
+    {
+      "title": "TSMC forecasts 'several years' of margin dilution as overseas fab projects ramp up",
+      "source": "CNBC via Techmeme",
+      "url": "https://www.techmeme.com/260722/p3#a260722p3",
+      "summary": "TSMC expects margin dilution due to increased overseas fab projects."
+    },
+    {
+      "title": "Chinese AI models account for ~60% of token usage by US companies on OpenRouter",
+      "source": "Bloomberg via Techmeme",
+      "url": "https://www.techmeme.com/260722/p2#a260722p2",
+      "summary": "Chinese AI models dominate token usage by US companies on OpenRouter."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Advancing next-gen AI with materials science innovation",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "summary": "Materials science innovation is key to advancing next-gen AI."
+    },
+    {
+      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
+      "summary": "Weka's new storage platform reduces AI model load by caching pre-calculated tokens."
+    },
+    {
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "summary": "Chinese AI divides the White House, and a record copyright payout was made."
+    },
+    {
+      "title": "Evals are the new PRD, Expedia\u2019s AI chief tells VB Transform 2026",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026",
+      "summary": "Expedia's AI chief says evals are the new PRD at VB Transform 2026."
+    },
+    {
+      "title": "Atlassian: Research shows organizations should approach AI at the team level, not the individual level, to achieve true ROI",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/atlassian-research-shows-organizations-should-approach-ai-at-the-team-level-not-the-individual-level-to-achieve-true-roi",
+      "summary": "Atlassian research shows team-level AI approach yields better ROI."
+    },
+    {
+      "title": "OpenAI's models broke containment and cyberattacked Hugging Face \u2014 what enterprises need to know",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
+      "summary": "OpenAI's models broke containment and cyberattacked Hugging Face, posing risks to enterprises."
+    }
+  ],
+  "gym": [
+    {
+      "title": "Everything in Capital Markets is Downstream of Algorithms",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=Y82q5Lw7_8E",
+      "duration_min": 86.6,
+      "category": "Finance",
+      "summary": "The impact of algorithms on capital markets is profound and multifaceted."
+    },
+    {
+      "title": "A Top Mathematician's 9 Lessons for Anyone Who Feels Behind",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=MG0CPqjjOvk",
+      "duration_min": 37.6,
+      "category": "Personal Growth",
+      "summary": "Ken Ono shares valuable lessons for those who feel behind in math and life."
+    },
+    {
+      "title": "Building the Agentic AI Platform for Hospitals",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=3lQQadC6vKg",
+      "duration_min": 47.9,
+      "category": "Technology",
+      "summary": "The development and application of agentic AI in hospital settings is discussed."
+    },
+    {
+      "title": "The Two Harvard Dropouts Who raised $800M to take on NVIDIA",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=BagWrgPww1o",
+      "duration_min": 92.5,
+      "category": "Technology",
+      "summary": "The story of two Harvard dropouts who raised $800M to challenge NVIDIA."
+    },
+    {
+      "title": "The $1,000/hour Solo AI business (Full Course)",
+      "channel": "Greg Isenberg",
+      "url": "https://www.youtube.com/watch?v=dhbcVxYhWaQ",
+      "duration_min": 61.1,
+      "category": "Technology",
+      "summary": "A comprehensive guide to building a high-income solo AI business."
+    },
+    {
+      "title": "How to Stay Great When AI Is Good Enough",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=dTIL_8odehk",
+      "duration_min": 16.6,
+      "category": "Technology",
+      "summary": "Strategies for staying ahead in a world where AI is increasingly capable."
+    }
+  ],
+  "gym_total_min": 342.2,
+  "mode": "live"
+}

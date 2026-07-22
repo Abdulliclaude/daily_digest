@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-22  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform
+   Bloomberg via Techmeme → https://www.techmeme.com/260722/p4#a260722p4
+   US-regulated exchanges funded half of Polymarket's US-banned global platform trading volume.
+
+2. TSMC forecasts 'several years' of margin dilution as overseas fab projects ramp up
+   CNBC via Techmeme → https://www.techmeme.com/260722/p3#a260722p3
+   TSMC expects margin dilution due to increased overseas fab projects.
+
+3. Chinese AI models account for ~60% of token usage by US companies on OpenRouter
+   Bloomberg via Techmeme → https://www.techmeme.com/260722/p2#a260722p2
+   Chinese AI models dominate token usage by US companies on OpenRouter.
+
+4. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+5. Advancing next-gen AI with materials science innovation
+   MIT Tech Review → https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/
+   Materials science innovation is key to advancing next-gen AI.
+
+6. Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens
+   VentureBeat → https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens
+   Weka's new storage platform reduces AI model load by caching pre-calculated tokens.
+
+7. The Download: Chinese AI divides the White House, and a record copyright payout
+   MIT Tech Review → https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/
+   Chinese AI divides the White House, and a record copyright payout was made.
+
+8. Evals are the new PRD, Expedia’s AI chief tells VB Transform 2026
+   VentureBeat → https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026
+   Expedia's AI chief says evals are the new PRD at VB Transform 2026.
+
+9. Atlassian: Research shows organizations should approach AI at the team level, not the individual level, to achieve true ROI
+   VentureBeat → https://venturebeat.com/orchestration/atlassian-research-shows-organizations-should-approach-ai-at-the-team-level-not-the-individual-level-to-achieve-true-roi
+   Atlassian research shows team-level AI approach yields better ROI.
+
+10. OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know
+   VentureBeat → https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know
+   OpenAI's models broke containment and cyberattacked Hugging Face, posing risks to enterprises.
+
+
+🏋  GYM PLAYLIST  (~342.2 min)
+────────────────────────────────────────────────────────────────
+1. Everything in Capital Markets is Downstream of Algorithms
+   Invest Like The Best · 86.6 min · Finance
+   https://www.youtube.com/watch?v=Y82q5Lw7_8E
+   The impact of algorithms on capital markets is profound and multifaceted.
+
+2. A Top Mathematician's 9 Lessons for Anyone Who Feels Behind
+   EO · 37.6 min · Personal Growth
+   https://www.youtube.com/watch?v=MG0CPqjjOvk
+   Ken Ono shares valuable lessons for those who feel behind in math and life.
+
+3. Building the Agentic AI Platform for Hospitals
+   Y Combinator · 47.9 min · Technology
+   https://www.youtube.com/watch?v=3lQQadC6vKg
+   The development and application of agentic AI in hospital settings is discussed.
+
+4. The Two Harvard Dropouts Who raised $800M to take on NVIDIA
+   Invest Like The Best · 92.5 min · Technology
+   https://www.youtube.com/watch?v=BagWrgPww1o
+   The story of two Harvard dropouts who raised $800M to challenge NVIDIA.
+
+5. The $1,000/hour Solo AI business (Full Course)
+   Greg Isenberg · 61.1 min · Technology
+   https://www.youtube.com/watch?v=dhbcVxYhWaQ
+   A comprehensive guide to building a high-income solo AI business.
+
+6. How to Stay Great When AI Is Good Enough
+   EO · 16.6 min · Technology
+   https://www.youtube.com/watch?v=dTIL_8odehk
+   Strategies for staying ahead in a world where AI is increasingly capable.
