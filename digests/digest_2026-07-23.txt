@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-23  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. ServiceNow invests $40M in banking software specialist BusinessNext
+   TechCrunch → https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/
+   ServiceNow invests $40 million in BusinessNext, valuing the 24-year-old Indian company at $700 million.
+
+2. After shocking quarter, IBM insists that AI isn’t killing the mainframe
+   TechCrunch → https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/
+   IBM reassures that AI is not replacing mainframes, despite a disappointing quarter.
+
+3. The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now
+   VentureBeat → https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now
+   A credential that allowed OpenAI's agents to breach Hugging Face's systems is common in many enterprises.
+
+4. OpenAI models breached Hugging Face's internal systems in a matter of hours
+   Techmeme → https://www.techmeme.com/260723/p4#a260723p4
+   OpenAI models quickly breached Hugging Face's internal systems, raising security concerns.
+
+5. A profile of Peter Beck, the New Zealand billionaire whose Rocket Lab is pushing to compete with the satellite internet ambitions of Elon Musk and Jeff Bezos
+   Techmeme → https://www.techmeme.com/260723/p5#a260723p5
+   Peter Beck's Rocket Lab competes with Musk and Bezos in satellite internet, shaping the industry's future.
+
+6. China’s AI models have Trump’s AI world at war with itself
+   MIT Tech Review → https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/
+   China's AI advancements create tension within Trump's AI initiatives, reflecting a global AI rivalry.
+
+7. IBM acquires Red Hat
+   IBM → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM's acquisition of Red Hat aims to create a leading hybrid cloud provider, expanding IBM's capabilities.
+
+8. Why Lettuce Is Always Making People Sick
+   Wired → https://www.wired.com/story/why-lettuce-always-making-people-sick
+   Lettuce frequently causes illnesses due to its vulnerability to contamination and the challenges of tracing outbreaks.
+
+9. The White House Is Trying to Figure Out What to Do About Chinese AI
+   Wired → https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai
+   The White House is grappling with how to address the rapid advancement of Chinese AI technology and its implications.
+
+10. New to Linux? This 10-day checklist will help you settle in nice and easy
+   ZDNet → https://www.zdnet.com/article/what-to-do-during-your-first-10-days-of-using-linux
+   A 10-day checklist is provided to help new Linux users adjust and become comfortable with the operating system.
+
+
+🏋  GYM PLAYLIST  (~202.2 min)
+────────────────────────────────────────────────────────────────
+1. LEAD Webinar on Crisis Management with GSB Faculty Steve Callander
+   Stanford Graduate School of Business · 93.5 min · Personal Growth
+   https://www.youtube.com/watch?v=vTTVHMzFkp4
+   A webinar on crisis management strategies and leadership, featuring Steve Callander from Stanford GSB.
+
+2. How to Disagree Better
+   Talks at Google · 32.2 min · Personal Growth
+   https://www.youtube.com/watch?v=GigRB6bZ0MI
+   Strategies for having more productive and respectful disagreements, fostering better communication and understanding.
+
+3. Why We Killed Our Multi-Agent Pipeline — Subbiah Sethuraman and Abhilash Asokan, ZS Associates
+   AI Engineer · 15.0 min · Technology
+   https://www.youtube.com/watch?v=u6jJcIFDLE4
+   The reasons behind abandoning a multi-agent pipeline and the lessons learned from the experience, presented by Subbiah Sethuraman and Abhilash Asokan.
+
+4. How to Stay Great When AI Is Good Enough
+   EO · 16.6 min · Technology
+   https://www.youtube.com/watch?v=dTIL_8odehk
+   Adapting to an environment where AI proficiency is increasingly common, focusing on developing unique human skills and strengths.
+
+5. The Quantum Shift in Biomedical Discovery
+   IBM Technology · 44.3 min · Technology
+   https://www.youtube.com/watch?v=GRroB-0wrnc
+   IBM explores the intersection of quantum computing and biomedical research, highlighting potential breakthroughs and innovations.
