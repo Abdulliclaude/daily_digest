@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-24  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources: OpenAI told Hugging Face only this week its models caused the July 11 hack
+   Wall Street Journal → https://www.techmeme.com/260724/p4#a260724p4
+   OpenAI's models caused a hack on July 11, and the company only informed Hugging Face about it recently.
+
+2. Mobileye founder and CEO Amnon Shashua plans to step down
+   TechCrunch → https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/
+   Amnon Shashua is stepping down as CEO of Mobileye after nearly three decades, as the company explores new areas like robotaxis and humanoid robots.
+
+3. IBM acquires Red Hat
+   Red Hat → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+4. Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI
+   VentureBeat → https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai
+   Microsoft has launched new in-house AI models that can cut costs by up to 89% compared to OpenAI models.
+
+5. EU Fines Google $1 Billion for Prioritizing Its Own Services in Search
+   Wired → https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search
+   The EU has fined Google $1 billion for prioritizing its own services in search results.
+
+6. The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs
+   VentureBeat → https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs
+   Enterprises are buying AI infrastructure faster than they can measure its costs, leading to an AI compute gap.
+
+7. How AI helps scientists design the next generation of medicines
+   MIT Tech Review → https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
+   AI is helping scientists design the next generation of medicines by analyzing vast amounts of data and identifying potential drug candidates.
+
+8. The power line that could reshape New York’s grid is hitting snags
+   MIT Tech Review → https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
+   A new power line that could reshape New York's grid is facing difficulties due to regulatory and technical issues.
+
+9. Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio
+   VentureBeat → https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start
+   Black Forest Labs has launched FLUX 3, a new AI model capable of generating images and 20-second videos with audio.
+
+10. European researchers want to study social media’s harms but can’t get the data
+   Wired → https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data
+   European researchers are struggling to study the harms of social media due to lack of access to relevant data.
+
+
+🏋  GYM PLAYLIST  (~176.1 min)
+────────────────────────────────────────────────────────────────
+1. What To Do After Saving $100K
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   The video provides advice on what to do after saving $100K, including investing and avoiding lifestyle inflation.
+
+2. LEAD Webinar on Crisis Management with GSB Faculty Steve Callander
+   Stanford Graduate School of Business · 93.5 min · Personal Growth
+   https://www.youtube.com/watch?v=vTTVHMzFkp4
+   The webinar discusses crisis management strategies and techniques with Stanford GSB faculty member Steve Callander.
+
+3. Building the Agentic AI Platform for Hospitals
+   Y Combinator · 47.9 min · Technology
+   https://www.youtube.com/watch?v=3lQQadC6vKg
+   The video discusses the development of an agentic AI platform for hospitals, including its potential applications and benefits.
+
+4. Why the AI’s honeymoon is ending (and tech workers are feeling it)
+   Lenny's Podcast · 96.5 min · Technology
+   https://www.youtube.com/watch?v=_cmpIveXnvE
+   The podcast discusses the current state of the AI industry and its impact on tech workers, including the challenges and opportunities that lie ahead.
+
+5. Notion's Token Town — Sarah Sachs, Notion
+   AI Engineer · 23.9 min · Technology
+   https://www.youtube.com/watch?v=-I5W5QVAT8E
+   The video discusses Notion's Token Town, a new feature that allows users to create custom tokens and workflows.

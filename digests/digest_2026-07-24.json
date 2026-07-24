@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Sources: OpenAI told Hugging Face only this week its models caused the July 11 hack",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260724/p4#a260724p4",
+      "summary": "OpenAI's models caused a hack on July 11, and the company only informed Hugging Face about it recently."
+    },
+    {
+      "title": "Mobileye founder and CEO Amnon Shashua plans to step down",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "summary": "Amnon Shashua is stepping down as CEO of Mobileye after nearly three decades, as the company explores new areas like robotaxis and humanoid robots."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Red Hat",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+      "summary": "Microsoft has launched new in-house AI models that can cut costs by up to 89% compared to OpenAI models."
+    },
+    {
+      "title": "EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search",
+      "summary": "The EU has fined Google $1 billion for prioritizing its own services in search results."
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "Enterprises are buying AI infrastructure faster than they can measure its costs, leading to an AI compute gap."
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "summary": "AI is helping scientists design the next generation of medicines by analyzing vast amounts of data and identifying potential drug candidates."
+    },
+    {
+      "title": "The power line that could reshape New York\u2019s grid is hitting snags",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "summary": "A new power line that could reshape New York's grid is facing difficulties due to regulatory and technical issues."
+    },
+    {
+      "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
+      "summary": "Black Forest Labs has launched FLUX 3, a new AI model capable of generating images and 20-second videos with audio."
+    },
+    {
+      "title": "European researchers want to study social media\u2019s harms but can\u2019t get the data",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data",
+      "summary": "European researchers are struggling to study the harms of social media due to lack of access to relevant data."
+    }
+  ],
+  "gym": [
+    {
+      "title": "What To Do After Saving $100K",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=tdcEHxsBPQQ",
+      "duration_min": 14.2,
+      "category": "Finance",
+      "summary": "The video provides advice on what to do after saving $100K, including investing and avoiding lifestyle inflation."
+    },
+    {
+      "title": "LEAD Webinar on Crisis Management with GSB Faculty Steve Callander",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=vTTVHMzFkp4",
+      "duration_min": 93.5,
+      "category": "Personal Growth",
+      "summary": "The webinar discusses crisis management strategies and techniques with Stanford GSB faculty member Steve Callander."
+    },
+    {
+      "title": "Building the Agentic AI Platform for Hospitals",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=3lQQadC6vKg",
+      "duration_min": 47.9,
+      "category": "Technology",
+      "summary": "The video discusses the development of an agentic AI platform for hospitals, including its potential applications and benefits."
+    },
+    {
+      "title": "Why the AI\u2019s honeymoon is ending (and tech workers are feeling it)",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=_cmpIveXnvE",
+      "duration_min": 96.5,
+      "category": "Technology",
+      "summary": "The podcast discusses the current state of the AI industry and its impact on tech workers, including the challenges and opportunities that lie ahead."
+    },
+    {
+      "title": "Notion's Token Town \u2014 Sarah Sachs, Notion",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=-I5W5QVAT8E",
+      "duration_min": 23.9,
+      "category": "Technology",
+      "summary": "The video discusses Notion's Token Town, a new feature that allows users to create custom tokens and workflows."
+    }
+  ],
+  "gym_total_min": 176.1,
+  "mode": "live"
+}
