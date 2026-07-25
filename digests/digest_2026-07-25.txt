@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-25  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. A profile of Yang Zhilin, founder of Moonshot AI
+   Financial Times → https://www.techmeme.com/260725/p8#a260725p8
+   Moonshot AI's founder faced early doubts over revenue and model capabilities before its Kimi K3 delivered a 'DeepSeek moment'
+
+2. Candid Health raises $120M Series D
+   Fortune → https://www.techmeme.com/260725/p7#a260725p7
+   Candid Health, a medical billing and claims processing automation company, raised $120M in a Series D led by Sixth Street Growth
+
+3. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider
+
+4. US tech companies have cut ~140K jobs YTD
+   Financial Times → https://www.techmeme.com/260725/p4#a260725p4
+   US tech companies have cut ~140K jobs in 2026, accounting for over 33% of announced US layoffs
+
+5. Anthropic launches Claude Opus 5
+   VentureBeat → https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows
+   Anthropic launched Claude Opus 5, a cheaper AI model for coding, agents, and enterprise workflows
+
+6. Microsoft launches new in-house AI models
+   VentureBeat → https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai
+   Microsoft launched new in-house AI models that cut costs up to 89% versus OpenAI
+
+7. The quest to keep organs alive outside the body
+   MIT Tech Review → https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body
+   Scientists are working to develop technologies to keep organs alive outside the body for transplantation
+
+8. Supercooled kidneys have been transplanted into pigs
+   MIT Tech Review → https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement
+   Scientists have successfully transplanted supercooled kidneys into pigs, a landmark achievement in organ transplantation
+
+9. Verizon to provide dark-fiber connectivity for Google's data centers
+   Reuters → https://www.techmeme.com/260725/p6#a260725p6
+   Verizon will provide dark-fiber connectivity for Google's data centers in a $1B+ deal
+
+10. Meshy raises $400M Series B at a $1.5B valuation
+   Tech Funding News → https://www.techmeme.com/260725/p5#a260725p5
+   Meshy, an AI-powered 3D asset generation company, raised $400M in a Series B at a $1.5B valuation
+
+
+🏋  GYM PLAYLIST  (~193.3 min)
+────────────────────────────────────────────────────────────────
+1. What To Do After Saving $100K
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   Nischa shares advice on what to do after saving $100K
+
+2. The Social Venture Playbook for Founders
+   EO · 31.2 min · Personal Growth
+   https://www.youtube.com/watch?v=XAdCstLe2Fw
+   Carnegie Mellon University's Po-Shen Loh discusses the social venture playbook for founders
+
+3. How to Stay Great When AI Is Good Enough
+   EO · 16.6 min · Technology
+   https://www.youtube.com/watch?v=dTIL_8odehk
+   Matt Beane discusses how to stay great when AI is good enough
+
+4. The Quantum Shift in Biomedical Discovery
+   IBM Technology · 44.3 min · Technology
+   https://www.youtube.com/watch?v=GRroB-0wrnc
+   IBM discusses the quantum shift in biomedical discovery
+
+5. Everything in Capital Markets is Downstream of Algorithms
+   Invest Like The Best · 86.6 min · Finance
+   https://www.youtube.com/watch?v=Y82q5Lw7_8E
+   Invest Like The Best discusses how everything in capital markets is downstream of algorithms

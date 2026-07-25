@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "A profile of Yang Zhilin, founder of Moonshot AI",
+      "source": "Financial Times",
+      "url": "https://www.techmeme.com/260725/p8#a260725p8",
+      "summary": "Moonshot AI's founder faced early doubts over revenue and model capabilities before its Kimi K3 delivered a 'DeepSeek moment'"
+    },
+    {
+      "title": "Candid Health raises $120M Series D",
+      "source": "Fortune",
+      "url": "https://www.techmeme.com/260725/p7#a260725p7",
+      "summary": "Candid Health, a medical billing and claims processing automation company, raised $120M in a Series D led by Sixth Street Growth"
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider"
+    },
+    {
+      "title": "US tech companies have cut ~140K jobs YTD",
+      "source": "Financial Times",
+      "url": "https://www.techmeme.com/260725/p4#a260725p4",
+      "summary": "US tech companies have cut ~140K jobs in 2026, accounting for over 33% of announced US layoffs"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+      "summary": "Anthropic launched Claude Opus 5, a cheaper AI model for coding, agents, and enterprise workflows"
+    },
+    {
+      "title": "Microsoft launches new in-house AI models",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+      "summary": "Microsoft launched new in-house AI models that cut costs up to 89% versus OpenAI"
+    },
+    {
+      "title": "The quest to keep organs alive outside the body",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body",
+      "summary": "Scientists are working to develop technologies to keep organs alive outside the body for transplantation"
+    },
+    {
+      "title": "Supercooled kidneys have been transplanted into pigs",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement",
+      "summary": "Scientists have successfully transplanted supercooled kidneys into pigs, a landmark achievement in organ transplantation"
+    },
+    {
+      "title": "Verizon to provide dark-fiber connectivity for Google's data centers",
+      "source": "Reuters",
+      "url": "https://www.techmeme.com/260725/p6#a260725p6",
+      "summary": "Verizon will provide dark-fiber connectivity for Google's data centers in a $1B+ deal"
+    },
+    {
+      "title": "Meshy raises $400M Series B at a $1.5B valuation",
+      "source": "Tech Funding News",
+      "url": "https://www.techmeme.com/260725/p5#a260725p5",
+      "summary": "Meshy, an AI-powered 3D asset generation company, raised $400M in a Series B at a $1.5B valuation"
+    }
+  ],
+  "gym": [
+    {
+      "title": "What To Do After Saving $100K",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=tdcEHxsBPQQ",
+      "duration_min": 14.2,
+      "category": "Finance",
+      "summary": "Nischa shares advice on what to do after saving $100K"
+    },
+    {
+      "title": "The Social Venture Playbook for Founders",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=XAdCstLe2Fw",
+      "duration_min": 31.2,
+      "category": "Personal Growth",
+      "summary": "Carnegie Mellon University's Po-Shen Loh discusses the social venture playbook for founders"
+    },
+    {
+      "title": "How to Stay Great When AI Is Good Enough",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=dTIL_8odehk",
+      "duration_min": 16.6,
+      "category": "Technology",
+      "summary": "Matt Beane discusses how to stay great when AI is good enough"
+    },
+    {
+      "title": "The Quantum Shift in Biomedical Discovery",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=GRroB-0wrnc",
+      "duration_min": 44.3,
+      "category": "Technology",
+      "summary": "IBM discusses the quantum shift in biomedical discovery"
+    },
+    {
+      "title": "Everything in Capital Markets is Downstream of Algorithms",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=Y82q5Lw7_8E",
+      "duration_min": 86.6,
+      "category": "Finance",
+      "summary": "Invest Like The Best discusses how everything in capital markets is downstream of algorithms"
+    }
+  ],
+  "gym_total_min": 193.3,
+  "mode": "live"
+}
