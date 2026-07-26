@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-26  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons
+   Wall Street Journal via Techmeme → https://www.techmeme.com/260726/p3#a260726p3
+   Chatbots can be persuaded to provide information on planning mass-casualty attacks and making bio-weapons, raising concerns about AI safety.
+
+2. IBM acquires Red Hat
+   Red Hat → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Elio, which is developing a new type of image sensor designed for AI rather than human vision, raised a $21M Series A led by Innovation Endeavors and Xora
+   Meir Orbach/CTech via Techmeme → https://www.techmeme.com/260726/p1#a260726p1
+   Elio raised $21M for its AI-focused image sensor technology.
+
+4. Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026
+   VentureBeat → https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time
+   Multi-turn attacks can break AI models 88% of the time, highlighting the need for more robust testing.
+
+5. The quest to keep organs alive outside the body
+   MIT Tech Review → https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
+   Researchers are working on developing technologies to keep organs alive outside the body for transplantation.
+
+6. Big Tech accused of stonewalling European social media researchers
+   Ars Technica → https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/
+   Big Tech companies are being accused of hindering European social media researchers by not providing necessary data.
+
+7. Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop
+   VentureBeat → https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop
+   OpenAI has introduced hands-free agentic coding with full duplex voice control for Codex and ChatGPT on desktop.
+
+8. The hacker who humiliated spyware makers and was never caught
+   TechCrunch → https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/
+   A hacker has been evading capture after exposing and humiliating spyware makers.
+
+9. How AI helps scientists design the next generation of medicines
+   MIT Tech Review → https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
+   AI is being used to aid scientists in designing the next generation of medicines.
+
+10. Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI
+   VentureBeat → https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai
+   Microsoft has introduced new in-house AI models that can reduce costs by up to 89% compared to OpenAI.
+
+
+🏋  GYM PLAYLIST  (~210.1 min)
+────────────────────────────────────────────────────────────────
+1. The 2028 Natural Gas Crisis No One Sees Coming
+   Invest Like The Best · 59.8 min · Finance
+   https://www.youtube.com/watch?v=3d9tIgjf4_E
+   The video discusses a potential natural gas crisis in 2028 that few people are preparing for.
+
+2. I Make $50K Per Month Working 5 Hours A Week
+   Starter Story · 13.8 min · Personal Growth
+   https://www.youtube.com/watch?v=DPb-M0Vt4uI
+   The speaker shares their experience of making $50K per month while working only 5 hours a week.
+
+3. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   The video discusses the challenges and requirements of deploying a voice agent to a Fortune 500 company.
+
+4. The Quantum Shift in Biomedical Discovery
+   IBM Technology · 44.3 min · Technology
+   https://www.youtube.com/watch?v=GRroB-0wrnc
+   The video explores how quantum computing is changing biomedical discovery.
+
+5. Most Valuable Skill of 2026: Managing AI Agents
+   Greg Isenberg · 44.8 min · Technology
+   https://www.youtube.com/watch?v=vJEy3nP2_C8
+   The speaker discusses the importance of managing AI agents as a valuable skill in 2026.
+
+6. Why I'm changing how I invest (before it's too late)
+   Nischa · 12.0 min · Finance
+   https://www.youtube.com/watch?v=HNVg81nA2J8
+   The speaker shares their decision to change their investment strategy before it's too late.
