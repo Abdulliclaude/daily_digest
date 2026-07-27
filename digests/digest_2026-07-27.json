@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Eutelsat and SES to receive $6.1B for clearing satellite spectrum",
+      "source": "Reuters",
+      "url": "https://www.techmeme.com/260727/p7#a260727p7",
+      "summary": "European satellite operators Eutelsat and SES will receive $6.1B for clearing satellite spectrum for US wireless services."
+    },
+    {
+      "title": "Multiverse Computing raises $570M Series C at a $1.7B valuation",
+      "source": "Pathfounders",
+      "url": "https://www.techmeme.com/260727/p5#a260727p5",
+      "summary": "Multiverse Computing, which shrinks LLMs to reduce energy and compute costs, raised a $570M Series C at a $1.7B valuation."
+    },
+    {
+      "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
+      "summary": "Black Forest Labs launches FLUX 3, capable of generating images and 20-second video with audio, but with limited release."
+    },
+    {
+      "title": "The quest to keep organs alive outside the body",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body",
+      "summary": "Scientists are working on keeping organs alive outside the body, which could revolutionize organ transplantation."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat, creating a leading hybrid cloud provider."
+    },
+    {
+      "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
+      "summary": "Enterprise AI agent governance is still lacking, according to VentureBeat research."
+    },
+    {
+      "title": "How some young adults are using AI to navigate social situations",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260727/p4#a260727p4",
+      "summary": "Young adults are using AI to navigate social situations, from drafting pickup lines to formulating responses in face-to-face conversations."
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
+      "summary": "The panic over Chinese AI is rooted in concerns over data privacy and national security."
+    },
+    {
+      "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "summary": "OpenAI introduces hands-free agentic coding with GPT-Live's full duplex voice control for Codex and ChatGPT."
+    },
+    {
+      "title": "The power line that could reshape New York\u2019s grid is hitting snags",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe",
+      "summary": "A power line project that could reshape New York's grid is facing delays and cost overruns."
+    }
+  ],
+  "gym": [
+    {
+      "title": "How to Raise a Few Billion Dollars",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=zHvY9wzhjpA",
+      "duration_min": 51.6,
+      "category": "Finance",
+      "summary": "The episode discusses strategies for raising large amounts of capital."
+    },
+    {
+      "title": "I Built a Complete AI Email Marketing System in 16 Minutes",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=UA8QQv5sepU",
+      "duration_min": 9.7,
+      "category": "Technology",
+      "summary": "The video demonstrates how to build an AI-powered email marketing system in a short amount of time."
+    },
+    {
+      "title": "Why Natural Gas Will Be AI\u2019s Next Great Shortage",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=3d9tIgjf4_E",
+      "duration_min": 59.8,
+      "category": "Finance",
+      "summary": "The episode discusses the potential shortage of natural gas and its implications for AI."
+    },
+    {
+      "title": "On Making Organizational Culture Great",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=_Od2gHrrIuQ",
+      "duration_min": 60.3,
+      "category": "Personal Growth",
+      "summary": "The video discusses strategies for creating a positive organizational culture."
+    },
+    {
+      "title": "What To Do After Saving $100K",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=tdcEHxsBPQQ",
+      "duration_min": 14.2,
+      "category": "Finance",
+      "summary": "The video provides advice on what to do after saving $100,000."
+    }
+  ],
+  "gym_total_min": 246.4,
+  "mode": "live"
+}

@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-27  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Eutelsat and SES to receive $6.1B for clearing satellite spectrum
+   Reuters → https://www.techmeme.com/260727/p7#a260727p7
+   European satellite operators Eutelsat and SES will receive $6.1B for clearing satellite spectrum for US wireless services.
+
+2. Multiverse Computing raises $570M Series C at a $1.7B valuation
+   Pathfounders → https://www.techmeme.com/260727/p5#a260727p5
+   Multiverse Computing, which shrinks LLMs to reduce energy and compute costs, raised a $570M Series C at a $1.7B valuation.
+
+3. Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio
+   VentureBeat → https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start
+   Black Forest Labs launches FLUX 3, capable of generating images and 20-second video with audio, but with limited release.
+
+4. The quest to keep organs alive outside the body
+   MIT Tech Review → https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body
+   Scientists are working on keeping organs alive outside the body, which could revolutionize organ transplantation.
+
+5. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat, creating a leading hybrid cloud provider.
+
+6. VentureBeat Research: Where enterprise AI agent governance hasn't caught up
+   VentureBeat → https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up
+   Enterprise AI agent governance is still lacking, according to VentureBeat research.
+
+7. How some young adults are using AI to navigate social situations
+   Wall Street Journal → https://www.techmeme.com/260727/p4#a260727p4
+   Young adults are using AI to navigate social situations, from drafting pickup lines to formulating responses in face-to-face conversations.
+
+8. Making sense of the panic over Chinese AI
+   TechCrunch → https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai
+   The panic over Chinese AI is rooted in concerns over data privacy and national security.
+
+9. Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT
+   VentureBeat → https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop
+   OpenAI introduces hands-free agentic coding with GPT-Live's full duplex voice control for Codex and ChatGPT.
+
+10. The power line that could reshape New York’s grid is hitting snags
+   MIT Tech Review → https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe
+   A power line project that could reshape New York's grid is facing delays and cost overruns.
+
+
+🏋  GYM PLAYLIST  (~246.4 min)
+────────────────────────────────────────────────────────────────
+1. How to Raise a Few Billion Dollars
+   Invest Like The Best · 51.6 min · Finance
+   https://www.youtube.com/watch?v=zHvY9wzhjpA
+   The episode discusses strategies for raising large amounts of capital.
+
+2. I Built a Complete AI Email Marketing System in 16 Minutes
+   The Science of Scaling · 9.7 min · Technology
+   https://www.youtube.com/watch?v=UA8QQv5sepU
+   The video demonstrates how to build an AI-powered email marketing system in a short amount of time.
+
+3. Why Natural Gas Will Be AI’s Next Great Shortage
+   Invest Like The Best · 59.8 min · Finance
+   https://www.youtube.com/watch?v=3d9tIgjf4_E
+   The episode discusses the potential shortage of natural gas and its implications for AI.
+
+4. On Making Organizational Culture Great
+   Stanford Graduate School of Business · 60.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Od2gHrrIuQ
+   The video discusses strategies for creating a positive organizational culture.
+
+5. What To Do After Saving $100K
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   The video provides advice on what to do after saving $100,000.
