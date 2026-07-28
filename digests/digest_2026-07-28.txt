@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-28  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Apple overtakes Nvidia to become the world's most valuable publicly traded company
+   Techmeme → https://www.techmeme.com/260728/p4#a260728p4
+   Apple has surpassed Nvidia as the world's most valuable publicly traded company.
+
+2. Satya Nadella says companies that trust one AI for everything may not survive
+   TechCrunch → https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
+   Microsoft CEO Satya Nadella warns companies against relying on a single AI solution.
+
+3. Kimi K3's full weights are here, but they're 'open' with a caveat
+   VentureBeat → https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know
+   Kimi K3's full weights are available but with limitations, posing a challenge for enterprises.
+
+4. Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs
+   VentureBeat → https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs
+   Microsoft introduces an AI cybersecurity model and agentic defense platform to reduce enterprise security costs.
+
+5. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM's CEO expresses skepticism about the financial viability of investing in AI data centers.
+
+6. How lasers could help provide fuel for nuclear reactors
+   MIT Tech Review → https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/
+   Lasers may offer a new method for producing fuel for nuclear reactors.
+
+7. ChatGPT appears to block direct requests to copy an author's style
+   Ars Technica → https://arstechnica.com/tech-policy/2026/07/chatgpt-blocks-requests-to-copy-authors-style/
+   ChatGPT has started blocking requests to replicate an author's style, amid legal disputes with book authors.
+
+8. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
+   TechCrunch → https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai
+   Dario Amodei from Anthropic expresses concerns about Chinese AI, despite not opposing open-weight models.
+
+9. The path to artificial superintelligence
+   MIT Tech Review → https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence
+   Artificial superintelligence may be achieved through the development of more advanced AI systems.
+
+10. Ultra Promo Codes: Up to 50% Off in July 2026
+   Wired → https://www.wired.com/story/ulta-coupon/
+   Wired has compiled a list of promo codes for Ulta, offering up to 50% off in July 2026.
+
+
+🏋  GYM PLAYLIST  (~199.6 min)
+────────────────────────────────────────────────────────────────
+1. Why the best product leaders are building for 2028
+   Lenny's Podcast · 93.8 min · Technology
+   https://www.youtube.com/watch?v=tivaWTTVRhY
+   Product leaders should focus on building for the future, specifically 2028.
+
+2. How to Raise a Few Billion Dollars
+   Invest Like The Best · 51.6 min · Finance
+   https://www.youtube.com/watch?v=zHvY9wzhjpA
+   The video discusses strategies for raising large amounts of capital.
+
+3. Evals-Driven Development for a Mental Health AI Coach
+   AI Engineer · 21.3 min · Technology
+   https://www.youtube.com/watch?v=O72p-rBb2bA
+   The video explores the concept of evals-driven development for mental health AI coaches.
+
+4. If I was investing my first $20k in July 2026, this is what I'd buy
+   Nischa · 14.0 min · Finance
+   https://www.youtube.com/watch?v=RvUVQcDVc1Q
+   The speaker shares their investment strategy for a $20,000 portfolio in July 2026.
+
+5. Loop Engineering from First Principles
+   AI Engineer · 17.9 min · Technology
+   https://www.youtube.com/watch?v=xIt_mTQp6mY
+   The video discusses loop engineering from a first-principles perspective.
