@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-29  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. CXMT's IPO prospectus showed Alibaba had a ~5% stake, which is now worth $20B+, a nearly 20x return
+   Techmeme → https://www.techmeme.com/260729/p7#a260729p7
+   Alibaba's 5% stake in CXMT is now worth over $20B, a nearly 20x return.
+
+2. Russia's FSB charges Telegram founder Pavel Durov with facilitating terrorist activities
+   Techmeme → https://www.techmeme.com/260729/p6#a260729p6
+   Russia's FSB has charged Telegram founder Pavel Durov with facilitating terrorist activities.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+4. A look at Kioxia, the Japanese NAND flash maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026
+   Techmeme → https://www.techmeme.com/260729/p5#a260729p5
+   Kioxia, a Japanese NAND flash maker, is expected to see a 30-fold jump in operating income in Q1 FY 2026.
+
+5. GPTZero finds AI hallucinations in four PwC Middle East reports
+   Techmeme → https://www.techmeme.com/260729/p4#a260729p4
+   GPTZero found AI hallucinations in four PwC Middle East reports, leading to retractions.
+
+6. Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible
+   VentureBeat → https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible
+   Visa used Mythos to find bugs in its payment network and then open-sourced the tool.
+
+7. Instacart's CTO says AI made the company stop worrying about tech debt
+   VentureBeat → https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt
+   Instacart's CTO says AI has helped the company reduce its tech debt concerns.
+
+8. The AI Hype Index: Unsexy AI
+   MIT Tech Review → https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai
+   The AI Hype Index highlights the importance of 'unsexy AI' in driving real-world impact.
+
+9. GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests
+   VentureBeat → https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests
+   GM redesigned its engineering workflows around AI agents, resulting in tripled merged pull requests.
+
+10. eBay pays $46M to journalists it targeted in bizarre harassment campaign
+   Ars Technica → https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case
+   eBay paid $46M to settle a harassment case against journalists.
+
+
+🏋  GYM PLAYLIST  (~222.5 min)
+────────────────────────────────────────────────────────────────
+1. What To Do After Saving $100K
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   Advice on what to do after saving $100K, including investing and budgeting.
+
+2. The Quantum Shift in Biomedical Discovery
+   IBM Technology · 44.3 min · Technology
+   https://www.youtube.com/watch?v=GRroB-0wrnc
+   IBM discusses the quantum shift in biomedical discovery and its potential applications.
+
+3. How to Set Up Your LinkedIn Profile in just 10 Minutes (Using AI)
+   The Science of Scaling · 10.6 min · Personal Growth
+   https://www.youtube.com/watch?v=arfRGd6bDmQ
+   A guide to setting up a LinkedIn profile in 10 minutes using AI tools.
+
+4. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   Insights into deploying a voice agent to a Fortune 500 company, including challenges and solutions.
+
+5. Why the people building AI can’t tell you what’s next
+   Lenny's Podcast · 93.8 min · Technology
+   https://www.youtube.com/watch?v=tivaWTTVRhY
+   A discussion with Dianne Penn from Anthropic on the challenges of predicting the future of AI.
+
+6. For First time moms: Getting through the newborn phase!
+   Muzamil Hasan | TBT Podcast · 18.8 min · Personal Growth
+   https://www.youtube.com/watch?v=9oVS_E9q2ww
+   Advice and support for first-time mothers navigating the newborn phase.
