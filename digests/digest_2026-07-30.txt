@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-30  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. China's AI hubs drive GDP growth
+   Bloomberg → https://www.techmeme.com/260730/p8#a260730p8
+   China's AI hubs are driving the country's GDP growth, but households are not seeing much of the benefits.
+
+2. Tens of millions of South Korean retail investors caught in selloff
+   Financial Times → https://www.techmeme.com/260730/p7#a260730p7
+   Tens of millions of South Korean retail investors were caught in this week's selloff, as Samsung and SK Hynix tumble.
+
+3. Stripe says thousands of solo operators generate $1M+ in annual revenue
+   Wall Street Journal → https://www.techmeme.com/260730/p6#a260730p6
+   Stripe says thousands of solo operators on its service generate $1M+ in annual revenue, and those making $10M+ nearly tripled between 2023 and 2025, aided by AI.
+
+4. Q&A with CuspAI's Max Welling on its AI Materials Foundry
+   Financial Times → https://www.techmeme.com/260730/p5#a260730p5
+   CuspAI's Max Welling discusses its AI Materials Foundry, partnerships with Nvidia and others, and Geoff Hinton and Yann LeCun joining its advisory board.
+
+5. Google's SynthID tech for watermarking AI images is hard to break
+   Ars Technica → https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/
+   Google's SynthID tech for watermarking AI images is hard to break, but there will always be ways to create AI-generated content without any labeling.
+
+6. ByteDance's efforts to become China's leading company across all aspects of AI
+   Financial Times → https://www.techmeme.com/260730/p3#a260730p3
+   ByteDance is making efforts to become China's leading company across all aspects of AI, from frontier models and video generation to infrastructure and chips.
+
+7. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Business Insider → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM CEO says there is 'no way' spending on AI data centers will pay off, amidst the company's own investments in AI technology.
+
+8. Microsoft is openly competing with OpenAI, Anthropic more than ever
+   TechCrunch → https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
+   Microsoft is openly competing with OpenAI and Anthropic in the AI space, as the company continues to develop its own AI technologies.
+
+9. At Waymo, an AI project isn't ready until its evals are — not when the model performs well
+   VentureBeat → https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well
+   At Waymo, an AI project is considered ready when its evaluations are complete, not just when the model performs well, to ensure reliability and safety.
+
+10. The Download: a chip talent battle, and deflating AI hype
+   MIT Tech Review → https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
+   The Download discusses the current state of the chip talent battle and the deflating AI hype in the tech industry.
+
+
+🏋  GYM PLAYLIST  (~40.5 min)
+────────────────────────────────────────────────────────────────
+1. For First time moms: Getting through the newborn phase!
+   Muzamil Hasan | TBT Podcast · 18.8 min · Personal Growth
+   https://www.youtube.com/watch?v=9oVS_E9q2ww
+   The video provides tips and advice for first-time mothers on how to get through the newborn phase, including self-care and seeking support.
+
+2. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   The video discusses the process of deploying a voice agent to a Fortune 500 company, including the technical and logistical challenges that come with it.
+
+3. How to Set Up Your LinkedIn Profile in just 10 Minutes (Using AI)
+   The Science of Scaling · 10.6 min · Technology
+   https://www.youtube.com/watch?v=arfRGd6bDmQ
+   The video provides a step-by-step guide on how to set up a LinkedIn profile using AI in just 10 minutes, including tips on how to optimize the profile for better visibility.
+
+4. If I was investing my first $20k in July 2026, this is what I'd buy
+   Nischa · 14.0 min · Finance
+   https://www.youtube.com/watch?v=RvUVQcDVc1Q
+   The video provides investment advice on what to buy with a first $20k investment in July 2026, including specific stocks and strategies.
+
+5. Things we should be teaching our kids | Part I
+   Muzamil Hasan | TBT Podcast · 11.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Apn-Rf1ko8
+   The video discusses the importance of teaching children important life skills and values, including responsibility and empathy.
+
+6. Build for the Memo, Not the Demo — Shawn Chan, China Resources Holdings
+   AI Engineer · 24.4 min · Technology
+   https://www.youtube.com/watch?v=tJFjeMBKbIY
+   The video provides advice on building products, focusing on creating a solid foundation and documentation rather than just a demo.

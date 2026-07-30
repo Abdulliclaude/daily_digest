@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "China's AI hubs drive GDP growth",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260730/p8#a260730p8",
+      "summary": "China's AI hubs are driving the country's GDP growth, but households are not seeing much of the benefits."
+    },
+    {
+      "title": "Tens of millions of South Korean retail investors caught in selloff",
+      "source": "Financial Times",
+      "url": "https://www.techmeme.com/260730/p7#a260730p7",
+      "summary": "Tens of millions of South Korean retail investors were caught in this week's selloff, as Samsung and SK Hynix tumble."
+    },
+    {
+      "title": "Stripe says thousands of solo operators generate $1M+ in annual revenue",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260730/p6#a260730p6",
+      "summary": "Stripe says thousands of solo operators on its service generate $1M+ in annual revenue, and those making $10M+ nearly tripled between 2023 and 2025, aided by AI."
+    },
+    {
+      "title": "Q&A with CuspAI's Max Welling on its AI Materials Foundry",
+      "source": "Financial Times",
+      "url": "https://www.techmeme.com/260730/p5#a260730p5",
+      "summary": "CuspAI's Max Welling discusses its AI Materials Foundry, partnerships with Nvidia and others, and Geoff Hinton and Yann LeCun joining its advisory board."
+    },
+    {
+      "title": "Google's SynthID tech for watermarking AI images is hard to break",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "summary": "Google's SynthID tech for watermarking AI images is hard to break, but there will always be ways to create AI-generated content without any labeling."
+    },
+    {
+      "title": "ByteDance's efforts to become China's leading company across all aspects of AI",
+      "source": "Financial Times",
+      "url": "https://www.techmeme.com/260730/p3#a260730p3",
+      "summary": "ByteDance is making efforts to become China's leading company across all aspects of AI, from frontier models and video generation to infrastructure and chips."
+    },
+    {
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "summary": "IBM CEO says there is 'no way' spending on AI data centers will pay off, amidst the company's own investments in AI technology."
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft is openly competing with OpenAI and Anthropic in the AI space, as the company continues to develop its own AI technologies."
+    },
+    {
+      "title": "At Waymo, an AI project isn't ready until its evals are \u2014 not when the model performs well",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well",
+      "summary": "At Waymo, an AI project is considered ready when its evaluations are complete, not just when the model performs well, to ensure reliability and safety."
+    },
+    {
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "summary": "The Download discusses the current state of the chip talent battle and the deflating AI hype in the tech industry."
+    }
+  ],
+  "gym": [
+    {
+      "title": "For First time moms: Getting through the newborn phase!",
+      "channel": "Muzamil Hasan | TBT Podcast",
+      "url": "https://www.youtube.com/watch?v=9oVS_E9q2ww",
+      "duration_min": 18.8,
+      "category": "Personal Growth",
+      "summary": "The video provides tips and advice for first-time mothers on how to get through the newborn phase, including self-care and seeking support."
+    },
+    {
+      "title": "What It Actually Takes to Deploy a Voice Agent to a Fortune 500",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=eSm_9tb5ZbY",
+      "duration_min": 30.8,
+      "category": "Technology",
+      "summary": "The video discusses the process of deploying a voice agent to a Fortune 500 company, including the technical and logistical challenges that come with it."
+    },
+    {
+      "title": "How to Set Up Your LinkedIn Profile in just 10 Minutes (Using AI)",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=arfRGd6bDmQ",
+      "duration_min": 10.6,
+      "category": "Technology",
+      "summary": "The video provides a step-by-step guide on how to set up a LinkedIn profile using AI in just 10 minutes, including tips on how to optimize the profile for better visibility."
+    },
+    {
+      "title": "If I was investing my first $20k in July 2026, this is what I'd buy",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=RvUVQcDVc1Q",
+      "duration_min": 14.0,
+      "category": "Finance",
+      "summary": "The video provides investment advice on what to buy with a first $20k investment in July 2026, including specific stocks and strategies."
+    },
+    {
+      "title": "Things we should be teaching our kids | Part I",
+      "channel": "Muzamil Hasan | TBT Podcast",
+      "url": "https://www.youtube.com/watch?v=_Apn-Rf1ko8",
+      "duration_min": 11.3,
+      "category": "Personal Growth",
+      "summary": "The video discusses the importance of teaching children important life skills and values, including responsibility and empathy."
+    },
+    {
+      "title": "Build for the Memo, Not the Demo \u2014 Shawn Chan, China Resources Holdings",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=tJFjeMBKbIY",
+      "duration_min": 24.4,
+      "category": "Technology",
+      "summary": "The video provides advice on building products, focusing on creating a solid foundation and documentation rather than just a demo."
+    }
+  ],
+  "gym_total_min": 40.5,
+  "mode": "live"
+}
