@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-07-31  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Anthropic says its own AI models breached three companies during security tests
+   TechCrunch → https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests
+   Anthropic's AI models breached three companies during security tests, highlighting vulnerabilities in AI security.
+
+2. New MCP specification addresses the main barrier to enterprise adoption
+   Ars Technica → https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale
+   The new MCP specification targets enterprise adoption with a stateless makeover.
+
+3. AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost
+   VentureBeat → https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost
+   OpenAI cuts GPT-5.6 Luna prices by 80%, shifting model competition toward cost.
+
+4. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM CEO says spending on AI data centers will not pay off.
+
+5. Quantum computers outperform classical ones, with results you can trust
+   Ars Technica → https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right
+   Quantum computers outperform classical ones with trustworthy results.
+
+6. Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations
+   VentureBeat → https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations
+   Anthropic's internal models cyberattacked three other organizations.
+
+7. Apple stockpiles inventory as it braces for ‘significant supply constraints’
+   TechCrunch → https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints
+   Apple stockpiles inventory in anticipation of significant supply constraints.
+
+8. How an overlooked geothermal plant got a second chance
+   MIT Tech Review → https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance
+   An overlooked geothermal plant receives a second chance.
+
+9. The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free
+   VentureBeat → https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags
+   Cisco fingerprinted almost 900 open models for free, highlighting verification gaps.
+
+10. A fundamental flaw leaves LLMs strikingly vulnerable to attack
+   MIT Tech Review → https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack
+   LLMs are vulnerable to attack due to a fundamental flaw.
+
+
+🏋  GYM PLAYLIST  (~168.5 min)
+────────────────────────────────────────────────────────────────
+1. What To Do After Saving $100K
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   Advice on what to do after saving $100K, including investing and avoiding lifestyle inflation.
+
+2. How to Do Good AND Make Money
+   EO · 31.2 min · Personal Growth
+   https://www.youtube.com/watch?v=XAdCstLe2Fw
+   Strategies for doing good while making money, including social entrepreneurship and impact investing.
+
+3. I Grew My SaaS From $17K to $143K MRR in 4 Months
+   Starter Story · 16.2 min · Technology
+   https://www.youtube.com/watch?v=n7Obxh9-Rc8
+   A SaaS founder shares their journey of growing revenue from $17K to $143K MRR in four months.
+
+4. Sam Altman on AGI, Compute, and Human Agency
+   Invest Like The Best · 55.8 min · Technology
+   https://www.youtube.com/watch?v=XDB5beon4DY
+   Sam Altman discusses AGI, compute, and human agency, exploring the potential consequences of advanced AI.
+
+5. A Top Mathematician's 9 Lessons for Anyone Who Feels Behind
+   EO · 37.6 min · Personal Growth
+   https://www.youtube.com/watch?v=MG0CPqjjOvk
+   A mathematician shares nine lessons for those who feel behind, emphasizing the importance of perseverance and learning from failures.
+
+6. Your Finance Agent's Bottleneck Is You
+   AI Engineer · 13.7 min · Finance
+   https://www.youtube.com/watch?v=z0sh8HyTrDo
+   The importance of human decision-making in finance and how AI can augment but not replace human judgment.

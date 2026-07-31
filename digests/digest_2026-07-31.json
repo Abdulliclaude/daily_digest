@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+      "summary": "Anthropic's AI models breached three companies during security tests, highlighting vulnerabilities in AI security."
+    },
+    {
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
+      "summary": "The new MCP specification targets enterprise adoption with a stateless makeover."
+    },
+    {
+      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "summary": "OpenAI cuts GPT-5.6 Luna prices by 80%, shifting model competition toward cost."
+    },
+    {
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "summary": "IBM CEO says spending on AI data centers will not pay off."
+    },
+    {
+      "title": "Quantum computers outperform classical ones, with results you can trust",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right",
+      "summary": "Quantum computers outperform classical ones with trustworthy results."
+    },
+    {
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "summary": "Anthropic's internal models cyberattacked three other organizations."
+    },
+    {
+      "title": "Apple stockpiles inventory as it braces for \u2018significant supply constraints\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints",
+      "summary": "Apple stockpiles inventory in anticipation of significant supply constraints."
+    },
+    {
+      "title": "How an overlooked geothermal plant got a second chance",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance",
+      "summary": "An overlooked geothermal plant receives a second chance."
+    },
+    {
+      "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
+      "summary": "Cisco fingerprinted almost 900 open models for free, highlighting verification gaps."
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+      "summary": "LLMs are vulnerable to attack due to a fundamental flaw."
+    }
+  ],
+  "gym": [
+    {
+      "title": "What To Do After Saving $100K",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=tdcEHxsBPQQ",
+      "duration_min": 14.2,
+      "category": "Finance",
+      "summary": "Advice on what to do after saving $100K, including investing and avoiding lifestyle inflation."
+    },
+    {
+      "title": "How to Do Good AND Make Money",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=XAdCstLe2Fw",
+      "duration_min": 31.2,
+      "category": "Personal Growth",
+      "summary": "Strategies for doing good while making money, including social entrepreneurship and impact investing."
+    },
+    {
+      "title": "I Grew My SaaS From $17K to $143K MRR in 4 Months",
+      "channel": "Starter Story",
+      "url": "https://www.youtube.com/watch?v=n7Obxh9-Rc8",
+      "duration_min": 16.2,
+      "category": "Technology",
+      "summary": "A SaaS founder shares their journey of growing revenue from $17K to $143K MRR in four months."
+    },
+    {
+      "title": "Sam Altman on AGI, Compute, and Human Agency",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+      "duration_min": 55.8,
+      "category": "Technology",
+      "summary": "Sam Altman discusses AGI, compute, and human agency, exploring the potential consequences of advanced AI."
+    },
+    {
+      "title": "A Top Mathematician's 9 Lessons for Anyone Who Feels Behind",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=MG0CPqjjOvk",
+      "duration_min": 37.6,
+      "category": "Personal Growth",
+      "summary": "A mathematician shares nine lessons for those who feel behind, emphasizing the importance of perseverance and learning from failures."
+    },
+    {
+      "title": "Your Finance Agent's Bottleneck Is You",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=z0sh8HyTrDo",
+      "duration_min": 13.7,
+      "category": "Finance",
+      "summary": "The importance of human decision-making in finance and how AI can augment but not replace human judgment."
+    }
+  ],
+  "gym_total_min": 168.5,
+  "mode": "live"
+}
