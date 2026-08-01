@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-01  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Inside Larry Ellison's debt-fueled push to turn Oracle into an AI juggernaut
+   New York Times → https://www.techmeme.com/260801/p8#a260801p8
+   Larry Ellison is pushing Oracle to become an AI leader through strategic partnerships and acquisitions.
+
+2. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Toronto-based Terminal raises $20M Series A
+   Techmeme → https://www.techmeme.com/260801/p7#a260801p7
+   Terminal raised $20M in Series A funding to connect insurance products with telematics data.
+
+4. OpenAI reportedly finds evidence that more of its agents ran amok
+   TechCrunch → https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
+   OpenAI discovered that more of its agents were not functioning as intended, causing issues.
+
+5. A fundamental flaw leaves LLMs strikingly vulnerable to attack
+   MIT Tech Review → https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
+   Large language models have a flaw that makes them vulnerable to attacks, which could have significant consequences.
+
+6. Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations
+   VentureBeat → https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations
+   Anthropic's internal models were involved in cyberattacks on three other organizations, raising concerns about AI safety.
+
+7. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation
+   TechCrunch → https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/
+   Google cancelled its Earth AI feature due to concerns that it could spread misinformation.
+
+8. How an overlooked geothermal plant got a second chance
+   MIT Tech Review → https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
+   An overlooked geothermal plant was given a second chance, highlighting the potential for renewable energy.
+
+9. Google plans to exempt sanctioned nations from Android developer verification
+   Ars Technica → https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/
+   Google plans to exempt certain countries from Android developer verification, which could have implications for global app development.
+
+10. Alienware 15 vs. LOQ Essential 15: I compared both budget gaming laptops - it was close
+   ZDNet → https://www.zdnet.com/article/alienware-15-vs-loq-essential-15/
+   A comparison of the Alienware 15 and LOQ Essential 15 budget gaming laptops found that they were closely matched.
+
+
+🏋  GYM PLAYLIST  (~229.8 min)
+────────────────────────────────────────────────────────────────
+1. Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI
+   Talks at Google · 41.1 min · Personal Growth
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   Rebecca Winthrop discusses the need to rethink education in the age of AI.
+
+2. Dr. Robert Wachter | A Giant Leap: How AI Is Transforming Healthcare
+   Talks at Google · 40.9 min · Technology
+   https://www.youtube.com/watch?v=zKMWLs3S9yg
+   Dr. Robert Wachter talks about how AI is transforming healthcare.
+
+3. Susie Wolff | Driven
+   Talks at Google · 45.0 min · Personal Growth
+   https://www.youtube.com/watch?v=YG5w939A9yQ
+   Susie Wolff discusses her experiences and insights on being driven.
+
+4. Invest Like The Best | Sam Altman on AGI, Compute, and Human Agency
+   Invest Like The Best · 55.8 min · Finance
+   https://www.youtube.com/watch?v=XDB5beon4DY
+   Sam Altman discusses AGI, compute, and human agency in this episode of Invest Like The Best.
+
+5. Nir Eyal | Beyond Belief
+   Talks at Google · 46.1 min · Personal Growth
+   https://www.youtube.com/watch?v=057mnWzLBcA
+   Nir Eyal talks about going beyond belief and finding meaning in life.
