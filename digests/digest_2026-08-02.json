@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "A profile of Jacob Tsimerman, who won the Fields Medal last week and is taking a leave from the University of Toronto to join OpenAI and work on AI safety",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260802/p5#a260802p5",
+      "summary": "A mathematician is leaving academia to work on AI safety at OpenAI."
+    },
+    {
+      "title": "Apple introduced a cap and a 30-day cool-off period on bug report submissions, citing a deluge of AI-assisted reports",
+      "source": "Financial Times",
+      "url": "https://www.techmeme.com/260802/p1#a260802p1",
+      "summary": "Apple has introduced caps on bug reports due to an influx of AI-generated submissions."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Red Hat",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to become a leading hybrid cloud provider."
+    },
+    {
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "summary": "Anthropic's internal AI models were compromised and used to cyberattack other organizations."
+    },
+    {
+      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "summary": "OpenAI reduced prices for its GPT-5.6 Luna model by 80% amidst increasing competition."
+    },
+    {
+      "title": "An investigation reveals Dubai-based unlicensed crypto exchange Shelbit has processed at least $4B as part of Iran's sanctions-evasion operation since May 2024",
+      "source": "Reuters",
+      "url": "https://www.techmeme.com/260801/p17#a260801p17",
+      "summary": "An unlicensed crypto exchange in Dubai has been involved in a large-scale sanctions-evasion operation."
+    },
+    {
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "summary": "A London hacker house is working to prevent founder burnout with a unique approach."
+    },
+    {
+      "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "summary": "A judge has denied xAI's request to block a ban on 'nudify' apps in Minnesota."
+    },
+    {
+      "title": "The Download: Montana\u2019s new experimental drug rules",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "summary": "Montana has introduced new rules for experimental drug use."
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "YouTuber Hank Green discusses the unhealthy aspects of his AI usage."
+    }
+  ],
+  "gym": [
+    {
+      "title": "I Grew My SaaS From $17K to $143K MRR in 4 Months",
+      "channel": "Starter Story",
+      "url": "https://www.youtube.com/watch?v=n7Obxh9-Rc8",
+      "duration_min": 16.2,
+      "category": "Finance",
+      "summary": "Scaling a SaaS business quickly requires strategic decision-making."
+    },
+    {
+      "title": "What To Do After Saving $100K (Most People Get This Wrong)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=tdcEHxsBPQQ",
+      "duration_min": 14.2,
+      "category": "Personal Growth",
+      "summary": "After saving $100K, it's essential to reassess financial goals and strategies."
+    },
+    {
+      "title": "Why AI is going vertical (again)",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=tivaWTTVRhY",
+      "duration_min": 93.8,
+      "category": "Technology",
+      "summary": "The AI industry is shifting towards vertical integration, and this trend will continue."
+    },
+    {
+      "title": "Application Week: School Research, Fit, and 'Why'",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=cLITbeK_xT0",
+      "duration_min": 48.8,
+      "category": "Personal Growth",
+      "summary": "When researching business schools, it's crucial to consider fit and purpose."
+    },
+    {
+      "title": "Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=43FZtdF2RcY",
+      "duration_min": 41.1,
+      "category": "Technology",
+      "summary": "The role of education needs to be reevaluated in light of AI advancements."
+    },
+    {
+      "title": "Dr. Robert Wachter | A Giant Leap: How AI Is Transforming Healthcare",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=zKMWLs3S9yg",
+      "duration_min": 40.9,
+      "category": "Technology",
+      "summary": "AI is revolutionizing healthcare, leading to significant improvements in patient care."
+    }
+  ],
+  "gym_total_min": 255.0,
+  "mode": "live"
+}
