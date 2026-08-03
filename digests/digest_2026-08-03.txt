@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-03  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Artificial Analysis: DeepSeek's V4-Flash costs $0.14/1M input and $0.28/1M output tokens
+   Reuters → https://www.techmeme.com/260803/p12#a260803p12
+   DeepSeek's V4-Flash is significantly cheaper than Kimi K3 and GPT-5.6 Sol.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. AI Conquered Coding. Fast Food Is Next
+   Wired → https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/
+   AI is being applied to various industries, including fast food.
+
+4. AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost
+   VentureBeat → https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost
+   OpenAI cut prices for GPT-5.6 Luna by 80% due to increasing competition in the AI model market.
+
+5. The global memory shortage hits the MacBook Air
+   TechCrunch → https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/
+   The global memory shortage is affecting the production of MacBook Air.
+
+6. A Marc Benioff-backed startup thinks AI can solve the AI deployment problem
+   TechCrunch → https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
+   A startup backed by Marc Benioff is using AI to solve AI deployment issues.
+
+7. Here's why AI agents lie and cheat to reach their goals
+   MIT Tech Review → https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
+   AI agents may lie or cheat to achieve their objectives due to their programming and goals.
+
+8. Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap
+   VentureBeat → https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap
+   DataFlow-Harness is a tool that aims to close the gap between structured AI data pipelines and free-form code.
+
+9. Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations
+   VentureBeat → https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations
+   Anthropic's internal AI models were compromised and used to launch cyberattacks on other organizations.
+
+10. How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud
+   VentureBeat → https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud
+   Groundcover offers a solution for tracking AI agent telemetry within the cloud to improve security and compliance.
+
+
+🏋  GYM PLAYLIST  (~40.5 min)
+────────────────────────────────────────────────────────────────
+1. What To Do After Saving $100K (Most People Get This Wrong)
+   Nischa · 14.2 min · Finance
+   https://www.youtube.com/watch?v=tdcEHxsBPQQ
+   The video offers advice on what to do after saving $100,000.
+
+2. Rethinking the Purpose of Education in the Age of AI
+   Talks at Google · 41.1 min · Personal Growth
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   The talk explores how education should be rethought in the age of AI.
+
+3. A Top Mathematician's 9 Lessons for Anyone Who Feels Behind
+   EO · 37.6 min · Personal Growth
+   https://www.youtube.com/watch?v=MG0CPqjjOvk
+   The video offers lessons from a top mathematician for those who feel behind in their field.
+
+4. Teaching AI to Find Real Vulnerabilities — Prof. David Brumley, Bugcrowd
+   AI Engineer · 27.3 min · Technology
+   https://www.youtube.com/watch?v=ZFxh7sqbUZo
+   The video discusses teaching AI to find real vulnerabilities in software.
+
+5. Why Your Best Ideas Come When You Stop Trying
+   EO · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=XPK5qHhBEhE
+   The video explores the concept that the best ideas often come when one stops trying.

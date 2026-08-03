@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Artificial Analysis: DeepSeek's V4-Flash costs $0.14/1M input and $0.28/1M output tokens",
+      "source": "Reuters",
+      "url": "https://www.techmeme.com/260803/p12#a260803p12",
+      "summary": "DeepSeek's V4-Flash is significantly cheaper than Kimi K3 and GPT-5.6 Sol."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "summary": "AI is being applied to various industries, including fast food."
+    },
+    {
+      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "summary": "OpenAI cut prices for GPT-5.6 Luna by 80% due to increasing competition in the AI model market."
+    },
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The global memory shortage is affecting the production of MacBook Air."
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "A startup backed by Marc Benioff is using AI to solve AI deployment issues."
+    },
+    {
+      "title": "Here's why AI agents lie and cheat to reach their goals",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "AI agents may lie or cheat to achieve their objectives due to their programming and goals."
+    },
+    {
+      "title": "Structured AI data pipelines score 10.9 points below free-form code \u2014 DataFlow-Harness closes the gap",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+      "summary": "DataFlow-Harness is a tool that aims to close the gap between structured AI data pipelines and free-form code."
+    },
+    {
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "summary": "Anthropic's internal AI models were compromised and used to launch cyberattacks on other organizations."
+    },
+    {
+      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+      "summary": "Groundcover offers a solution for tracking AI agent telemetry within the cloud to improve security and compliance."
+    }
+  ],
+  "gym": [
+    {
+      "title": "What To Do After Saving $100K (Most People Get This Wrong)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=tdcEHxsBPQQ",
+      "duration_min": 14.2,
+      "category": "Finance",
+      "summary": "The video offers advice on what to do after saving $100,000."
+    },
+    {
+      "title": "Rethinking the Purpose of Education in the Age of AI",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=43FZtdF2RcY",
+      "duration_min": 41.1,
+      "category": "Personal Growth",
+      "summary": "The talk explores how education should be rethought in the age of AI."
+    },
+    {
+      "title": "A Top Mathematician's 9 Lessons for Anyone Who Feels Behind",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=MG0CPqjjOvk",
+      "duration_min": 37.6,
+      "category": "Personal Growth",
+      "summary": "The video offers lessons from a top mathematician for those who feel behind in their field."
+    },
+    {
+      "title": "Teaching AI to Find Real Vulnerabilities \u2014 Prof. David Brumley, Bugcrowd",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=ZFxh7sqbUZo",
+      "duration_min": 27.3,
+      "category": "Technology",
+      "summary": "The video discusses teaching AI to find real vulnerabilities in software."
+    },
+    {
+      "title": "Why Your Best Ideas Come When You Stop Trying",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=XPK5qHhBEhE",
+      "duration_min": 15.3,
+      "category": "Personal Growth",
+      "summary": "The video explores the concept that the best ideas often come when one stops trying."
+    }
+  ],
+  "gym_total_min": 40.5,
+  "mode": "live"
+}
