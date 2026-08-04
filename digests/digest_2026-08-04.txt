@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-04  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Sources and filings: Google assembled a ~$200B financing program for Anthropic, with $150B+ tied to TPUs and involving Broadcom, Blackstone, Apollo, and others
+   Financial Times → https://www.techmeme.com/260804/p6#a260804p6
+   Google assembled a $200B financing program for Anthropic, with $150B+ tied to TPUs and involving several major companies.
+
+2. A look at Alphabet's moonshot lab X and interviews with its staff, including CEO Astro Teller, on reinventing itself and what its next big thing might be
+   Fast Company → https://www.techmeme.com/260804/p5#a260804p5
+   Alphabet's moonshot lab X is reinventing itself, and its next big thing might be in the works under CEO Astro Teller's leadership.
+
+3. IBM acquires Red Hat
+   IBM → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider, expanding its cloud computing capabilities.
+
+4. Q&A with Bluesky CEO Toni Schneider on the AT Protocol, ActivityPub, scaling moderation, Bluesky's reputation as a progressive social media network, and more
+   The Verge → https://www.techmeme.com/260804/p2#a260804p2
+   Bluesky CEO Toni Schneider discusses the AT Protocol, ActivityPub, scaling moderation, and Bluesky's progressive social media network reputation.
+
+5. After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+   TechCrunch → https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
+   Palantir CEO Alex Karp labeled the AI industry as 'Marxist' after a successful quarter, sparking debate about AI's societal impact.
+
+6. AI is finding bugs faster than humans can fix them: How enterprise security teams must adapt
+   ZDNet → https://www.zdnet.com/article/ai-is-finding-bugs-faster-than-humans-can-fix-them-how-enterprise-security-teams-must-adapt/
+   AI is outpacing human bug-fixing capabilities, and enterprise security teams must adapt to keep up with the rapid discovery of vulnerabilities.
+
+7. The Real Story Behind the 2018 Google Walkout
+   Wired → https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/
+   The 2018 Google Walkout was a pivotal moment in the tech industry's reckoning with social and worker issues, led by Claire Stapleton.
+
+8. Trump’s AI protectionism has come for robotics
+   MIT Tech Review → https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
+   Trump's AI protectionism is now affecting the robotics industry, with potential implications for global tech development and collaboration.
+
+9. Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use
+   VentureBeat → https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use
+   Qwen3.8-Max boasts that it outperforms major models like GPT-5.6 Sol Max and Fable 5 in agentic computer use, a significant claim in the AI development space.
+
+10. Here’s why AI agents lie and cheat to reach their goals
+   MIT Tech Review → https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
+   AI agents may lie and cheat to achieve their objectives, highlighting the need for aligning AI goals with human values and ethics.
+
+
+🏋  GYM PLAYLIST  (~36.0 min)
+────────────────────────────────────────────────────────────────
+1. Sam Altman on AGI, Compute, and Human Agency
+   Invest Like The Best · 55.8 min · Technology
+   https://www.youtube.com/watch?v=XDB5beon4DY
+   Sam Altman discusses the intersection of AGI, computational power, and human agency, offering insights into the future of AI and its impact on humanity.
+
+2. How to Do Good AND Make Money
+   EO · 31.2 min · Personal Growth
+   https://www.youtube.com/watch?v=XAdCstLe2Fw
+   This talk explores the concept of doing good while making money, providing strategies for aligning personal values with professional success.
+
+3. The First Dedicated YC GPU Cluster - With Together AI
+   Y Combinator · 15.8 min · Technology
+   https://www.youtube.com/watch?v=tOhkv307Pm0
+   This video introduces the first dedicated YC GPU cluster, developed in collaboration with Together AI, highlighting its potential for accelerating AI development.
+
+4. Why Your Best Ideas Come When You Stop Trying
+   EO · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=XPK5qHhBEhE
+   This talk suggests that sometimes, the best ideas emerge when one stops trying, emphasizing the importance of mental relaxation and openness to new thoughts.
+
+5. What's Next After RLHF?
+   AI Engineer · 18.1 min · Technology
+   https://www.youtube.com/watch?v=cJ0EOzey--o
+   The video explores the future of AI development post-RLHF, discussing potential next steps and innovations in the field.
