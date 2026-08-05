@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-05  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic
+   Techmeme → https://www.techmeme.com/260805/p5#a260805p5
+   Mathematicians discuss the impact of AI on their field, with many expressing optimism about its potential to transform their work.
+
+2. How Reddit moderators are battling AI-powered astroturfing ad campaigns
+   Techmeme → https://www.techmeme.com/260805/p4#a260805p4
+   Reddit moderators are fighting against AI-powered astroturfing ad campaigns that exploit the platform's reputation to promote products.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquires Red Hat to create a leading hybrid cloud provider.
+
+4. Innolight falls after a report said the US plans to restrict imports of new Chinese data center optical transceivers
+   Techmeme → https://www.techmeme.com/260805/p3#a260805p3
+   Innolight's stock falls due to a report on potential US restrictions on Chinese data center optical transceivers.
+
+5. Wispr Flow launches a Granola-styled meeting notetaker
+   TechCrunch → https://techcrunch.com/2026/08/05/wispr-flow-is-prepping-to-launch-a-meeting-notetaker-updated-terms-suggest/
+   Wispr Flow is launching a meeting notetaker with a Granola-style design, as indicated by updated terms.
+
+6. Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis
+   TechCrunch → https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/
+   Lucid's turnaround plan relies on $1.4B in cash savings and the development of robotaxis.
+
+7. Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use
+   VentureBeat → https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use
+   Qwen3.8-Max claims to outperform GPT-5.6 Sol Max and Fable 5 in agentic computer use, making a bold entrance.
+
+8. The ERP for the AI Revolution is here
+   Y Combinator → https://www.youtube.com/watch?v=X1NXnLRNIfM
+   The speaker discusses the arrival of the ERP for the AI Revolution.
+
+9. How to get the best hotel deals for TechCrunch Disrupt 2026
+   TechCrunch → https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/
+   The article provides tips on how to get the best hotel deals for TechCrunch Disrupt 2026.
+
+10. NASA’s new dark energy space telescope can also detect killer asteroids
+   MIT Tech Review → https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
+   NASA's new dark energy space telescope has the capability to detect killer asteroids.
+
+
+🏋  GYM PLAYLIST  (~240.2 min)
+────────────────────────────────────────────────────────────────
+1. Ep. 45, Indigenous Stewardship for Sustainability
+   Stanford Graduate School of Business · 19.1 min · Personal Growth
+   https://www.youtube.com/watch?v=UjJ2-6eurFA
+   This episode discusses indigenous stewardship for sustainability, focusing on environmental conservation.
+
+2. What It Actually Takes to Deploy a Voice Agent to a Fortune 500
+   Y Combinator · 30.8 min · Technology
+   https://www.youtube.com/watch?v=eSm_9tb5ZbY
+   The speaker shares insights on the process of deploying a voice agent to a Fortune 500 company.
+
+3. Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI
+   Talks at Google · 41.1 min · Technology
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   Rebecca Winthrop discusses rethinking the purpose of education in the age of AI, exploring new approaches to learning.
+
+4. I Grew My SaaS From $17K to $143K MRR in 4 Months
+   Starter Story · 16.2 min · Finance
+   https://www.youtube.com/watch?v=n7Obxh9-Rc8
+   The speaker shares their experience of growing their SaaS from $17K to $143K MRR in just 4 months.
+
+5. Dr. Deepika Chopra | The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   Dr. Deepika Chopra discusses the power of real optimism, focusing on its benefits for mental health and well-being.
+
+6. LEAD Webinar on Crisis Management with GSB Faculty Steve Callander
+   Stanford Graduate School of Business · 93.5 min · Finance
+   https://www.youtube.com/watch?v=vTTVHMzFkp4
+   The webinar explores crisis management strategies with GSB Faculty Steve Callander, providing insights on navigating challenging situations.

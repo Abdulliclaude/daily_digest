@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260805/p5#a260805p5",
+      "summary": "Mathematicians discuss the impact of AI on their field, with many expressing optimism about its potential to transform their work."
+    },
+    {
+      "title": "How Reddit moderators are battling AI-powered astroturfing ad campaigns",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260805/p4#a260805p4",
+      "summary": "Reddit moderators are fighting against AI-powered astroturfing ad campaigns that exploit the platform's reputation to promote products."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquires Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Innolight falls after a report said the US plans to restrict imports of new Chinese data center optical transceivers",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260805/p3#a260805p3",
+      "summary": "Innolight's stock falls due to a report on potential US restrictions on Chinese data center optical transceivers."
+    },
+    {
+      "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/wispr-flow-is-prepping-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "summary": "Wispr Flow is launching a meeting notetaker with a Granola-style design, as indicated by updated terms."
+    },
+    {
+      "title": "Lucid\u2019s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "summary": "Lucid's turnaround plan relies on $1.4B in cash savings and the development of robotaxis."
+    },
+    {
+      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+      "summary": "Qwen3.8-Max claims to outperform GPT-5.6 Sol Max and Fable 5 in agentic computer use, making a bold entrance."
+    },
+    {
+      "title": "The ERP for the AI Revolution is here",
+      "source": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=X1NXnLRNIfM",
+      "summary": "The speaker discusses the arrival of the ERP for the AI Revolution."
+    },
+    {
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "summary": "The article provides tips on how to get the best hotel deals for TechCrunch Disrupt 2026."
+    },
+    {
+      "title": "NASA\u2019s new dark energy space telescope can also detect killer asteroids",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "summary": "NASA's new dark energy space telescope has the capability to detect killer asteroids."
+    }
+  ],
+  "gym": [
+    {
+      "title": "Ep. 45, Indigenous Stewardship for Sustainability",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=UjJ2-6eurFA",
+      "duration_min": 19.1,
+      "category": "Personal Growth",
+      "summary": "This episode discusses indigenous stewardship for sustainability, focusing on environmental conservation."
+    },
+    {
+      "title": "What It Actually Takes to Deploy a Voice Agent to a Fortune 500",
+      "channel": "Y Combinator",
+      "url": "https://www.youtube.com/watch?v=eSm_9tb5ZbY",
+      "duration_min": 30.8,
+      "category": "Technology",
+      "summary": "The speaker shares insights on the process of deploying a voice agent to a Fortune 500 company."
+    },
+    {
+      "title": "Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=43FZtdF2RcY",
+      "duration_min": 41.1,
+      "category": "Technology",
+      "summary": "Rebecca Winthrop discusses rethinking the purpose of education in the age of AI, exploring new approaches to learning."
+    },
+    {
+      "title": "I Grew My SaaS From $17K to $143K MRR in 4 Months",
+      "channel": "Starter Story",
+      "url": "https://www.youtube.com/watch?v=n7Obxh9-Rc8",
+      "duration_min": 16.2,
+      "category": "Finance",
+      "summary": "The speaker shares their experience of growing their SaaS from $17K to $143K MRR in just 4 months."
+    },
+    {
+      "title": "Dr. Deepika Chopra | The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "Dr. Deepika Chopra discusses the power of real optimism, focusing on its benefits for mental health and well-being."
+    },
+    {
+      "title": "LEAD Webinar on Crisis Management with GSB Faculty Steve Callander",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=vTTVHMzFkp4",
+      "duration_min": 93.5,
+      "category": "Finance",
+      "summary": "The webinar explores crisis management strategies with GSB Faculty Steve Callander, providing insights on navigating challenging situations."
+    }
+  ],
+  "gym_total_min": 240.2,
+  "mode": "live"
+}
