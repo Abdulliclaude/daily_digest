@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Google centralizes its AI leadership at Mountain View",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260806/p13#a260806p13",
+      "summary": "Google is centralizing its AI leadership at Mountain View to better compete with its rivals."
+    },
+    {
+      "title": "Nintendo reports Q1 revenue down 10% YoY",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260806/p12#a260806p12",
+      "summary": "Nintendo's Q1 revenue is down 10% year-over-year, but still above estimates."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "AI is exposing the limits of traditional network architecture",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
+      "summary": "AI is highlighting the limitations of traditional network architecture and driving the need for change."
+    },
+    {
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers",
+      "summary": "A vulnerability in motherboard controllers can allow thousands of servers to be backdoored."
+    },
+    {
+      "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids",
+      "summary": "NASA's new telescope can detect dark energy and also identify potentially hazardous asteroids."
+    },
+    {
+      "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs",
+      "summary": "NASA's new telescope and China's tech import restrictions are major tech news this week."
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+      "summary": "Meta has launched Muse Code, an AI agent designed to work with large code bases."
+    },
+    {
+      "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
+      "summary": "AI startup Hark has launched its first product, Hark Handoff, a fast and affordable computer use agent."
+    },
+    {
+      "title": "Trump\u2019s DOJ gains oversight of OpenAI\u2019s green-card employee sponsorships",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships",
+      "summary": "The Trump DOJ now has oversight over OpenAI's green-card employee sponsorships."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The AI Selloff Doesn't Match the Data",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=NGsi2PC4y68",
+      "duration_min": 78.8,
+      "category": "Finance",
+      "summary": "The AI selloff does not match the actual data, according to a top AI investor."
+    },
+    {
+      "title": "Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=43FZtdF2RcY",
+      "duration_min": 41.1,
+      "category": "Personal Growth",
+      "summary": "The purpose of education needs to be rethought in the age of AI, according to Rebecca Winthrop."
+    },
+    {
+      "title": "What's Next After RLHF?",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=cJ0EOzey--o",
+      "duration_min": 18.1,
+      "category": "Technology",
+      "summary": "The next steps after RLHF are discussed in this video."
+    },
+    {
+      "title": "Why Your Best Ideas Come When You Stop Trying",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=XPK5qHhBEhE",
+      "duration_min": 15.3,
+      "category": "Personal Growth",
+      "summary": "Sometimes the best ideas come when you stop trying, according to Marcus du Sautoy."
+    },
+    {
+      "title": "Sam Altman on AGI, Compute, and Human Agency",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+      "duration_min": 55.8,
+      "category": "Technology",
+      "summary": "Sam Altman discusses AGI, compute, and human agency in this interview."
+    }
+  ],
+  "gym_total_min": 209.9,
+  "mode": "live"
+}

@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-06  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Google centralizes its AI leadership at Mountain View
+   Techmeme → https://www.techmeme.com/260806/p13#a260806p13
+   Google is centralizing its AI leadership at Mountain View to better compete with its rivals.
+
+2. Nintendo reports Q1 revenue down 10% YoY
+   Techmeme → https://www.techmeme.com/260806/p12#a260806p12
+   Nintendo's Q1 revenue is down 10% year-over-year, but still above estimates.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+4. AI is exposing the limits of traditional network architecture
+   VentureBeat → https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture
+   AI is highlighting the limitations of traditional network architecture and driving the need for change.
+
+5. Thousands of servers can be backdoored by exploiting buggy motherboard controllers
+   Ars Technica → https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers
+   A vulnerability in motherboard controllers can allow thousands of servers to be backdoored.
+
+6. NASA’s new dark-energy space telescope can also detect killer asteroids
+   MIT Tech Review → https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids
+   NASA's new telescope can detect dark energy and also identify potentially hazardous asteroids.
+
+7. The Download: NASA’s new telescope and Chinese tech import curbs
+   MIT Tech Review → https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs
+   NASA's new telescope and China's tech import restrictions are major tech news this week.
+
+8. Meta launches Muse Code, an AI agent for large code bases
+   TechCrunch → https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases
+   Meta has launched Muse Code, an AI agent designed to work with large code bases.
+
+9. AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff
+   VentureBeat → https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff
+   AI startup Hark has launched its first product, Hark Handoff, a fast and affordable computer use agent.
+
+10. Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships
+   TechCrunch → https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships
+   The Trump DOJ now has oversight over OpenAI's green-card employee sponsorships.
+
+
+🏋  GYM PLAYLIST  (~209.9 min)
+────────────────────────────────────────────────────────────────
+1. The AI Selloff Doesn't Match the Data
+   Invest Like The Best · 78.8 min · Finance
+   https://www.youtube.com/watch?v=NGsi2PC4y68
+   The AI selloff does not match the actual data, according to a top AI investor.
+
+2. Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI
+   Talks at Google · 41.1 min · Personal Growth
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   The purpose of education needs to be rethought in the age of AI, according to Rebecca Winthrop.
+
+3. What's Next After RLHF?
+   AI Engineer · 18.1 min · Technology
+   https://www.youtube.com/watch?v=cJ0EOzey--o
+   The next steps after RLHF are discussed in this video.
+
+4. Why Your Best Ideas Come When You Stop Trying
+   EO · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=XPK5qHhBEhE
+   Sometimes the best ideas come when you stop trying, according to Marcus du Sautoy.
+
+5. Sam Altman on AGI, Compute, and Human Agency
+   Invest Like The Best · 55.8 min · Technology
+   https://www.youtube.com/watch?v=XDB5beon4DY
+   Sam Altman discusses AGI, compute, and human agency in this interview.
