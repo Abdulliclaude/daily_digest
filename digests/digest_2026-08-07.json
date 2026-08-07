@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Sources: up to five people tied to US Cyber Command died by suicide from early June to early July 2026, prompting it to flag a potential suicide cluster",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260807/p4#a260807p4",
+      "summary": "US Cyber Command has flagged a potential suicide cluster after five people tied to the command died by suicide from early June to early July 2026."
+    },
+    {
+      "title": "Filing: ex-a16z partner Bryan Kim is forming venture firm Mido Capital; sources: he plans to raise ~$100M for a fund backing early-stage AI and other startups",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260807/p3#a260807p3",
+      "summary": "Ex-a16z partner Bryan Kim is forming a new venture firm called Mido Capital, which plans to raise $100M for a fund backing early-stage AI and other startups."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "IBM",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM has acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "The browser is where attacks land. Why is security still focused on the endpoint?",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/the-browser-is-where-attacks-land-why-is-security-still-focused-on-the-endpoint",
+      "summary": "The browser is where most attacks land, but security is still focused on the endpoint, indicating a need for a shift in security strategies."
+    },
+    {
+      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims",
+      "summary": "Hackers are using social engineering tactics to call financial firm employees and hack and extort victims, according to Google."
+    },
+    {
+      "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+      "summary": "Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi, without the need for cloud or GPUs."
+    },
+    {
+      "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids",
+      "summary": "NASA's new dark-energy space telescope can also detect killer asteroids, providing an additional layer of planetary protection."
+    },
+    {
+      "title": "Trump\u2019s AI protectionism has come for robotics",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
+      "summary": "Trump's AI protectionism has expanded to robotics, potentially impacting the development and deployment of robots in various industries."
+    },
+    {
+      "title": "The best Samsung Galaxy Z Fold 8 and Fold 8 Ultra cases of 2026: Expert recommended",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/best-samsung-galaxy-z-fold-8-cases",
+      "summary": "Experts recommend the best Samsung Galaxy Z Fold 8 and Fold 8 Ultra cases for 2026, considering factors such as protection, style, and functionality."
+    },
+    {
+      "title": "Anthropic will design its own hardware to power Claude",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team",
+      "summary": "Anthropic will design its own hardware to power Claude, marking a significant development in the company's push for AI innovation."
+    }
+  ],
+  "gym": [
+    {
+      "title": "How Ramp engineers work with AI agents at every step",
+      "channel": "Claude",
+      "url": "https://www.youtube.com/watch?v=i4odXOmgMLw",
+      "duration_min": 22.0,
+      "category": "Technology",
+      "summary": "Ramp engineers share their experience working with AI agents, highlighting the benefits and challenges of integrating AI into their workflow."
+    },
+    {
+      "title": "19 Micro Habits Proven By Science to Change Your Life",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=OFWJVkgz5AY",
+      "duration_min": 15.3,
+      "category": "Personal Growth",
+      "summary": "Nischa shares 19 micro habits proven by science to change your life, providing actionable tips for personal growth and development."
+    },
+    {
+      "title": "The State of Model Routing \u2014 NVIDIA, Cognition, OpenRouter",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=QHBjufYK8TA",
+      "duration_min": 48.3,
+      "category": "Technology",
+      "summary": "Experts discuss the state of model routing, exploring the latest developments and innovations in the field, including contributions from NVIDIA, Cognition, and OpenRouter."
+    },
+    {
+      "title": "For First time moms: Getting through the newborn phase!",
+      "channel": "Muzamil Hasan | TBT Podcast",
+      "url": "https://www.youtube.com/watch?v=9oVS_E9q2ww",
+      "duration_min": 18.8,
+      "category": "Personal Growth",
+      "summary": "Muzamil Hasan shares advice and insights for first-time moms on getting through the newborn phase, covering topics such as self-care, relationships, and parenting strategies."
+    },
+    {
+      "title": "This CPO regrets that product management exists",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=ruvis-VWg2s",
+      "duration_min": 85.0,
+      "category": "Technology",
+      "summary": "Tom Verrilli, CPO of Whatnot, shares his thoughts on product management, expressing regret that the role exists and discussing the implications for product development and innovation."
+    }
+  ],
+  "gym_total_min": 189.4,
+  "mode": "live"
+}
