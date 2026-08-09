@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Google's AI shakeup suggests it may be prioritizing AI diffusion over frontier-model leadership",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260809/p4#a260809p4",
+      "summary": "Google's AI shakeup indicates a potential shift in focus from frontier-model leadership to AI diffusion."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "summary": "A planned Amazon data center may become the largest climate polluter in the US due to its massive energy consumption."
+    },
+    {
+      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "summary": "Four AI agents working together in real-time surpassed Claude Opus 4.8 in enterprise coding tasks, demonstrating the potential of collaborative AI."
+    },
+    {
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "summary": "The first self-driving vehicle on Mars has achieved significant success, marking a major milestone in space exploration."
+    },
+    {
+      "title": "Stanford is running 37,000 AI agents as a virtual biotech \u2014 and one of its drug designs got independently confirmed by Merck",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "summary": "Stanford's virtual biotech, comprising 37,000 AI agents, has made a breakthrough in drug design, with one of its designs being independently confirmed by Merck."
+    },
+    {
+      "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "summary": "NASA's new dark-energy space telescope has the additional capability of detecting killer asteroids, providing early warnings for potential threats."
+    },
+    {
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "summary": "A censorship conspiracy theory and the first AI-created virus are among the topics discussed in the latest edition of The Download."
+    },
+    {
+      "title": "Census Proposal Would Stop Counting Undocumented Immigrants\u2014and Ignore Race and Sexual Orientation",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+      "summary": "A proposed change to the US census would exclude undocumented immigrants and omit questions about race and sexual orientation, sparking controversy."
+    },
+    {
+      "title": "Judge rules Meta caused 'public nuisance' and must fund mental health treatment",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "summary": "A judge has ruled that Meta must pay $567 million to fund mental health treatment for youth, citing the company's role in creating public nuisances."
+    }
+  ],
+  "gym": [
+    {
+      "title": "How I Work: $40K/Month Solo App Builder",
+      "channel": "Starter Story",
+      "url": "https://www.youtube.com/watch?v=k-aEdS28AH0",
+      "duration_min": 10.0,
+      "category": "Technology",
+      "summary": "A solo app builder shares their workflow and strategies for achieving a $40,000/month income."
+    },
+    {
+      "title": "Stanford CS Professor: AI Can Code. That\u2019s Why You Should Learn",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=g-CD1d0q01I",
+      "duration_min": 18.2,
+      "category": "Technology",
+      "summary": "A Stanford CS professor discusses the implications of AI's ability to code and why it's essential for humans to learn and adapt."
+    },
+    {
+      "title": "The FIRST Thing Every Founder Must Get Right",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=nEPa7foiGQI",
+      "duration_min": 19.2,
+      "category": "Personal Growth",
+      "summary": "The first thing every founder must get right is discussed, providing valuable insights for entrepreneurs and startups."
+    },
+    {
+      "title": "Innovation and the Center for Global Development",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=xc2NnKThTX0",
+      "duration_min": 22.5,
+      "category": "Finance",
+      "summary": "A talk at Google discusses innovation and its role in global development, highlighting key strategies and initiatives."
+    },
+    {
+      "title": "Rethinking the Purpose of Education in the Age of AI",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=43FZtdF2RcY",
+      "duration_min": 41.1,
+      "category": "Personal Growth",
+      "summary": "The purpose of education in the age of AI is reexamined, with a focus on adapting to the changing landscape and preparing students for the future."
+    },
+    {
+      "title": "A Giant Leap: How AI Is Transforming Healthcare",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=zKMWLs3S9yg",
+      "duration_min": 40.9,
+      "category": "Technology",
+      "summary": "The transformation of healthcare through AI is discussed, highlighting the potential benefits and challenges of this emerging technology."
+    }
+  ],
+  "gym_total_min": 142.9,
+  "mode": "live"
+}

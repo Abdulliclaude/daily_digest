@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-09  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Google's AI shakeup suggests it may be prioritizing AI diffusion over frontier-model leadership
+   Techmeme → https://www.techmeme.com/260809/p4#a260809p4
+   Google's AI shakeup indicates a potential shift in focus from frontier-model leadership to AI diffusion.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Planned Amazon data center could become the biggest climate polluter in the U.S.
+   TechCrunch → https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
+   A planned Amazon data center may become the largest climate polluter in the US due to its massive energy consumption.
+
+4. Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks
+   VentureBeat → https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks
+   Four AI agents working together in real-time surpassed Claude Opus 4.8 in enterprise coding tasks, demonstrating the potential of collaborative AI.
+
+5. The first self-driving vehicle on Mars has proven to be a smashing success
+   Ars Technica → https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/
+   The first self-driving vehicle on Mars has achieved significant success, marking a major milestone in space exploration.
+
+6. Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck
+   VentureBeat → https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck
+   Stanford's virtual biotech, comprising 37,000 AI agents, has made a breakthrough in drug design, with one of its designs being independently confirmed by Merck.
+
+7. NASA’s new dark-energy space telescope can also detect killer asteroids
+   MIT Tech Review → https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
+   NASA's new dark-energy space telescope has the additional capability of detecting killer asteroids, providing early warnings for potential threats.
+
+8. The Download: a censorship conspiracy theory and the first virus created by AI
+   MIT Tech Review → https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/
+   A censorship conspiracy theory and the first AI-created virus are among the topics discussed in the latest edition of The Download.
+
+9. Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation
+   Wired → https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/
+   A proposed change to the US census would exclude undocumented immigrants and omit questions about race and sexual orientation, sparking controversy.
+
+10. Judge rules Meta caused 'public nuisance' and must fund mental health treatment
+   Ars Technica → https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/
+   A judge has ruled that Meta must pay $567 million to fund mental health treatment for youth, citing the company's role in creating public nuisances.
+
+
+🏋  GYM PLAYLIST  (~142.9 min)
+────────────────────────────────────────────────────────────────
+1. How I Work: $40K/Month Solo App Builder
+   Starter Story · 10.0 min · Technology
+   https://www.youtube.com/watch?v=k-aEdS28AH0
+   A solo app builder shares their workflow and strategies for achieving a $40,000/month income.
+
+2. Stanford CS Professor: AI Can Code. That’s Why You Should Learn
+   EO · 18.2 min · Technology
+   https://www.youtube.com/watch?v=g-CD1d0q01I
+   A Stanford CS professor discusses the implications of AI's ability to code and why it's essential for humans to learn and adapt.
+
+3. The FIRST Thing Every Founder Must Get Right
+   EO · 19.2 min · Personal Growth
+   https://www.youtube.com/watch?v=nEPa7foiGQI
+   The first thing every founder must get right is discussed, providing valuable insights for entrepreneurs and startups.
+
+4. Innovation and the Center for Global Development
+   Talks at Google · 22.5 min · Finance
+   https://www.youtube.com/watch?v=xc2NnKThTX0
+   A talk at Google discusses innovation and its role in global development, highlighting key strategies and initiatives.
+
+5. Rethinking the Purpose of Education in the Age of AI
+   Talks at Google · 41.1 min · Personal Growth
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   The purpose of education in the age of AI is reexamined, with a focus on adapting to the changing landscape and preparing students for the future.
+
+6. A Giant Leap: How AI Is Transforming Healthcare
+   Talks at Google · 40.9 min · Technology
+   https://www.youtube.com/watch?v=zKMWLs3S9yg
+   The transformation of healthcare through AI is discussed, highlighting the potential benefits and challenges of this emerging technology.
