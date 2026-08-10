@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-10  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. A profile of Founders Pledge, which has recorded $4B in pledges from founders so far in 2026
+   Wired → https://www.techmeme.com/260810/p5#a260810p5
+   Founders Pledge has seen significant growth, with $4B in pledges from founders in 2026, driven by the AI industry.
+
+2. Revelio Labs: short-term AI training programs made up ~33% of the professional certificate market in 2026
+   Bloomberg → https://www.techmeme.com/260810/p4#a260810p4
+   Short-term AI training programs now account for 33% of the professional certificate market, up from 2% in 2022.
+
+3. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM's acquisition of Red Hat aims to create a leading hybrid cloud provider.
+
+4. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
+   TechCrunch → https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
+   Situational Awareness has invested $400M in chip startup Source Foundry despite being an embattled hedge fund.
+
+5. Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck
+   VentureBeat → https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck
+   Stanford's use of 37,000 AI agents as a virtual biotech has led to a drug design confirmed by Merck.
+
+6. Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks
+   VentureBeat → https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks
+   Coordinating AI agents in real-time can outperform individual models like Claude Opus 4.8 in enterprise coding tasks.
+
+7. Judge rules Meta caused 'public nuisance' and must fund mental health treatment
+   Ars Technica → https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/
+   Meta has been ordered to pay $567M to treat youth mental health problems it helped create.
+
+8. The AI safety test is becoming a safety risk
+   TechCrunch → https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/
+   The AI safety test, meant to ensure AI systems are safe, is itself becoming a safety risk.
+
+9. DeepMind’s hurricane breakthrough has surprised weather scientists
+   Ars Technica → https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/
+   DeepMind's AI model has achieved a breakthrough in hurricane forecasting, surprising weather scientists.
+
+10. NASA’s new dark-energy space telescope can also detect killer asteroids
+   MIT Tech Review → https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
+   NASA's new dark-energy space telescope has the additional capability of detecting killer asteroids.
+
+
+🏋  GYM PLAYLIST  (~217.0 min)
+────────────────────────────────────────────────────────────────
+1. The FIRST Thing Every Founder Must Get Right
+   EO · 19.2 min · Personal Growth
+   https://www.youtube.com/watch?v=nEPa7foiGQI
+   The first thing every founder must get right is identified in this talk.
+
+2. How to Do Good AND Make Money
+   EO · 31.2 min · Finance
+   https://www.youtube.com/watch?v=XAdCstLe2Fw
+   This talk explores how it's possible to do good and make money simultaneously.
+
+3. Benchmarking Coding Agents on New vs Legacy Codebases
+   AI Engineer · 18.1 min · Technology
+   https://www.youtube.com/watch?v=7vn4WpqNpck
+   This video discusses the process and insights from benchmarking coding agents on new versus legacy codebases.
+
+4. Realtime multiplayer, automation, and you!
+   AI Engineer · 21.7 min · Technology
+   https://www.youtube.com/watch?v=iQ5xldZ9StU
+   This talk covers the intersection of realtime multiplayer, automation, and personal impact.
+
+5. Why the Markets Are Pricing AI Wrong
+   Invest Like The Best · 78.8 min · Finance
+   https://www.youtube.com/watch?v=NGsi2PC4y68
+   The speaker discusses why they believe the markets are currently mispricing AI and its potential impact.
+
+6. Stanford CS Professor: AI Can Code. That’s Why You Should Learn
+   EO · 18.2 min · Technology
+   https://www.youtube.com/watch?v=g-CD1d0q01I
+   The Stanford CS Professor argues that AI's ability to code is a reason for humans to learn, not a replacement.

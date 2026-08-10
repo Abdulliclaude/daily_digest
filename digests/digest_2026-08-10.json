@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "A profile of Founders Pledge, which has recorded $4B in pledges from founders so far in 2026",
+      "source": "Wired",
+      "url": "https://www.techmeme.com/260810/p5#a260810p5",
+      "summary": "Founders Pledge has seen significant growth, with $4B in pledges from founders in 2026, driven by the AI industry."
+    },
+    {
+      "title": "Revelio Labs: short-term AI training programs made up ~33% of the professional certificate market in 2026",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260810/p4#a260810p4",
+      "summary": "Short-term AI training programs now account for 33% of the professional certificate market, up from 2% in 2022."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM's acquisition of Red Hat aims to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "summary": "Situational Awareness has invested $400M in chip startup Source Foundry despite being an embattled hedge fund."
+    },
+    {
+      "title": "Stanford is running 37,000 AI agents as a virtual biotech \u2014 and one of its drug designs got independently confirmed by Merck",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "summary": "Stanford's use of 37,000 AI agents as a virtual biotech has led to a drug design confirmed by Merck."
+    },
+    {
+      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "summary": "Coordinating AI agents in real-time can outperform individual models like Claude Opus 4.8 in enterprise coding tasks."
+    },
+    {
+      "title": "Judge rules Meta caused 'public nuisance' and must fund mental health treatment",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "summary": "Meta has been ordered to pay $567M to treat youth mental health problems it helped create."
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "summary": "The AI safety test, meant to ensure AI systems are safe, is itself becoming a safety risk."
+    },
+    {
+      "title": "DeepMind\u2019s hurricane breakthrough has surprised weather scientists",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "summary": "DeepMind's AI model has achieved a breakthrough in hurricane forecasting, surprising weather scientists."
+    },
+    {
+      "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "summary": "NASA's new dark-energy space telescope has the additional capability of detecting killer asteroids."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The FIRST Thing Every Founder Must Get Right",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=nEPa7foiGQI",
+      "duration_min": 19.2,
+      "category": "Personal Growth",
+      "summary": "The first thing every founder must get right is identified in this talk."
+    },
+    {
+      "title": "How to Do Good AND Make Money",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=XAdCstLe2Fw",
+      "duration_min": 31.2,
+      "category": "Finance",
+      "summary": "This talk explores how it's possible to do good and make money simultaneously."
+    },
+    {
+      "title": "Benchmarking Coding Agents on New vs Legacy Codebases",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=7vn4WpqNpck",
+      "duration_min": 18.1,
+      "category": "Technology",
+      "summary": "This video discusses the process and insights from benchmarking coding agents on new versus legacy codebases."
+    },
+    {
+      "title": "Realtime multiplayer, automation, and you!",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=iQ5xldZ9StU",
+      "duration_min": 21.7,
+      "category": "Technology",
+      "summary": "This talk covers the intersection of realtime multiplayer, automation, and personal impact."
+    },
+    {
+      "title": "Why the Markets Are Pricing AI Wrong",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=NGsi2PC4y68",
+      "duration_min": 78.8,
+      "category": "Finance",
+      "summary": "The speaker discusses why they believe the markets are currently mispricing AI and its potential impact."
+    },
+    {
+      "title": "Stanford CS Professor: AI Can Code. That\u2019s Why You Should Learn",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=g-CD1d0q01I",
+      "duration_min": 18.2,
+      "category": "Technology",
+      "summary": "The Stanford CS Professor argues that AI's ability to code is a reason for humans to learn, not a replacement."
+    }
+  ],
+  "gym_total_min": 217.0,
+  "mode": "live"
+}
