@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-11  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. A look at Western Australian police's first live facial recognition trial
+   Techmeme → https://www.techmeme.com/260811/p5#a260811p5
+   Western Australian police's first live facial recognition trial has scanned over 130,000 people since June, raising concerns about accuracy and privacy.
+
+2. Anthropic says new Claude models in the EU will add watermarks to text and C2PA metadata to files
+   The Register → https://www.techmeme.com/260811/p2#a260811p2
+   Anthropic's new Claude models in the EU will include watermarks and metadata to comply with the EU AI Act.
+
+3. IBM acquires Red Hat
+   Hacker News → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM has acquired Red Hat to create a leading hybrid cloud provider.
+
+4. OpenAI reportedly completed a $7 billion employee tender offer
+   TechCrunch → https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
+   OpenAI has reportedly completed a $7 billion employee tender offer, indicating significant growth and investment in the company.
+
+5. As AI-led attacks multiply, OpenAI launches a new cyber model
+   TechCrunch → https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
+   OpenAI has launched a new cyber model to combat the increasing number of AI-led attacks.
+
+6. AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push
+   VentureBeat → https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push
+   AWS Continuum has integrated with OpenAI Codex and Anthropic Claude Code to enhance AI security measures.
+
+7. AI for science needs reasoning, not just data
+   MIT Tech Review → https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/
+   AI for scientific research requires more than just data, it needs reasoning and cognitive abilities to be effective.
+
+8. Why recovery readiness has become the new standard for cyber resilience
+   ZDNet → https://www.zdnet.com/article/why-recovery-readiness-has-become-the-new-standard-for-cyber-resilience/
+   Recovery readiness has become a critical aspect of cyber resilience, as companies need to be prepared to respond to and recover from cyber attacks quickly.
+
+9. Token-maxxing is dead. Agentic memory is what comes next.
+   VentureBeat → https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next
+   The concept of token-maxxing is no longer relevant, and agentic memory is the next step in the evolution of AI and data management.
+
+10. Your agent didn’t hallucinate; it exceeded its authority
+   VentureBeat → https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority
+   When AI agents make mistakes, it's not because they hallucinate, but because they exceed their authority and make decisions that are not within their scope.
+
+
+🏋  GYM PLAYLIST  (~165.6 min)
+────────────────────────────────────────────────────────────────
+1. I Copied A Huge App. Now I Make $80K/Month
+   Starter Story · 13.8 min · Finance
+   https://www.youtube.com/watch?v=GQ27QVp3SzQ
+   The video tells the story of an entrepreneur who copied a successful app and now earns $80,000 per month.
+
+2. Most Valuable Skill of 2026: Managing AI Agents
+   Greg Isenberg · 44.8 min · Technology
+   https://www.youtube.com/watch?v=vJEy3nP2_C8
+   The video discusses the importance of managing AI agents and how it can be a valuable skill in 2026.
+
+3. 19 Micro Habits Proven By Science to Change Your Life
+   Nischa · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=OFWJVkgz5AY
+   The video presents 19 micro habits that are scientifically proven to improve one's life.
+
+4. Why the Markets Are Pricing AI Wrong
+   Invest Like The Best · 78.8 min · Finance
+   https://www.youtube.com/watch?v=NGsi2PC4y68
+   The video discusses how the markets are incorrectly pricing AI and its potential impact on the economy.
+
+5. The Real Reason 'De-Extinction' is Such Big Business
+   The Science of Scaling · 12.1 min · Technology
+   https://www.youtube.com/watch?v=VW0MEU8-3Z8
+   The video explores the reasons behind the growing interest in de-extinction and its potential business applications.
