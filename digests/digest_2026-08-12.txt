@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-12  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Some health and fitness obsessives are using AI for hyperpersonalized training
+   Wall Street Journal → https://www.techmeme.com/260812/p6#a260812p6
+   Health and fitness enthusiasts are utilizing AI to create customized training plans, analyzing sleep, workouts, and diet.
+
+2. Briter: Africa-focused startups raised $3.3B in H1 2026
+   Bloomberg → https://www.techmeme.com/260812/p5#a260812p5
+   Africa-focused startups have seen a significant increase in funding, raising $3.3 billion in the first half of 2026.
+
+3. Bengaluru-based Yulu, which gets ~95% of its revenue from renting e-bikes to gig workers, raised a $93M Series C
+   TechCrunch → https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/
+   Yulu, an e-bike rental company, has raised $93 million in Series C funding, driven by the growth of quick-commerce.
+
+4. IBM is not doing "cognitive computing" with Watson
+   Hacker News → http://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI
+   IBM's Watson is not truly capable of cognitive computing, according to an expert.
+
+5. Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs
+   VentureBeat → https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs
+   Enterprises are investing in AI compute for speed, but often lack visibility into the costs.
+
+6. Gemini becomes Google's fastest-growing product ever as it hits 1B users
+   Ars Technica → https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/
+   Gemini has reached 1 billion users, becoming Google's fastest-growing product ever.
+
+7. Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five
+   VentureBeat → https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five
+   Enterprises often fail to properly secure their AI agents, with many not enforcing permissions or isolating high-risk agents.
+
+8. AI for science needs reasoning, not just data
+   MIT Tech Review → https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/
+   AI systems for scientific research require more than just data, they need the ability to reason and understand the context.
+
+9. Why software factories are back - and how they work in the age of AI
+   ZDNet → https://www.zdnet.com/article/why-software-factories-are-back-ai/
+   Software factories are making a comeback, leveraging AI to improve efficiency and productivity.
+
+10. Sources: Singapore-based data center operator DayOne confidentially files for a US IPO
+   Bloomberg → https://www.techmeme.com/260812/p3#a260812p3
+   DayOne, a Singapore-based data center operator, has confidentially filed for a US IPO.
+
+
+🏋  GYM PLAYLIST  (~161.7 min)
+────────────────────────────────────────────────────────────────
+1. 19 Micro Habits Proven By Science to Change Your Life
+   Nischa · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=OFWJVkgz5AY
+   This video discusses 19 micro habits that can have a significant impact on one's life, backed by scientific research.
+
+2. ACCOUNTANT EXPLAINS: Never Finance A Car This Way
+   Nischa · 13.4 min · Finance
+   https://www.youtube.com/watch?v=VqVMKTNOHVA
+   An accountant explains the pitfalls of financing a car in a particular way, providing valuable advice for potential car buyers.
+
+3. Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI
+   Talks at Google · 41.1 min · Technology
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   This talk explores the need to reevaluate the purpose of education in the age of AI, considering its potential impact on the workforce and society.
+
+4. Velocity Sickness: What Happens When Your Whole Team Gets 10x Faster — Matt Dailey, Ref.
+   AI Engineer · 20.6 min · Technology
+   https://www.youtube.com/watch?v=Kz4QJmNrVXU
+   This video discusses the concept of 'velocity sickness,' which occurs when a team's productivity increases dramatically, and explores its implications.
+
+5. The Power of Real Optimism
+   Talks at Google · 39.5 min · Personal Growth
+   https://www.youtube.com/watch?v=cgPAAt9Nd7o
+   This talk delves into the concept of 'real optimism,' discussing its benefits and how it can be applied in everyday life.
+
+6. Evolution of agentic surfaces — Gagan Bhat & Isabella Kai He, Anthropic
+   AI Engineer · 31.4 min · Technology
+   https://www.youtube.com/watch?v=K0X9QDRkIdg
+   This video explores the evolution of agentic surfaces, a key aspect of AI development, with insights from experts in the field.

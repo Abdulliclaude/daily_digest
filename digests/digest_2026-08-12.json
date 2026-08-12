@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Some health and fitness obsessives are using AI for hyperpersonalized training",
+      "source": "Wall Street Journal",
+      "url": "https://www.techmeme.com/260812/p6#a260812p6",
+      "summary": "Health and fitness enthusiasts are utilizing AI to create customized training plans, analyzing sleep, workouts, and diet."
+    },
+    {
+      "title": "Briter: Africa-focused startups raised $3.3B in H1 2026",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260812/p5#a260812p5",
+      "summary": "Africa-focused startups have seen a significant increase in funding, raising $3.3 billion in the first half of 2026."
+    },
+    {
+      "title": "Bengaluru-based Yulu, which gets ~95% of its revenue from renting e-bikes to gig workers, raised a $93M Series C",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "summary": "Yulu, an e-bike rental company, has raised $93 million in Series C funding, driven by the growth of quick-commerce."
+    },
+    {
+      "title": "IBM is not doing \"cognitive computing\" with Watson",
+      "source": "Hacker News",
+      "url": "http://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI",
+      "summary": "IBM's Watson is not truly capable of cognitive computing, according to an expert."
+    },
+    {
+      "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+      "summary": "Enterprises are investing in AI compute for speed, but often lack visibility into the costs."
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "summary": "Gemini has reached 1 billion users, becoming Google's fastest-growing product ever."
+    },
+    {
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time \u2014 and isolate high-risk agents less than one in five",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "summary": "Enterprises often fail to properly secure their AI agents, with many not enforcing permissions or isolating high-risk agents."
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "summary": "AI systems for scientific research require more than just data, they need the ability to reason and understand the context."
+    },
+    {
+      "title": "Why software factories are back - and how they work in the age of AI",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/why-software-factories-are-back-ai/",
+      "summary": "Software factories are making a comeback, leveraging AI to improve efficiency and productivity."
+    },
+    {
+      "title": "Sources: Singapore-based data center operator DayOne confidentially files for a US IPO",
+      "source": "Bloomberg",
+      "url": "https://www.techmeme.com/260812/p3#a260812p3",
+      "summary": "DayOne, a Singapore-based data center operator, has confidentially filed for a US IPO."
+    }
+  ],
+  "gym": [
+    {
+      "title": "19 Micro Habits Proven By Science to Change Your Life",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=OFWJVkgz5AY",
+      "duration_min": 15.3,
+      "category": "Personal Growth",
+      "summary": "This video discusses 19 micro habits that can have a significant impact on one's life, backed by scientific research."
+    },
+    {
+      "title": "ACCOUNTANT EXPLAINS: Never Finance A Car This Way",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=VqVMKTNOHVA",
+      "duration_min": 13.4,
+      "category": "Finance",
+      "summary": "An accountant explains the pitfalls of financing a car in a particular way, providing valuable advice for potential car buyers."
+    },
+    {
+      "title": "Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=43FZtdF2RcY",
+      "duration_min": 41.1,
+      "category": "Technology",
+      "summary": "This talk explores the need to reevaluate the purpose of education in the age of AI, considering its potential impact on the workforce and society."
+    },
+    {
+      "title": "Velocity Sickness: What Happens When Your Whole Team Gets 10x Faster \u2014 Matt Dailey, Ref.",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=Kz4QJmNrVXU",
+      "duration_min": 20.6,
+      "category": "Technology",
+      "summary": "This video discusses the concept of 'velocity sickness,' which occurs when a team's productivity increases dramatically, and explores its implications."
+    },
+    {
+      "title": "The Power of Real Optimism",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=cgPAAt9Nd7o",
+      "duration_min": 39.5,
+      "category": "Personal Growth",
+      "summary": "This talk delves into the concept of 'real optimism,' discussing its benefits and how it can be applied in everyday life."
+    },
+    {
+      "title": "Evolution of agentic surfaces \u2014 Gagan Bhat & Isabella Kai He, Anthropic",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=K0X9QDRkIdg",
+      "duration_min": 31.4,
+      "category": "Technology",
+      "summary": "This video explores the evolution of agentic surfaces, a key aspect of AI development, with insights from experts in the field."
+    }
+  ],
+  "gym_total_min": 161.7,
+  "mode": "live"
+}
