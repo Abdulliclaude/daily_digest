@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "In Q2 2026, server-led eSSDs reached 48% of NAND flash shipments",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260813/p14#a260813p14",
+      "summary": "Server-led eSSDs reached 48% of NAND flash shipments in Q2 2026, driven by AI workloads shifting from training to inference."
+    },
+    {
+      "title": "A look at workers in India who are paid extra to wear devices that capture first-person video of factory and other work tasks",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260813/p13#a260813p13",
+      "summary": "Workers in India are paid to wear devices that capture video of their work tasks for AI robot training data."
+    },
+    {
+      "title": "Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260813/p11#a260813p11",
+      "summary": "Lenovo's Q1 revenue grew 43% YoY, driven by a 60% increase in AI-related revenue."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "summary": "Most enterprises struggle to contain rogue AI agents despite securing their identities."
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data",
+      "summary": "Trustworthy data is crucial for scaling AI agents effectively."
+    },
+    {
+      "title": "The web\u2019s newest weapon against AI scrapers is a font",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers",
+      "summary": "A new font can render webpage text as nonsense to AI scrapers."
+    },
+    {
+      "title": "Scientists just created female clones of male mice",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice",
+      "summary": "Scientists successfully created female clones of male mice using genetic editing techniques."
+    },
+    {
+      "title": "Trust Needs Proof: Who Really Controls Your AI?",
+      "source": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=zWo-v_ZJnvA",
+      "summary": "The control and trust of AI systems are critical concerns in the development and deployment of AI technology."
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation",
+      "summary": "AI coding startup Cognition is reportedly in talks to raise funding at a $40B valuation."
+    }
+  ],
+  "gym": [
+    {
+      "title": "The playbook for building high talent density teams",
+      "channel": "Lenny's Podcast",
+      "url": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
+      "duration_min": 90.8,
+      "category": "Personal Growth",
+      "summary": "This podcast discusses strategies for building teams with high talent density."
+    },
+    {
+      "title": "Everyone Is Still Undersizing the AI Market",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
+      "duration_min": 77.9,
+      "category": "Technology",
+      "summary": "This interview explores the potential of the AI market and why it may be underestimated."
+    },
+    {
+      "title": "Never Finance A Car This Way (2026)",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=VqVMKTNOHVA",
+      "duration_min": 13.4,
+      "category": "Finance",
+      "summary": "This video provides advice on how to avoid common mistakes when financing a car."
+    },
+    {
+      "title": "19 Micro Habits Proven By Science to Change Your Life",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=OFWJVkgz5AY",
+      "duration_min": 15.3,
+      "category": "Personal Growth",
+      "summary": "This video discusses small habits that can have a significant impact on one's life."
+    },
+    {
+      "title": "What TEN years of MARRIAGE taught me",
+      "channel": "Muzamil Hasan | TBT Podcast",
+      "url": "https://www.youtube.com/watch?v=CVcYCiuweRw",
+      "duration_min": 19.5,
+      "category": "Personal Growth",
+      "summary": "This podcast shares lessons learned from ten years of marriage."
+    }
+  ],
+  "gym_total_min": 217,
+  "mode": "live"
+}

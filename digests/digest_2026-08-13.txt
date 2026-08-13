@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-13  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. In Q2 2026, server-led eSSDs reached 48% of NAND flash shipments
+   Techmeme → https://www.techmeme.com/260813/p14#a260813p14
+   Server-led eSSDs reached 48% of NAND flash shipments in Q2 2026, driven by AI workloads shifting from training to inference.
+
+2. A look at workers in India who are paid extra to wear devices that capture first-person video of factory and other work tasks
+   Techmeme → https://www.techmeme.com/260813/p13#a260813p13
+   Workers in India are paid to wear devices that capture video of their work tasks for AI robot training data.
+
+3. Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years
+   Techmeme → https://www.techmeme.com/260813/p11#a260813p11
+   Lenovo's Q1 revenue grew 43% YoY, driven by a 60% increase in AI-related revenue.
+
+4. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+5. Four of five enterprises that secured AI agent identities still can't contain one that goes rogue
+   VentureBeat → https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue
+   Most enterprises struggle to contain rogue AI agents despite securing their identities.
+
+6. Scaling AI agents with trustworthy data
+   MIT Tech Review → https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data
+   Trustworthy data is crucial for scaling AI agents effectively.
+
+7. The web’s newest weapon against AI scrapers is a font
+   Ars Technica → https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers
+   A new font can render webpage text as nonsense to AI scrapers.
+
+8. Scientists just created female clones of male mice
+   MIT Tech Review → https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice
+   Scientists successfully created female clones of male mice using genetic editing techniques.
+
+9. Trust Needs Proof: Who Really Controls Your AI?
+   IBM Technology → https://www.youtube.com/watch?v=zWo-v_ZJnvA
+   The control and trust of AI systems are critical concerns in the development and deployment of AI technology.
+
+10. AI coding startup Cognition reportedly already in talks to raise at $40B valuation
+   TechCrunch → https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation
+   AI coding startup Cognition is reportedly in talks to raise funding at a $40B valuation.
+
+
+🏋  GYM PLAYLIST  (~217 min)
+────────────────────────────────────────────────────────────────
+1. The playbook for building high talent density teams
+   Lenny's Podcast · 90.8 min · Personal Growth
+   https://www.youtube.com/watch?v=zegYJ6dhIg4
+   This podcast discusses strategies for building teams with high talent density.
+
+2. Everyone Is Still Undersizing the AI Market
+   Invest Like The Best · 77.9 min · Technology
+   https://www.youtube.com/watch?v=0e7aG_MIHlQ
+   This interview explores the potential of the AI market and why it may be underestimated.
+
+3. Never Finance A Car This Way (2026)
+   Nischa · 13.4 min · Finance
+   https://www.youtube.com/watch?v=VqVMKTNOHVA
+   This video provides advice on how to avoid common mistakes when financing a car.
+
+4. 19 Micro Habits Proven By Science to Change Your Life
+   Nischa · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=OFWJVkgz5AY
+   This video discusses small habits that can have a significant impact on one's life.
+
+5. What TEN years of MARRIAGE taught me
+   Muzamil Hasan | TBT Podcast · 19.5 min · Personal Growth
+   https://www.youtube.com/watch?v=CVcYCiuweRw
+   This podcast shares lessons learned from ten years of marriage.
