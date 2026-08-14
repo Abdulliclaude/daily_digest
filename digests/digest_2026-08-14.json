@@ -1,0 +1,116 @@
+{
+  "morning": [
+    {
+      "title": "Z.ai debuts GLM-5.3",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260814/p5#a260814p5",
+      "summary": "Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Sources: Apple trained a China-specific LLM with Alibaba's support",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260814/p2#a260814p2",
+      "summary": "Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China."
+    },
+    {
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "summary": "If Apple sends a push notification about a spyware attack, it is a serious matter that requires immediate attention."
+    },
+    {
+      "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "summary": "OpenAI introduced a new mode called Ultrafast, which makes GPT-5.6 Sol work 14 times faster than before."
+    },
+    {
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "summary": "The White House will allow private security firms to hack overseas cybercriminals to combat cybercrime."
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "Writer introduced a new AI model and an upgraded harness to reduce token costs."
+    },
+    {
+      "title": "Why Capital One built its multi-agent AI platform around open-weight models",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+      "summary": "Capital One built its multi-agent AI platform around open-weight models to improve efficiency and scalability."
+    },
+    {
+      "title": "Building a practical path to post-quantum cryptography",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "summary": "Researchers are working on building a practical path to post-quantum cryptography to ensure data security in the future."
+    },
+    {
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
+      "source": "Hacker News (IBM)",
+      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "summary": "IBM's CEO stated that spending on AI data centers will not pay off, questioning the financial viability of such investments."
+    }
+  ],
+  "gym": [
+    {
+      "title": "Everyone Is Still Undersizing the AI Market",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
+      "duration_min": 77.9,
+      "category": "Technology",
+      "summary": "The AI market is still being underestimated, with many investors and companies not fully grasping its potential impact."
+    },
+    {
+      "title": "Ep. 45, Indigenous Stewardship for Sustainability",
+      "channel": "Stanford Graduate School of Business",
+      "url": "https://www.youtube.com/watch?v=UjJ2-6eurFA",
+      "duration_min": 19.1,
+      "category": "Personal Growth",
+      "summary": "The episode discusses indigenous stewardship and its importance for sustainability, highlighting the need for environmentally responsible practices."
+    },
+    {
+      "title": "What TEN years of MARRIAGE taught me",
+      "channel": "Muzamil Hasan | TBT Podcast",
+      "url": "https://www.youtube.com/watch?v=CVcYCiuweRw",
+      "duration_min": 19.5,
+      "category": "Personal Growth",
+      "summary": "The speaker shares his insights and lessons learned from ten years of marriage, discussing the importance of communication and relationship building."
+    },
+    {
+      "title": "Improving Agents is a Data Mining Problem \u2014 Vivek Trivedy, LangChain",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=CvRngaQZQ3Y",
+      "duration_min": 20.0,
+      "category": "Technology",
+      "summary": "The speaker discusses how improving agents can be approached as a data mining problem, highlighting the need for data-driven strategies in AI development."
+    },
+    {
+      "title": "Why the Markets Are Pricing AI Wrong",
+      "channel": "Invest Like The Best",
+      "url": "https://www.youtube.com/watch?v=NGsi2PC4y68",
+      "duration_min": 78.8,
+      "category": "Finance",
+      "summary": "The speaker argues that markets are mispricing AI, underestimating its potential impact and overestimating the challenges associated with its development and implementation."
+    },
+    {
+      "title": "How Bass Pro Shops Hacks Your Brain",
+      "channel": "The Science of Scaling",
+      "url": "https://www.youtube.com/watch?v=90EU_U2Nt4c",
+      "duration_min": 13.3,
+      "category": "Technology",
+      "summary": "The video explores how Bass Pro Shops uses psychological strategies to influence customer behavior and drive sales."
+    }
+  ],
+  "gym_total_min": 229.5,
+  "mode": "live"
+}

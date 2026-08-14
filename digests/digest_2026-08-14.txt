@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-14  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Z.ai debuts GLM-5.3
+   Techmeme → https://www.techmeme.com/260814/p5#a260814p5
+   Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills.
+
+2. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Sources: Apple trained a China-specific LLM with Alibaba's support
+   Techmeme → https://www.techmeme.com/260814/p2#a260814p2
+   Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China.
+
+4. If Apple sends you a push notification alerting you to a spyware attack, take it seriously
+   TechCrunch → https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/
+   If Apple sends a push notification about a spyware attack, it is a serious matter that requires immediate attention.
+
+5. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed
+   TechCrunch → https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/
+   OpenAI introduced a new mode called Ultrafast, which makes GPT-5.6 Sol work 14 times faster than before.
+
+6. Private security firms will soon be allowed to hack overseas cybercriminals
+   Ars Technica → https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/
+   The White House will allow private security firms to hack overseas cybercriminals to combat cybercrime.
+
+7. Writer introduces new AI model and upgraded harness to contain token costs
+   TechCrunch → https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/
+   Writer introduced a new AI model and an upgraded harness to reduce token costs.
+
+8. Why Capital One built its multi-agent AI platform around open-weight models
+   VentureBeat → https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models
+   Capital One built its multi-agent AI platform around open-weight models to improve efficiency and scalability.
+
+9. Building a practical path to post-quantum cryptography
+   MIT Tech Review → https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/
+   Researchers are working on building a practical path to post-quantum cryptography to ensure data security in the future.
+
+10. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Hacker News (IBM) → https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+   IBM's CEO stated that spending on AI data centers will not pay off, questioning the financial viability of such investments.
+
+
+🏋  GYM PLAYLIST  (~229.5 min)
+────────────────────────────────────────────────────────────────
+1. Everyone Is Still Undersizing the AI Market
+   Invest Like The Best · 77.9 min · Technology
+   https://www.youtube.com/watch?v=0e7aG_MIHlQ
+   The AI market is still being underestimated, with many investors and companies not fully grasping its potential impact.
+
+2. Ep. 45, Indigenous Stewardship for Sustainability
+   Stanford Graduate School of Business · 19.1 min · Personal Growth
+   https://www.youtube.com/watch?v=UjJ2-6eurFA
+   The episode discusses indigenous stewardship and its importance for sustainability, highlighting the need for environmentally responsible practices.
+
+3. What TEN years of MARRIAGE taught me
+   Muzamil Hasan | TBT Podcast · 19.5 min · Personal Growth
+   https://www.youtube.com/watch?v=CVcYCiuweRw
+   The speaker shares his insights and lessons learned from ten years of marriage, discussing the importance of communication and relationship building.
+
+4. Improving Agents is a Data Mining Problem — Vivek Trivedy, LangChain
+   AI Engineer · 20.0 min · Technology
+   https://www.youtube.com/watch?v=CvRngaQZQ3Y
+   The speaker discusses how improving agents can be approached as a data mining problem, highlighting the need for data-driven strategies in AI development.
+
+5. Why the Markets Are Pricing AI Wrong
+   Invest Like The Best · 78.8 min · Finance
+   https://www.youtube.com/watch?v=NGsi2PC4y68
+   The speaker argues that markets are mispricing AI, underestimating its potential impact and overestimating the challenges associated with its development and implementation.
+
+6. How Bass Pro Shops Hacks Your Brain
+   The Science of Scaling · 13.3 min · Technology
+   https://www.youtube.com/watch?v=90EU_U2Nt4c
+   The video explores how Bass Pro Shops uses psychological strategies to influence customer behavior and drive sales.
