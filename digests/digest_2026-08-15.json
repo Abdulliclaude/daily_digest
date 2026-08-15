@@ -1,0 +1,108 @@
+{
+  "morning": [
+    {
+      "title": "Effective Altruism, hit by the SBF turmoil, is drawing record funding",
+      "source": "Financial Times",
+      "url": "https://www.techmeme.com/260815/p7#a260815p7",
+      "summary": "Effective Altruism is receiving record funding due to upcoming Anthropic and OpenAI IPOs."
+    },
+    {
+      "title": "IBM acquires Red Hat",
+      "source": "IBM",
+      "url": "https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider",
+      "summary": "IBM acquired Red Hat to create a leading hybrid cloud provider."
+    },
+    {
+      "title": "Point2 Technology, which develops RF-based data center interconnection tech, raised a $136M Series B",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/260815/p6#a260815p6",
+      "summary": "Point2 Technology raised $136M in Series B funding for its RF-based data center interconnection technology."
+    },
+    {
+      "title": "Google Meet can take notes for your in-person meetings now - here's how it works",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/",
+      "summary": "Google Meet can now take notes for in-person meetings, streamlining the meeting process."
+    },
+    {
+      "title": "Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal's structure",
+      "source": "The Economic Times",
+      "url": "https://www.techmeme.com/260815/p3#a260815p3",
+      "summary": "Uber and Rapido discussed merging their India ride-hailing operations but talks collapsed due to disagreements."
+    },
+    {
+      "title": "GLM-5.3 is here with advanced cyber capabilities \u2014 and reportedly already found a 'serious vulnerability' in Cursor",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "summary": "GLM-5.3 has advanced cyber capabilities and discovered a serious vulnerability in Cursor."
+    },
+    {
+      "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "summary": "Flock's new rules, cloning's future, and children's cells are discussed in the latest Download article."
+    },
+    {
+      "title": "Building a practical path to post-quantum cryptography",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography",
+      "summary": "The article discusses building a practical path to post-quantum cryptography."
+    },
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "summary": "A vulnerability giving attackers full control of Macs is under active exploitation."
+    },
+    {
+      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "summary": "Writer's new Palmyra X6 model reduces AI agent costs by 52% as token spending increases."
+    }
+  ],
+  "gym": [
+    {
+      "title": "My top secrets to running an AI Agent Workforce",
+      "channel": "Greg Isenberg",
+      "url": "https://www.youtube.com/watch?v=EzQAgnjTq2k",
+      "duration_min": 48.5,
+      "category": "Technology",
+      "summary": "The video shares secrets to running an AI agent workforce."
+    },
+    {
+      "title": "19 Micro Habits Proven By Science to Change Your Life",
+      "channel": "Nischa",
+      "url": "https://www.youtube.com/watch?v=OFWJVkgz5AY",
+      "duration_min": 15.3,
+      "category": "Personal Growth",
+      "summary": "The video discusses 19 micro habits proven by science to change your life."
+    },
+    {
+      "title": "The Rise of CaaS: Context-as-a-Service for Agentic AI \u2014 Omer Primor, Bright Data",
+      "channel": "AI Engineer",
+      "url": "https://www.youtube.com/watch?v=Ot4OPrPH4xY",
+      "duration_min": 22.3,
+      "category": "Technology",
+      "summary": "The video discusses the rise of Context-as-a-Service for agentic AI."
+    },
+    {
+      "title": "I Copied A Huge App. Now I Make $80K/Month",
+      "channel": "Starter Story",
+      "url": "https://www.youtube.com/watch?v=GQ27QVp3SzQ",
+      "duration_min": 13.8,
+      "category": "Finance",
+      "summary": "The video shares a story of copying a huge app and making $80K/month."
+    },
+    {
+      "title": "Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI",
+      "channel": "Talks at Google",
+      "url": "https://www.youtube.com/watch?v=43FZtdF2RcY",
+      "duration_min": 41.1,
+      "category": "Technology",
+      "summary": "The video discusses rethinking the purpose of education in the age of AI."
+    }
+  ],
+  "gym_total_min": 41.0,
+  "mode": "live"
+}

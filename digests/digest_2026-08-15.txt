@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-15  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Effective Altruism, hit by the SBF turmoil, is drawing record funding
+   Financial Times → https://www.techmeme.com/260815/p7#a260815p7
+   Effective Altruism is receiving record funding due to upcoming Anthropic and OpenAI IPOs.
+
+2. IBM acquires Red Hat
+   IBM → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+3. Point2 Technology, which develops RF-based data center interconnection tech, raised a $136M Series B
+   Techmeme → https://www.techmeme.com/260815/p6#a260815p6
+   Point2 Technology raised $136M in Series B funding for its RF-based data center interconnection technology.
+
+4. Google Meet can take notes for your in-person meetings now - here's how it works
+   ZDNet → https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/
+   Google Meet can now take notes for in-person meetings, streamlining the meeting process.
+
+5. Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal's structure
+   The Economic Times → https://www.techmeme.com/260815/p3#a260815p3
+   Uber and Rapido discussed merging their India ride-hailing operations but talks collapsed due to disagreements.
+
+6. GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor
+   VentureBeat → https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor
+   GLM-5.3 has advanced cyber capabilities and discovered a serious vulnerability in Cursor.
+
+7. The Download: Flock’s new rules, cloning’s future, and children’s cells
+   MIT Tech Review → https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/
+   Flock's new rules, cloning's future, and children's cells are discussed in the latest Download article.
+
+8. Building a practical path to post-quantum cryptography
+   MIT Tech Review → https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography
+   The article discusses building a practical path to post-quantum cryptography.
+
+9. Vulnerability giving attackers full control of Macs is under active exploitation
+   Ars Technica → https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/
+   A vulnerability giving attackers full control of Macs is under active exploitation.
+
+10. Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges
+   VentureBeat → https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges
+   Writer's new Palmyra X6 model reduces AI agent costs by 52% as token spending increases.
+
+
+🏋  GYM PLAYLIST  (~41.0 min)
+────────────────────────────────────────────────────────────────
+1. My top secrets to running an AI Agent Workforce
+   Greg Isenberg · 48.5 min · Technology
+   https://www.youtube.com/watch?v=EzQAgnjTq2k
+   The video shares secrets to running an AI agent workforce.
+
+2. 19 Micro Habits Proven By Science to Change Your Life
+   Nischa · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=OFWJVkgz5AY
+   The video discusses 19 micro habits proven by science to change your life.
+
+3. The Rise of CaaS: Context-as-a-Service for Agentic AI — Omer Primor, Bright Data
+   AI Engineer · 22.3 min · Technology
+   https://www.youtube.com/watch?v=Ot4OPrPH4xY
+   The video discusses the rise of Context-as-a-Service for agentic AI.
+
+4. I Copied A Huge App. Now I Make $80K/Month
+   Starter Story · 13.8 min · Finance
+   https://www.youtube.com/watch?v=GQ27QVp3SzQ
+   The video shares a story of copying a huge app and making $80K/month.
+
+5. Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI
+   Talks at Google · 41.1 min · Technology
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   The video discusses rethinking the purpose of education in the age of AI.
