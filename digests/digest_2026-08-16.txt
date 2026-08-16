@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════╗
+║  DAILY DIGEST  ·  2026-08-16  [live]                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+☀  MORNING READ
+────────────────────────────────────────────────────────────────
+1. Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs
+   Techmeme → https://www.techmeme.com/260816/p4#a260816p4
+   Most math problems solved by LLMs have been via counterexamples rather than proofs.
+
+2. Hugging Face says developers made 151K+ derivatives based on Qwen models, topping others, making Qwen one of the largest foundations in the open model ecosystem
+   Techmeme → https://www.techmeme.com/260816/p3#a260816p3
+   Qwen models have been used to create over 151K derivatives, making it a large foundation in the open model ecosystem.
+
+3. IBM acquires Red Hat
+   Hacker News (IBM) → https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider
+   IBM acquired Red Hat to create a leading hybrid cloud provider.
+
+4. An eval harness found what qualitative review couldn't: AI models are most confident when wrong
+   VentureBeat → https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong
+   AI models tend to be most confident when their predictions are incorrect.
+
+5. Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut
+   VentureBeat → https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut
+   Google's Gemini 3.7 Flash offers a 50% introductory price cut for coding and agents.
+
+6. How to tell if your AI platforms’ accounts have been hacked
+   TechCrunch → https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked
+   The article provides tips on how to detect if an AI platform's account has been hacked.
+
+7. Vulnerability giving attackers full control of Macs is under active exploitation
+   Ars Technica → https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation
+   A vulnerability in Macs is being actively exploited, giving attackers full control.
+
+8. Every fusion startup that has raised over $100M
+   TechCrunch → https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m
+   The article lists fusion startups that have raised over $100M in funding.
+
+9. The Download: Flock’s new rules, cloning’s future, and children’s cells
+   MIT Tech Review → https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future
+   The article discusses Flock's new rules, cloning's future, and children's cells in its latest Download edition.
+
+10. Why Capital One built its multi-agent AI platform around open-weight models
+   VentureBeat → https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models
+   Capital One built its multi-agent AI platform around open-weight models for flexibility and customization.
+
+
+🏋  GYM PLAYLIST  (~134.1 min)
+────────────────────────────────────────────────────────────────
+1. ACCOUNTANT EXPLAINS: Never Finance A Car This Way (2026)
+   Nischa · 13.4 min · Finance
+   https://www.youtube.com/watch?v=VqVMKTNOHVA
+   The accountant explains why certain car financing methods should be avoided.
+
+2. 19 Micro Habits Proven By Science to Change Your Life
+   Nischa · 15.3 min · Personal Growth
+   https://www.youtube.com/watch?v=OFWJVkgz5AY
+   The video discusses 19 micro habits that can positively impact one's life.
+
+3. How Web Data Infrastructure Powers the Next Generation of AI — Patricija Žemaitytė, Oxylabs
+   AI Engineer · 19.1 min · Technology
+   https://www.youtube.com/watch?v=1UmZHb_E_SM
+   The speaker discusses how web data infrastructure powers the next generation of AI.
+
+4. Things we should be teaching our kids | Part I
+   Muzamil Hasan | TBT Podcast · 11.3 min · Personal Growth
+   https://www.youtube.com/watch?v=_Apn-Rf1ko8
+   The podcast discusses essential values and skills that parents should teach their children.
+
+5. Rachel Glennerster | Innovation and the Center for Global Development | Talks at Google
+   Talks at Google · 22.5 min · Technology
+   https://www.youtube.com/watch?v=xc2NnKThTX0
+   Rachel Glennerster discusses innovation and the Center for Global Development at Talks at Google.
+
+6. Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI | Talks at Google
+   Talks at Google · 41.1 min · Technology
+   https://www.youtube.com/watch?v=43FZtdF2RcY
+   Rebecca Winthrop discusses rethinking education in the age of AI at Talks at Google.
